@@ -1,0 +1,1258 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>美加股市动向观察台</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17202a;
+      --muted: #5f6d7a;
+      --line: #dce3ea;
+      --paper: #f6f8fb;
+      --panel: #ffffff;
+      --panel-soft: #fbfcfe;
+      --navy: #1d3557;
+      --teal: #0f766e;
+      --amber: #b7791f;
+      --rose: #b91c1c;
+      --green: #15803d;
+      --blue: #2563eb;
+      --violet: #6d28d9;
+      --shadow: 0 18px 40px rgba(23, 32, 42, 0.08);
+      --shadow-soft: 0 10px 22px rgba(23, 32, 42, 0.06);
+      --radius: 8px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        linear-gradient(180deg, #eef4f9 0, #f7f9fc 360px, #f6f8fb 100%);
+      color: var(--ink);
+      line-height: 1.55;
+      letter-spacing: 0;
+    }
+
+    a { color: inherit; }
+
+    .shell {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(246, 248, 251, 0.92);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(220, 227, 234, 0.9);
+    }
+
+    .topbar-inner {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 10px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+    }
+
+    .brand {
+      font-weight: 900;
+      color: var(--navy);
+      white-space: nowrap;
+    }
+
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+
+    .nav-links a {
+      padding: 7px 9px;
+      border-radius: 8px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .nav-links a:hover {
+      color: var(--ink);
+      background: var(--panel);
+    }
+
+    .hero {
+      min-height: 82vh;
+      display: grid;
+      grid-template-columns: minmax(0, 0.95fr) minmax(360px, 1.05fr);
+      gap: 24px;
+      align-items: stretch;
+      padding: 28px 0 18px;
+    }
+
+    .hero-copy {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 22px;
+    }
+
+    .eyebrow {
+      width: fit-content;
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 999px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 780px;
+      font-size: clamp(42px, 6.4vw, 76px);
+      line-height: 0.98;
+      font-weight: 850;
+      letter-spacing: 0;
+    }
+
+    .lead {
+      max-width: 680px;
+      margin: 0;
+      font-size: 18px;
+      color: var(--muted);
+    }
+
+    .hero-actions,
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    button,
+    .link-button,
+    .search-control {
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--ink);
+      padding: 9px 14px;
+      font-weight: 800;
+      cursor: pointer;
+      text-decoration: none;
+      transition: transform 140ms ease, border-color 140ms ease, background 140ms ease;
+    }
+
+    .search-control {
+      min-width: 220px;
+      font-weight: 700;
+      cursor: text;
+    }
+
+    .search-control::placeholder {
+      color: #8a97a5;
+    }
+
+    button:hover,
+    .link-button:hover {
+      transform: translateY(-1px);
+      border-color: #a8b5c2;
+    }
+
+    button.active,
+    .link-button.primary {
+      background: var(--navy);
+      color: #fff;
+      border-color: var(--navy);
+    }
+
+    .market-visual {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      min-height: 620px;
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .pulse-card,
+    .workflow-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-soft);
+      padding: 16px;
+    }
+
+    .pulse-card small,
+    .workflow-card small {
+      display: block;
+      color: var(--muted);
+      font-weight: 850;
+      margin-bottom: 8px;
+    }
+
+    .pulse-card strong {
+      display: block;
+      font-size: 22px;
+      line-height: 1.15;
+      margin-bottom: 8px;
+    }
+
+    .pulse-card p,
+    .workflow-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .tone-positive { border-top: 4px solid var(--green); }
+    .tone-watch { border-top: 4px solid var(--amber); }
+    .tone-risk { border-top: 4px solid var(--rose); }
+    .tone-info { border-top: 4px solid var(--blue); }
+
+    .visual-top {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .metric {
+      padding: 18px;
+      border-right: 1px solid var(--line);
+    }
+
+    .metric:last-child { border-right: 0; }
+
+    .metric small {
+      display: block;
+      color: var(--muted);
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+
+    .metric strong {
+      font-size: 26px;
+      line-height: 1;
+    }
+
+    .industry-board {
+      flex: 1;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      padding: 18px;
+      align-content: start;
+    }
+
+    .industry-panel {
+      border-radius: 8px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      background: #fbfcfe;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .industry-panel.featured {
+      grid-column: 1 / -1;
+      background: #eef6ff;
+      border-color: #bad7ff;
+    }
+
+    .industry-panel h3 {
+      margin: 0;
+      font-size: 17px;
+      line-height: 1.25;
+    }
+
+    .industry-panel p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .industry-stocks {
+      display: grid;
+      gap: 8px;
+    }
+
+    .mini-stock {
+      padding: 10px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .mini-stock strong {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 14px;
+    }
+
+    .mini-stock span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .visual-note {
+      border-top: 1px solid var(--line);
+      padding: 16px 18px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    section {
+      margin: 46px 0;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 28px;
+      line-height: 1.12;
+    }
+
+    .section-head p {
+      max-width: 680px;
+      margin: 8px 0 0;
+      color: var(--muted);
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 1680px;
+    }
+
+    th, td {
+      padding: 14px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+      font-size: 14px;
+    }
+
+    th {
+      color: var(--muted);
+      background: #fbfcfe;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+
+    tr:last-child td { border-bottom: 0; }
+
+    .ticker {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 58px;
+      padding: 4px 8px;
+      border-radius: 7px;
+      background: #edf2f7;
+      font-weight: 850;
+      text-decoration: none;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 800;
+      background: #eef6ff;
+      color: #1d4ed8;
+      margin: 2px 4px 2px 0;
+      white-space: nowrap;
+    }
+
+    .tag.can { background: #fff1f2; color: #be123c; }
+    .tag.us { background: #eff6ff; color: #1d4ed8; }
+    .tag.hot { background: #fdf2f8; color: #be185d; }
+    .tag.up { background: #ecfdf5; color: var(--green); }
+    .tag.down { background: #fef2f2; color: var(--rose); }
+    .tag.neutral { background: #fffbeb; color: var(--amber); }
+
+    .bar {
+      min-width: 120px;
+    }
+
+    .bar-track {
+      height: 9px;
+      background: #edf2f7;
+      border-radius: 999px;
+      overflow: hidden;
+      margin-top: 6px;
+    }
+
+    .bar-fill {
+      height: 100%;
+      background: var(--teal);
+      border-radius: inherit;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 310px;
+    }
+
+    .card.hot-card {
+      border-color: #f9a8d4;
+      background: linear-gradient(180deg, #fff7fb 0, #ffffff 42%);
+    }
+
+    .card-top {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .card h3 {
+      margin: 0 0 4px;
+      font-size: 20px;
+      line-height: 1.2;
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .reason {
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+      color: var(--ink);
+      font-size: 14px;
+    }
+
+    .score-row {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+    }
+
+    .score-row div {
+      min-width: 0;
+    }
+
+    .score-row small {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 850;
+    }
+
+    .score-row b {
+      display: block;
+      margin-top: 2px;
+      font-size: 13px;
+    }
+
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .stat {
+      padding: 9px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fbfcfe;
+      min-width: 0;
+    }
+
+    .stat small {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 800;
+      margin-bottom: 3px;
+    }
+
+    .stat b {
+      display: block;
+      font-size: 14px;
+      overflow-wrap: anywhere;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .workflow-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .checklist {
+      margin: 10px 0 0;
+      padding-left: 18px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .checklist li {
+      margin: 6px 0;
+    }
+
+    .news-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: var(--shadow);
+    }
+
+    .news-card h3 {
+      margin: 8px 0;
+      font-size: 19px;
+    }
+
+    .news-card p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .prediction {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .source-list {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: var(--shadow);
+      columns: 2;
+      column-gap: 28px;
+    }
+
+    .source-list a {
+      display: block;
+      break-inside: avoid;
+      color: var(--navy);
+      margin: 0 0 10px;
+      font-weight: 700;
+    }
+
+    .fineprint {
+      color: var(--muted);
+      font-size: 13px;
+      margin: 12px 0 0;
+    }
+
+    .hidden { display: none; }
+
+    @media (max-width: 980px) {
+      .hero {
+        grid-template-columns: 1fr;
+        min-height: auto;
+      }
+
+      .market-visual { min-height: auto; }
+      .summary-grid,
+      .cards,
+      .workflow-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .news-grid { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 680px) {
+      .shell { padding: 16px; }
+      .topbar-inner { padding: 10px 16px; align-items: start; flex-direction: column; }
+      .nav-links { justify-content: flex-start; }
+      .visual-top { grid-template-columns: 1fr; }
+      .metric { border-right: 0; border-bottom: 1px solid var(--line); }
+      .metric:last-child { border-bottom: 0; }
+      .industry-board { grid-template-columns: 1fr; }
+      .industry-panel.featured { grid-column: auto; }
+      .stat-grid { grid-template-columns: 1fr; }
+      .summary-grid,
+      .cards,
+      .workflow-grid { grid-template-columns: 1fr; }
+      .section-head { align-items: start; flex-direction: column; }
+      .source-list { columns: 1; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">US/Canada Equity Radar</div>
+      <nav class="nav-links" aria-label="页面导航">
+        <a href="#pulse">市场脉搏</a>
+        <a href="#portfolio">伯克希尔</a>
+        <a href="#watchlist">观察名单</a>
+        <a href="#news">新闻影响</a>
+        <a href="#workflow">更新机制</a>
+      </nav>
+    </div>
+  </header>
+  <main class="shell">
+    <section class="hero" id="top">
+      <div class="hero-copy">
+        <div class="eyebrow">更新日期：2026-08-18 · 美加股票观察</div>
+        <h1>美国与加拿大股市动向观察台</h1>
+        <p class="lead">这是一页中文速览：巴菲特/伯克希尔最新公开持仓、对应 TSX 加拿大存托凭证（CDR），以及基于 Reuters、AP、IBD、WSJ、ApeWisdom、ChartExchange、S&P Global、公司公告等正规来源整理的美加股票观察名单、近月热议新兴股票和相关新闻影响。</p>
+        <div class="hero-actions">
+          <a class="link-button primary" href="#pulse">看市场脉搏</a>
+          <a class="link-button primary" href="#watchlist">看观察名单</a>
+          <a class="link-button" href="#portfolio">看巴菲特持仓</a>
+          <a class="link-button" href="#news">看新闻影响</a>
+        </div>
+        <p class="fineprint">提示：本页是研究辅助，不是个人化投资建议。短线预测只基于公开新闻催化剂和行业方向，真正买卖前仍需要结合估值、仓位、税务和风险承受能力。</p>
+      </div>
+
+      <div class="market-visual" aria-label="北美行业机会面板">
+        <div class="visual-top">
+          <div class="metric"><small>成长主线</small><strong>AI 算力</strong></div>
+          <div class="metric"><small>加拿大特色</small><strong>银行/铀/管道</strong></div>
+          <div class="metric"><small>估值纪律</small><strong>看 PE/EPS</strong></div>
+        </div>
+        <div class="industry-board" id="industryBoard"></div>
+        <div class="visual-note">指标为 2026-08-18 附近公开资料快照，PE/EPS 口径以 TTM 或公司披露为主；高增长股需要同时看盈利增速和估值。</div>
+      </div>
+    </section>
+
+    <section id="pulse">
+      <div class="section-head">
+        <div>
+          <h2>市场脉搏</h2>
+          <p>先看大环境，再看个股。这个区块把每天最该扫一眼的美国/加拿大市场变量放在一起：风险偏好、利率、油价、加拿大市场结构和互联网热议度。</p>
+        </div>
+      </div>
+      <div class="summary-grid" id="marketPulse"></div>
+    </section>
+
+    <section id="portfolio">
+      <div class="section-head">
+        <div>
+          <h2>巴菲特/伯克希尔最新公开前十大持仓</h2>
+          <p>依据 Berkshire Hathaway 最新公开资料更新：Q2 2026 公开报道显示伯克希尔显著增持 Alphabet，组合价值约 2993 亿美元；表格保留原有持仓信息并追加估值、宏观、政策和近期催化剂。CDR 只标注已查到在 TSX 交易的加拿大存托凭证。</p>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>排名</th>
+              <th>公司</th>
+              <th>美股</th>
+              <th>行业</th>
+              <th>持仓价值/权重</th>
+              <th>TSX CDR</th>
+              <th>备注</th>
+              <th>估值/收益</th>
+              <th>股息/回购</th>
+              <th>宏观敏感度</th>
+              <th>政策/地缘风险</th>
+              <th>近期看点</th>
+            </tr>
+          </thead>
+          <tbody id="portfolioRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="watchlist">
+      <div class="section-head">
+        <div>
+          <h2>美加股票观察名单</h2>
+          <p>按行业划分，偏向“大公司、新闻催化剂清晰、流动性好”的标的。新增“近月热议”用于学习最近一个月互联网讨论度高、但风险也更高的新兴股票。</p>
+        </div>
+        <div class="filters" aria-label="国家筛选">
+          <button class="active" data-filter="all">全部</button>
+          <button data-filter="美国">美国</button>
+          <button data-filter="加拿大">加拿大</button>
+          <button data-filter="hot">近月热议</button>
+          <input class="search-control" id="stockSearch" type="search" placeholder="搜索 ticker / 行业 / 主题">
+        </div>
+      </div>
+      <div class="cards" id="stockCards"></div>
+    </section>
+
+    <section id="news">
+      <div class="section-head">
+        <div>
+          <h2>相关新闻、影响与短线方向</h2>
+          <p>这里把新闻映射到公司影响，并给出一个“偏上涨/偏下跌/震荡”的短期倾向。链接会跳到股价或相关新闻页面。</p>
+        </div>
+      </div>
+      <div class="news-grid" id="newsCards"></div>
+    </section>
+
+    <section id="workflow">
+      <div class="section-head">
+        <div>
+          <h2>更新机制与阅读框架</h2>
+          <p>这部分把页面从“一次性网页”变成可持续观察工具：每天固定刷新资料，同时保留人工判断框架，避免被单一新闻或社媒热度带跑。</p>
+        </div>
+      </div>
+      <div class="workflow-grid">
+        <article class="workflow-card">
+          <small>每日自动更新</small>
+          <h3>每天 08:00 新加坡时间</h3>
+          <p>自动检索 SEC/13F、正规金融新闻、社媒讨论度追踪、公司公告和关键估值来源，然后更新本地 HTML 和可上传版本。</p>
+          <ul class="checklist">
+            <li>刷新持仓、新闻、热议股票和来源链接</li>
+            <li>保留“研究辅助，不是投资建议”的定位</li>
+            <li>输出可双击打开的实体 HTML 文件</li>
+          </ul>
+        </article>
+        <article class="workflow-card">
+          <small>研究框架</small>
+          <h3>先行业，再公司，再催化</h3>
+          <p>观察顺序固定为：宏观环境、行业势头、公司质量、估值纪律、新闻催化、风险反证。</p>
+          <ul class="checklist">
+            <li>美国：AI、软件、金融、消费、能源</li>
+            <li>加拿大：银行、能源、材料、铀、基础设施</li>
+            <li>热议股：只用于拓宽认知，单独标高风险</li>
+          </ul>
+        </article>
+        <article class="workflow-card">
+          <small>风险控制</small>
+          <h3>把“热度”和“质量”分开看</h3>
+          <p>页面会把高讨论度股票单独筛选，避免把社媒热度误当成基本面优势。</p>
+          <ul class="checklist">
+            <li>高 PE 股看增长兑现</li>
+            <li>周期股看价格和库存周期</li>
+            <li>银行股看信用损失和利率曲线</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="sources">
+      <div class="section-head">
+        <div>
+          <h2>来源</h2>
+          <p>页面内容来自公开资料和正规金融媒体/交易所/公司文件，已在对应段落内使用摘要而非长篇复制。</p>
+        </div>
+      </div>
+      <div class="source-list">
+        <a href="https://13f.info/13f/000119312526226661-berkshire-hathaway-inc-q1-2026" target="_blank" rel="noreferrer">Berkshire Hathaway Q1 2026 13F 汇总</a>
+        <a href="https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/0001193125-26-226661-index.htm" target="_blank" rel="noreferrer">SEC 13F 原始文件索引</a>
+        <a href="https://cibccdr.com/" target="_blank" rel="noreferrer">CIBC Canadian Depositary Receipts</a>
+        <a href="https://www.tsx.com/en/news/new-company-listings?id=1873" target="_blank" rel="noreferrer">TSX: Coca-Cola CDR (COLA)</a>
+        <a href="https://www.tsx.com/en/news/new-company-listings?id=1901" target="_blank" rel="noreferrer">TSX: Berkshire Hathaway CDR (BRK)</a>
+        <a href="https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q1-2026" target="_blank" rel="noreferrer">Kiplinger: Berkshire Q1 2026 买卖变化</a>
+        <a href="https://apnews.com/article/fd9d6750d34f208c338e305759bcf6c9" target="_blank" rel="noreferrer">AP: Berkshire Q2 2026 增持 Alphabet</a>
+        <a href="https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q2-2026" target="_blank" rel="noreferrer">Kiplinger: Berkshire Q2 2026 买卖变化</a>
+        <a href="https://www.investing.com/news/stock-market-news/nvidia-bets-on-new-data-center-chips-as-sales-outlook-tops-estimates-4628562" target="_blank" rel="noreferrer">Reuters: Nvidia 数据中心芯片需求</a>
+        <a href="https://www.investing.com/news/stock-market-news/microsofttops-quarterly-revenue-estimates-on-strong-azure-demand-4161045" target="_blank" rel="noreferrer">Reuters: Microsoft Azure 与 AI 投资</a>
+        <a href="https://www.investing.com/news/stock-market-news/jpmorgan-ceo-sees-investment-banking-fees-rising-10-or-more-in-second-quarter-4712577" target="_blank" rel="noreferrer">Reuters: JPMorgan 费用与投行业务</a>
+        <a href="https://ca.marketscreener.com/news/shopify-expands-share-buyback-program-by-3-billion-ce7f5dded180f727" target="_blank" rel="noreferrer">Reuters: Shopify 扩大回购</a>
+        <a href="https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/05/visible-alpha-breakdown-of-canadian-big-banks-q2-2026-earnings-expectations" target="_blank" rel="noreferrer">S&P Global: 加拿大大行 Q2 预期</a>
+        <a href="https://www.cameco.com/sites/default/files/documents/2026-Q1-MD%26A-FS-Notes.pdf" target="_blank" rel="noreferrer">Cameco Q1 2026 MD&A</a>
+        <a href="https://www.enbridge.com/~/media/Enb/Documents/Investor-Relations/2026/2026_Q1_Financial_Statements_MDA_Final.pdf" target="_blank" rel="noreferrer">Enbridge Q1 2026 MD&A</a>
+        <a href="https://www.financecharts.com/stocks/NVDA/value/pe-ratio" target="_blank" rel="noreferrer">FinanceCharts: NVDA PE/EPS</a>
+        <a href="https://stockanalysis.com/stocks/ceg/" target="_blank" rel="noreferrer">StockAnalysis: CEG PE/EPS</a>
+        <a href="https://stockanalysis.com/stocks/ry/" target="_blank" rel="noreferrer">StockAnalysis: RY PE/EPS</a>
+        <a href="https://www.financecharts.com/stocks/JPM/value/pe-ratio" target="_blank" rel="noreferrer">FinanceCharts: JPM PE</a>
+        <a href="https://www.financecharts.com/stocks/SHOP/value/pe-ratio" target="_blank" rel="noreferrer">FinanceCharts: SHOP PE/EPS</a>
+        <a href="https://public.com/stocks/enb/pe-ratio" target="_blank" rel="noreferrer">Public.com: ENB PE</a>
+        <a href="https://apewisdom.io/" target="_blank" rel="noreferrer">ApeWisdom: Reddit 股票讨论度</a>
+        <a href="https://apewisdom.io/wallstreetbets?page=1" target="_blank" rel="noreferrer">ApeWisdom: WSB 股票讨论度</a>
+        <a href="https://chartexchange.com/trends/reddit/mentions/wallstreetbets/" target="_blank" rel="noreferrer">ChartExchange: r/wallstreetbets mention tracker</a>
+        <a href="https://www.investors.com/news/sandisk-sp-500-best-stock-2026-leads-with-bullish-move/" target="_blank" rel="noreferrer">IBD: Sandisk 与 AI 相关强势股</a>
+        <a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/stocks-to-watch-reddit-applied-materials-innventure-6zHfCerp4QFGvE88u0S8" target="_blank" rel="noreferrer">WSJ: Reddit 纳入 S&P 500 与市场异动</a>
+        <a href="https://www.schwab.com/learn/story/us-stock-market-outlook" target="_blank" rel="noreferrer">Charles Schwab: 2026 中期美股展望</a>
+        <a href="https://www.capitalgroup.com/advisor/insights/articles/2026-midyear-stock-market-outlook.html" target="_blank" rel="noreferrer">Capital Group: 2026 下半年主题</a>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const marketPulse = [
+      {
+        label: "美股主线",
+        title: "AI 仍是核心，但估值更挑剔",
+        detail: "Nvidia、Microsoft、Alphabet 继续决定指数风险偏好；存储、数据中心、电力链开始承接第二层机会。",
+        tone: "tone-positive"
+      },
+      {
+        label: "加拿大结构",
+        title: "TSX 更偏资源和金融",
+        detail: "加拿大市场对油价、银行信用周期、材料价格和加元利率更敏感，和 Nasdaq 的驱动因素不完全一样。",
+        tone: "tone-info"
+      },
+      {
+        label: "宏观变量",
+        title: "长端利率和油价是关键",
+        detail: "利率上行会压制高 PE 成长股；油价上行利好能源股，但会给消费和通胀预期带来压力。",
+        tone: "tone-watch"
+      },
+      {
+        label: "情绪温度",
+        title: "热议股只能作学习入口",
+        detail: "MU、SNDK、RDDT、RKLB、ASTS、APLD、NBIS 讨论度高，但波动和叙事反转风险也高。",
+        tone: "tone-risk"
+      }
+    ];
+
+    const industryInsights = [
+      {
+        title: "AI 算力和云：北美最强成长线",
+        trend: "势头：企业 AI 预算仍向 GPU、网络、云平台集中。优先看收入可见度和盈利兑现，而不是只看概念。",
+        featured: true,
+        stocks: [
+          "NVDA · PE 31.4x · TTM EPS $6.53 · 数据中心芯片需求强，但估值对预期很敏感",
+          "MSFT · PE 约 24-25x · Azure 仍是核心变量 · 看 AI 投资能否转成利润率",
+          "SHOP.TO · PE 约 108x · 回购授权扩大 · 成长性好但容错率低"
+        ]
+      },
+      {
+        title: "电力、核能和铀：AI 数据中心的第二层受益者",
+        trend: "势头：数据中心用电把稳定电源重新推到市场中心，核电运营商和铀供应链受到关注。",
+        stocks: [
+          "CEG · PE 24.7x · EPS $11.71 · 核电现金流质量高，关注长约电价",
+          "CCO.TO · 铀矿/核燃料 · Q1 强调核燃料需求改善 · 生产扰动是关键风险"
+        ]
+      },
+      {
+        title: "银行和资本市场：更像稳健复苏，而非爆发",
+        trend: "势头：美国大行受益投行和交易回暖；加拿大大行更看净息差、信贷损失和房贷周期。",
+        stocks: [
+          "JPM · PE 15.0x · 费用上升但资本市场收入有弹性",
+          "RY.TO · PE 约 18.0x · EPS 约 C$11.30 · 加拿大大行里更偏质量防守"
+        ]
+      },
+      {
+        title: "能源基础设施：适合看现金流，不适合只看油价",
+        trend: "势头：油价会影响情绪，但管道和基础设施公司的重点是 DCF、股息覆盖和债务成本。",
+        stocks: [
+          "ENB.TO · PE 约 26x · Q1 DCF/股 C$1.76 · 适合收益型观察",
+          "CVX/OXY · 伯克希尔仍有大仓位 · 更直接受油价和并购整合影响"
+        ]
+      }
+    ];
+
+    const portfolio = [
+      { rank: 1, company: "Apple", ticker: "AAPL", sector: "科技硬件/生态", value: "$57.84B", weight: 22.0, cdr: "TSX:AAPL", cdrUrl: "https://money.tmx.com/en/quote/AAPL", note: "仍是最大公开美股持仓。", valuation: "PE 约37x；股息率约0.3%。", income: "低股息，主要靠回购和生态现金流。", macro: "高端消费、美元汇率、中国需求和换机周期。", policy: "中美科技关系、供应链关税、App Store 监管。", catalyst: "WWDC/AI 功能、iPhone 周期、服务收入增速。" },
+      { rank: 2, company: "American Express", ticker: "AXP", sector: "支付/金融", value: "$45.86B", weight: 17.4, cdr: "TSX:AXP", cdrUrl: "https://money.tmx.com/en/quote/AXP", note: "高消费客户与品牌网络是核心护城河。", valuation: "PE 约19.5x；股息率约1.2%。", income: "股息增长， payout 仍相对温和。", macro: "就业、旅行、富裕客群消费和信用损失。", policy: "信用卡费用监管、消费者金融监管。", catalyst: "交易量增长、坏账率、年轻高收入客户增长。" },
+      { rank: 3, company: "Coca-Cola", ticker: "KO", sector: "消费必需品", value: "$30.42B", weight: 11.6, cdr: "TSX:COLA", cdrUrl: "https://money.tmx.com/en/quote/COLA", note: "TSX CDR 代码不是 KO，而是 COLA。", valuation: "PE 约24-25x；股息率约2.6-2.7%。", income: "长期分红增长，防守型现金流。", macro: "通胀、美元汇率、新兴市场消费。", policy: "糖税、包装环保、健康饮品监管。", catalyst: "定价能力、销量恢复、外汇影响。" },
+      { rank: 4, company: "Bank of America", ticker: "BAC", sector: "银行", value: "$25.04B", weight: 9.5, cdr: "TSX:BOFA", cdrUrl: "https://money.tmx.com/en/quote/BOFA", note: "伯克希尔 Q1 小幅减持，但仍是大仓位。", valuation: "PE 约12-13x；股息率约2.1%。", income: "普通股息稳定，回购受资本要求影响。", macro: "利率曲线、贷款需求、信用周期。", policy: "银行资本规则、压力测试、存款竞争。", catalyst: "净利息收入、投行业务、信贷损失准备。" },
+      { rank: 5, company: "Chevron", ticker: "CVX", sector: "综合能源", value: "$17.46B", weight: 6.6, cdr: "TSX:CHEV", cdrUrl: "https://money.tmx.com/en/quote/CHEV", note: "能源现金流稳定，但油价和并购整合会影响估值。", valuation: "PE 约32x；股息率约3.5-3.8%。", income: "能源股息核心，回购跟随油价现金流。", macro: "油价、天然气价、美元和全球增长。", policy: "气候政策、钻探许可、地缘能源制裁。", catalyst: "Hess/Guyana 资产整合、Permian 产量、油价。" },
+      { rank: 6, company: "Occidental Petroleum", ticker: "OXY", sector: "能源/化工", value: "$17.22B", weight: 6.5, cdr: "TSX:OXY", cdrUrl: "https://money.tmx.com/en/quote/OXY", note: "OXY CDR 已有 TSX 交易资料；油价敏感度高。", valuation: "PE 约14x；股息率约1.8%。", income: "股息较低，更看去杠杆和资产出售。", macro: "油价弹性高，现金流对 WTI 敏感。", policy: "碳捕集补贴、油气监管、地缘供应冲击。", catalyst: "OxyChem 出售、债务下降、伯克希尔持仓信号。" },
+      { rank: 7, company: "Alphabet Class A", ticker: "GOOGL", sector: "互联网/AI", value: "$15.60B", weight: 5.9, cdr: "TSX:GOOG", cdrUrl: "https://money.tmx.com/en/quote/GOOG", note: "Alphabet CDR 以 GOOG 标识，需留意对应基础股类别说明。", valuation: "PE 约29x；股息率约0.2%。", income: "小额股息加大规模回购。", macro: "广告周期、云支出、AI 资本开支。", policy: "美国/欧盟反垄断、AI 版权和数据监管。", catalyst: "Gemini/搜索 AI、Cloud 利润率、广告恢复。" },
+      { rank: 8, company: "Chubb", ticker: "CB", sector: "财产险/再保险", value: "$11.16B", weight: 4.2, cdr: "未查到 TSX CDR", cdrUrl: "", note: "保险承保周期和投资收益是关键。", valuation: "PE 约11.5x；股息率约1.2%。", income: "分红增长，保险浮存金受益高利率。", macro: "利率、灾害损失、商业保险价格周期。", policy: "保险费率审批、气候灾害模型监管。", catalyst: "综合成本率、投资收益、灾害季损失。" },
+      { rank: 9, company: "Moody's", ticker: "MCO", sector: "评级/数据", value: "$10.76B", weight: 4.1, cdr: "未查到 TSX CDR", cdrUrl: "", note: "资本市场发行回暖会利好评级收入。", valuation: "PE 约32x；股息率约0.9%。", income: "低股息，高利润率和数据订阅属性。", macro: "债券发行、并购融资、利率下降预期。", policy: "评级机构监管、AI 数据竞争和模型透明度。", catalyst: "投资级/高收益债发行量、Analytics 增长。" },
+      { rank: 10, company: "Kraft Heinz", ticker: "KHC", sector: "食品", value: "$7.32B", weight: 2.8, cdr: "未查到 TSX CDR", cdrUrl: "", note: "低估值和品牌资产并存，增长较慢。", valuation: "TTM 亏损致 PE 不适用；远期 PE 约11x；股息率约7%。", income: "高股息吸引人，但需看现金流覆盖。", macro: "食品通胀、低收入消费、零售渠道议价。", policy: "食品标签、关税、反通胀监管压力。", catalyst: "销量是否止跌、品牌重组、伯克希尔退出预期。" }
+    ];
+
+    const stocks = [
+      {
+        country: "美国", sector: "AI/半导体", name: "Nvidia", ticker: "NVDA", exchange: "NASDAQ",
+        intro: "全球 AI GPU、网络和数据中心加速平台龙头。",
+        metrics: { pe: "31.4x", eps: "$6.53 TTM", signal: "数据中心需求强" },
+        profile: { conviction: "高", risk: "中高", learn: "AI 算力定价权" },
+        reason: "Reuters 报道公司对数据中心芯片需求给出强劲展望，CEO 也表示仍处在供给受限但可支撑高增长的状态。适合作为 AI 基建主线的核心观察标的。",
+        risk: "估值高，出口限制、竞争和客户自研芯片会放大波动。",
+        url: "https://finance.yahoo.com/quote/NVDA"
+      },
+      {
+        country: "美国", sector: "云计算/软件", name: "Microsoft", ticker: "MSFT", exchange: "NASDAQ",
+        intro: "Azure 云、Office、Windows、GitHub 与企业 AI 平台公司。",
+        metrics: { pe: "约 24-25x", eps: "高利润软件", signal: "Azure/AI 拉动" },
+        profile: { conviction: "高", risk: "中", learn: "云平台复利" },
+        reason: "Azure 需求和 AI 资本开支仍是增长抓手；企业客户迁移到 AI 工具链会提高云和软件粘性。",
+        risk: "资本开支过快会压缩自由现金流，AI 投资回报若低于预期会被市场重估。",
+        url: "https://finance.yahoo.com/quote/MSFT"
+      },
+      {
+        country: "美国", sector: "金融", name: "JPMorgan Chase", ticker: "JPM", exchange: "NYSE",
+        intro: "美国最大综合银行之一，业务覆盖零售、投行、交易、资产管理。",
+        metrics: { pe: "15.0x", eps: "银行周期股", signal: "投行业务回暖" },
+        profile: { conviction: "中高", risk: "中", learn: "银行周期" },
+        reason: "Reuters 报道管理层看好投行业务和资本市场活动，若交易和并购回暖，手续费收入有弹性。",
+        risk: "费用上升、信贷周期和监管资本要求是主要压力。",
+        url: "https://finance.yahoo.com/quote/JPM"
+      },
+      {
+        country: "美国", sector: "电力/AI 基建", name: "Constellation Energy", ticker: "CEG", exchange: "NASDAQ",
+        intro: "美国大型无碳电力和核电运营商。",
+        metrics: { pe: "24.7x", eps: "$11.71 TTM", signal: "核电+数据中心" },
+        profile: { conviction: "中高", risk: "中高", learn: "电力长约" },
+        reason: "AI 数据中心长期用电需求把核电和稳定电源推到前台，Reuters 曾报道公司更关注并网型数据中心供电项目。",
+        risk: "监管、核电安全、长期电价合约和估值快速上升均需跟踪。",
+        url: "https://finance.yahoo.com/quote/CEG"
+      },
+      {
+        country: "加拿大", sector: "软件/电商", name: "Shopify", ticker: "SHOP", exchange: "TSX / NYSE",
+        intro: "加拿大电商基础设施公司，为商家提供建站、支付、物流和营销工具。",
+        metrics: { pe: "108.5x", eps: "$1.01 TTM", signal: "回购+AI 商务" },
+        profile: { conviction: "中", risk: "高", learn: "高估值 SaaS" },
+        reason: "Reuters 报道公司将回购授权增加 30 亿美元，总额到 50 亿美元；这通常传递管理层认为股价被低估或现金流足够支撑回报的信号。",
+        risk: "AI 对软件商业模式的冲击、商家消费环境和估值仍是核心争议。",
+        url: "https://finance.yahoo.com/quote/SHOP.TO"
+      },
+      {
+        country: "加拿大", sector: "银行", name: "Royal Bank of Canada", ticker: "RY", exchange: "TSX / NYSE",
+        intro: "加拿大最大银行，覆盖个人银行、商业银行、资本市场和财富管理。",
+        metrics: { pe: "约 18.0x", eps: "约 C$11.30", signal: "质量型银行" },
+        profile: { conviction: "中高", risk: "中", learn: "加拿大银行" },
+        reason: "S&P Global/Visible Alpha 预期 RBC Q2 净利润和收入同比增长；加拿大大行在资本市场回暖中具备防守加分。",
+        risk: "加拿大消费者违约、住房市场低迷和净息差压力需要观察。",
+        url: "https://finance.yahoo.com/quote/RY.TO"
+      },
+      {
+        country: "加拿大", sector: "核能/铀", name: "Cameco", ticker: "CCO", exchange: "TSX / NYSE:CCJ",
+        intro: "全球主要铀生产商，也是核燃料供应链核心公司之一。",
+        metrics: { pe: "周期性较强", eps: "看铀价/产量", signal: "核燃料需求" },
+        profile: { conviction: "中", risk: "高", learn: "铀周期" },
+        reason: "公司 Q1 资料强调核电重启、延寿、新建项目推动燃料需求；AI 数据中心对稳定低碳电力的需求也强化了长期叙事。",
+        risk: "矿山生产扰动、铀价波动和项目许可会影响盈利节奏。",
+        url: "https://finance.yahoo.com/quote/CCO.TO"
+      },
+      {
+        country: "加拿大", sector: "能源基础设施", name: "Enbridge", ticker: "ENB", exchange: "TSX / NYSE",
+        intro: "北美大型管道、公用事业和能源基础设施公司。",
+        metrics: { pe: "约 26x", eps: "Q1 adj EPS C$0.98", signal: "DCF/股 C$1.76" },
+        profile: { conviction: "中高", risk: "中", learn: "DCF/股息覆盖" },
+        reason: "稳定现金流、年度股息增长和 2026 指引使其更偏收益型；适合在组合中承担防守和现金分配角色。",
+        risk: "利率、监管、债务成本和管线项目进度会影响估值。",
+        url: "https://finance.yahoo.com/quote/ENB.TO"
+      },
+      {
+        country: "加拿大", sector: "另类资产/基建", name: "Brookfield", ticker: "BN", exchange: "TSX / NYSE",
+        intro: "全球另类资产和基础设施投资平台，涉足电力、地产、基础设施和私募资产。",
+        metrics: { pe: "资产管理口径", eps: "看 FFO", signal: "基建/电力资产" },
+        profile: { conviction: "中", risk: "中高", learn: "另类资产估值" },
+        reason: "AI 电力、基础设施升级和利率企稳对长期资产管理费及投资收益有帮助。",
+        risk: "资产估值、杠杆和利率路径会造成阶段性折价。",
+        url: "https://finance.yahoo.com/quote/BN.TO"
+      },
+      {
+        country: "美国", sector: "近月热议/存储芯片", name: "Micron Technology", ticker: "MU", exchange: "NASDAQ", hot: true,
+        intro: "DRAM、NAND 和 HBM 存储芯片公司，是 AI 服务器内存供应链的重要一环。",
+        metrics: { pe: "周期股口径", eps: "看 HBM/DRAM 周期", signal: "ApeWisdom 综合讨论第1" },
+        profile: { conviction: "学习型", risk: "高", learn: "存储周期/HBM" },
+        reason: "ApeWisdom 近期把 MU 列为 Reddit 股票讨论度第一；ChartExchange 也显示 MU 是 WSB 高提及标的。它适合用来学习“AI 不只买 GPU，还会带动内存/HBM 周期”。",
+        risk: "存储芯片是强周期行业，价格反转时盈利会快速下修；互联网热度不能替代供需判断。",
+        url: "https://finance.yahoo.com/quote/MU"
+      },
+      {
+        country: "美国", sector: "近月热议/存储芯片", name: "Sandisk", ticker: "SNDK", exchange: "NASDAQ", hot: true,
+        intro: "闪存和数据存储公司，近期因长期指引和 AI 存储需求被市场重新定价。",
+        metrics: { pe: "高波动", eps: "看 NAND 景气", signal: "WSB 讨论第3/IBD 强势" },
+        profile: { conviction: "学习型", risk: "很高", learn: "动量+周期" },
+        reason: "ApeWisdom WSB 榜单显示 SNDK 近期提及数大幅上升；IBD 报道其 2026 年表现位居 S&P 500 前列。适合学习“业绩指引 + 技术突破 + 社媒热度”如何叠加。",
+        risk: "短期涨幅极大，容易受获利了结、估值回调和产品周期影响。",
+        url: "https://finance.yahoo.com/quote/SNDK"
+      },
+      {
+        country: "美国", sector: "近月热议/社交媒体", name: "Reddit", ticker: "RDDT", exchange: "NYSE", hot: true,
+        intro: "社交社区平台，广告、数据授权和 AI 内容合作是市场关注点。",
+        metrics: { pe: "成长股口径", eps: "仍看盈利扩张", signal: "S&P 500 纳入催化" },
+        profile: { conviction: "学习型", risk: "高", learn: "平台+指数纳入" },
+        reason: "ApeWisdom 综合榜单显示 RDDT 近期讨论度靠前；WSJ/MarketWatch 报道其被纳入 S&P 500 后股价大涨。适合学习指数纳入、平台广告和 AI 数据授权的估值逻辑。",
+        risk: "用户增长、内容监管、广告周期和 AI 数据授权续约不确定性较高。",
+        url: "https://finance.yahoo.com/quote/RDDT"
+      },
+      {
+        country: "美国", sector: "近月热议/商业航天", name: "Rocket Lab USA", ticker: "RKLB", exchange: "NASDAQ", hot: true,
+        intro: "小型火箭发射和空间系统公司，是少数公开上市的商业航天基础设施标的。",
+        metrics: { pe: "未稳定盈利", eps: "看订单/毛利", signal: "30天讨论趋势上升" },
+        profile: { conviction: "学习型", risk: "很高", learn: "商业航天" },
+        reason: "ApeWisdom 综合榜显示 RKLB 近 30 天讨论趋势为正。它适合用来学习商业航天的订单、发射频率、卫星平台和政府客户逻辑。",
+        risk: "发射失败、项目延期、融资需求和估值波动都可能很大。",
+        url: "https://finance.yahoo.com/quote/RKLB"
+      },
+      {
+        country: "美国", sector: "近月热议/卫星通信", name: "AST SpaceMobile", ticker: "ASTS", exchange: "NASDAQ", hot: true,
+        intro: "尝试用卫星直接连接普通手机的通信公司，属于高想象力的卫星通信赛道。",
+        metrics: { pe: "未稳定盈利", eps: "看商业化节点", signal: "ApeWisdom 趋势为正" },
+        profile: { conviction: "学习型", risk: "很高", learn: "卫星通信" },
+        reason: "ASTS 在 ApeWisdom 综合和 WSB 榜单中均进入高讨论区。它适合学习“技术验证、频谱、运营商合作、资本开支”如何共同决定一家新兴公司的价值。",
+        risk: "商业化尚早，发射计划、监管许可、现金消耗和竞争风险都很高。",
+        url: "https://finance.yahoo.com/quote/ASTS"
+      },
+      {
+        country: "美国", sector: "近月热议/AI 数据中心", name: "Applied Digital", ticker: "APLD", exchange: "NASDAQ", hot: true,
+        intro: "AI/HPC 数据中心基础设施公司，市场关注其算力租赁和数据中心建设能力。",
+        metrics: { pe: "未稳定盈利", eps: "看数据中心利用率", signal: "WSB 30天趋势大幅上升" },
+        profile: { conviction: "学习型", risk: "很高", learn: "AI 数据中心融资" },
+        reason: "ApeWisdom WSB 榜单显示 APLD 近 30 天讨论趋势大幅上升。它适合学习 AI 数据中心公司如何把资本开支、客户合同和融资成本转化为股价叙事。",
+        risk: "重资产扩张、融资稀释、客户集中和执行风险高。",
+        url: "https://finance.yahoo.com/quote/APLD"
+      },
+      {
+        country: "美国", sector: "近月热议/AI 云", name: "Nebius Group", ticker: "NBIS", exchange: "NASDAQ", hot: true,
+        intro: "AI 云和 GPU 基础设施公司，提供面向模型训练与推理的算力服务。",
+        metrics: { pe: "成长早期", eps: "看收入爬坡", signal: "WSB 新兴提及" },
+        profile: { conviction: "学习型", risk: "很高", learn: "AI 云算力租赁" },
+        reason: "NBIS 出现在 ApeWisdom WSB 热议榜中，且与 AI 云基础设施主题高度相关。适合学习 CoreWeave 类算力云商业模式、GPU 供给和客户合同。",
+        risk: "AI 云竞争激烈，资本开支、融资成本和客户质量决定长期成败。",
+        url: "https://finance.yahoo.com/quote/NBIS"
+      }
+    ];
+
+    const newsItems = [
+      {
+        source: "Reuters",
+        title: "Nvidia 数据中心芯片展望强于预期，AI 需求仍然旺盛",
+        related: "NVDA、MSFT、CEG、CCO",
+        impact: "对 Nvidia 直接偏利好，也会外溢到云服务、电力、核燃料和电网设备。但若市场担心 AI 资本开支过热，估值波动会同步放大。",
+        call: "偏上涨",
+        callClass: "up",
+        link: "https://finance.yahoo.com/quote/NVDA"
+      },
+      {
+        source: "Reuters",
+        title: "Microsoft 继续大规模投入 AI 与 Azure，云需求支撑收入",
+        related: "MSFT、NVDA、SHOP",
+        impact: "云需求强说明企业 AI 落地仍在推进；对 Microsoft 长期粘性有利，也支撑上游 GPU 需求。短线风险是资本开支过高引发利润率担忧。",
+        call: "偏上涨但波动",
+        callClass: "neutral",
+        link: "https://finance.yahoo.com/quote/MSFT"
+      },
+      {
+        source: "Reuters",
+        title: "JPMorgan 管理层提示费用上升，同时看好投行和股票资本市场",
+        related: "JPM、BAC、RY、MCO",
+        impact: "对 JPM 是喜忧参半：收入端有弹性，费用端压制利润率。对 Moody's 和大型银行，资本市场回暖总体是正面信号。",
+        call: "震荡偏正面",
+        callClass: "neutral",
+        link: "https://finance.yahoo.com/quote/JPM"
+      },
+      {
+        source: "Reuters",
+        title: "Shopify 将股票回购授权扩大 30 亿美元",
+        related: "SHOP",
+        impact: "回购能改善每股指标，并释放管理层对现金流和估值的信心。若 AI 工具带来商家效率提升，市场可能重新给成长溢价。",
+        call: "偏上涨",
+        callClass: "up",
+        link: "https://finance.yahoo.com/quote/SHOP.TO"
+      },
+      {
+        source: "S&P Global / Visible Alpha",
+        title: "加拿大大行 Q2 预期利润增长，但面对消费者违约和房市压力",
+        related: "RY、TD、BMO、CM、BNS",
+        impact: "RBC 这类大型银行受益规模、财富管理和资本市场业务；但若个人信贷恶化，估值上行空间会受限。",
+        call: "温和上涨",
+        callClass: "up",
+        link: "https://finance.yahoo.com/quote/RY.TO"
+      },
+      {
+        source: "Cameco 公司文件",
+        title: "Cameco Q1 资料强调核燃料需求基本面改善",
+        related: "CCO/CCJ、CEG",
+        impact: "核电重启、延寿和新建项目提高长期铀需求可见度；AI 用电叙事进一步提高投资者关注度。",
+        call: "偏上涨",
+        callClass: "up",
+        link: "https://finance.yahoo.com/quote/CCO.TO"
+      },
+      {
+        source: "Enbridge 公司文件",
+        title: "Enbridge 维持能源基础设施现金流与股息增长叙事",
+        related: "ENB",
+        impact: "对收益型投资者有吸引力；若利率稳定或下降，高股息资产估值会受支撑。",
+        call: "稳中偏涨",
+        callClass: "up",
+        link: "https://finance.yahoo.com/quote/ENB.TO"
+      },
+      {
+        source: "Kiplinger / 13F",
+        title: "伯克希尔 Q2 显著增持 Alphabet，并更积极部署股票",
+        related: "GOOGL、AAPL、AXP、BAC、CVX",
+        impact: "AP、Kiplinger 等报道显示伯克希尔 Q2 将 Alphabet 提升为核心大仓位，同时继续调整金融和周期股。对 GOOGL 情绪偏正面，也说明大型科技和 AI 基建已进入价值投资者视野。",
+        call: "GOOGL 偏正面，BAC/CVX 看宏观",
+        callClass: "neutral",
+        link: "https://finance.yahoo.com/quote/GOOGL"
+      },
+      {
+        source: "ApeWisdom / ChartExchange",
+        title: "MU、SNDK、RDDT、RKLB、ASTS 等进入 Reddit/WSB 高讨论区",
+        related: "MU、SNDK、RDDT、RKLB、ASTS、APLD、NBIS",
+        impact: "讨论度上升能带来流动性和关注度，但也会放大波动。更适合用来学习主题如何扩散，而不是直接当作买入信号。",
+        call: "短线高波动",
+        callClass: "neutral",
+        link: "https://apewisdom.io/"
+      },
+      {
+        source: "IBD / WSJ",
+        title: "Sandisk 强势突破、Reddit 纳入 S&P 500 带动新兴股关注",
+        related: "SNDK、RDDT、MU",
+        impact: "SNDK 体现 AI 存储链的强周期弹性，RDDT 则体现指数纳入和平台经济催化。两者都能拓宽认知，但估值和情绪反转风险很高。",
+        call: "趋势偏强但追高风险高",
+        callClass: "neutral",
+        link: "https://finance.yahoo.com/quote/SNDK"
+      }
+    ];
+
+    function portfolioRow(item) {
+      const cdr = item.cdrUrl
+        ? `<a class="ticker" href="${item.cdrUrl}" target="_blank" rel="noreferrer">${item.cdr}</a>`
+        : `<span class="tag neutral">${item.cdr}</span>`;
+      return `<tr>
+        <td>${item.rank}</td>
+        <td><strong>${item.company}</strong></td>
+        <td><a class="ticker" href="https://finance.yahoo.com/quote/${item.ticker}" target="_blank" rel="noreferrer">${item.ticker}</a></td>
+        <td>${item.sector}</td>
+        <td class="bar"><strong>${item.value}</strong> · ${item.weight}%<div class="bar-track"><div class="bar-fill" style="width:${Math.min(item.weight * 3.4, 100)}%"></div></div></td>
+        <td>${cdr}</td>
+        <td>${item.note}</td>
+        <td>${item.valuation}</td>
+        <td>${item.income}</td>
+        <td>${item.macro}</td>
+        <td>${item.policy}</td>
+        <td>${item.catalyst}</td>
+      </tr>`;
+    }
+
+    function industryPanel(item) {
+      return `<article class="industry-panel ${item.featured ? "featured" : ""}">
+        <h3>${item.title}</h3>
+        <p>${item.trend}</p>
+        <div class="industry-stocks">
+          ${item.stocks.map(stock => `<div class="mini-stock"><strong>${stock.split(" · ")[0]}</strong><span>${stock.split(" · ").slice(1).join(" · ")}</span></div>`).join("")}
+        </div>
+      </article>`;
+    }
+
+    function pulseCard(item) {
+      return `<article class="pulse-card ${item.tone}">
+        <small>${item.label}</small>
+        <strong>${item.title}</strong>
+        <p>${item.detail}</p>
+      </article>`;
+    }
+
+    function stockCard(item) {
+      return `<article class="card ${item.hot ? "hot-card" : ""}" data-country="${item.country}" data-hot="${item.hot ? "true" : "false"}">
+        <div class="card-top">
+          <div>
+            <h3>${item.name}</h3>
+            <p>${item.intro}</p>
+          </div>
+          <a class="ticker" href="${item.url}" target="_blank" rel="noreferrer">${item.ticker}</a>
+        </div>
+        <div>
+          <span class="tag ${item.country === "加拿大" ? "can" : "us"}">${item.country}</span>
+          <span class="tag">${item.exchange}</span>
+          <span class="tag">${item.sector}</span>
+          ${item.hot ? `<span class="tag hot">近月热议</span>` : ""}
+        </div>
+        <div class="stat-grid">
+          <div class="stat"><small>PE</small><b>${item.metrics.pe}</b></div>
+          <div class="stat"><small>EPS/盈利口径</small><b>${item.metrics.eps}</b></div>
+          <div class="stat"><small>当前催化剂</small><b>${item.metrics.signal}</b></div>
+        </div>
+        <div class="reason"><strong>适合关注的理由：</strong>${item.reason}</div>
+        <div class="score-row">
+          <div><small>关注等级</small><b>${item.profile?.conviction || "中"}</b></div>
+          <div><small>风险等级</small><b>${item.profile?.risk || "中"}</b></div>
+          <div><small>学习价值</small><b>${item.profile?.learn || item.sector}</b></div>
+        </div>
+        <p><strong>主要风险：</strong>${item.risk}</p>
+      </article>`;
+    }
+
+    function newsCard(item) {
+      return `<article class="news-card">
+        <span class="tag">${item.source}</span>
+        <h3>${item.title}</h3>
+        <p><strong>相关股票：</strong>${item.related}</p>
+        <p>${item.impact}</p>
+        <div class="prediction">
+          <span class="tag ${item.callClass}">预测：${item.call}</span>
+          <a class="link-button" href="${item.link}" target="_blank" rel="noreferrer">查看股价</a>
+        </div>
+      </article>`;
+    }
+
+    document.querySelector("#industryBoard").innerHTML = industryInsights.map(industryPanel).join("");
+    document.querySelector("#marketPulse").innerHTML = marketPulse.map(pulseCard).join("");
+    document.querySelector("#portfolioRows").innerHTML = portfolio.map(portfolioRow).join("");
+    document.querySelector("#stockCards").innerHTML = stocks.map(stockCard).join("");
+    document.querySelector("#newsCards").innerHTML = newsItems.map(newsCard).join("");
+
+    let activeFilter = "all";
+
+    function applyStockFilters() {
+      const query = document.querySelector("#stockSearch").value.trim().toLowerCase();
+      document.querySelectorAll("#stockCards .card").forEach(card => {
+        const matchesGroup = activeFilter === "all" || card.dataset.country === activeFilter || (activeFilter === "hot" && card.dataset.hot === "true");
+        const matchesQuery = !query || card.textContent.toLowerCase().includes(query);
+        card.classList.toggle("hidden", !(matchesGroup && matchesQuery));
+      });
+    }
+
+    document.querySelectorAll("[data-filter]").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll("[data-filter]").forEach(b => b.classList.remove("active"));
+        button.classList.add("active");
+        activeFilter = button.dataset.filter;
+        applyStockFilters();
+      });
+    });
+
+    document.querySelector("#stockSearch").addEventListener("input", applyStockFilters);
+  </script>
+</body>
+</html>
