@@ -31,6 +31,7 @@ TICKERS = [
     "SHOP.TO", "RY.TO", "CCO.TO", "ENB.TO", "BN.TO",
     "MU", "SNDK", "RDDT", "RKLB", "ASTS", "APLD", "NBIS"
 ]
+HOT_TICKERS = ["MU", "SNDK", "RDDT", "RKLB", "ASTS", "APLD", "NBIS"]
 
 def fmt_number(value):
     if value is None:
@@ -94,7 +95,7 @@ data = {
     ],
     "stocks": stocks,
     "news": news,
-    "hotStocks": []
+    "hotStocks": [item for item in stocks if item.get("ticker") in HOT_TICKERS]
 }
 
 DATA_PATH.write_text(
