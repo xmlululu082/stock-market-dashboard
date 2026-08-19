@@ -2,7 +2,6 @@ name: Daily Dashboard Update
 
 on:
   schedule:
-    # GitHub Actions 的 cron 通常按 UTC 跑。
     # 新加坡时间 08:00 = UTC 00:00
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -23,6 +22,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install yfinance requests beautifulsoup4 lxml feedparser
+
       - name: Run dashboard update script
         run: python scripts/update_dashboard.py
 
@@ -30,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add index.html
-          git diff --cached --quiet || git commit -m "Daily dashboard update"
+          git add index.html data.json
+          git diff --cached --quiet || git commit -m "Daily dashboard data update"
           git push
