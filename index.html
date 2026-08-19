@@ -1298,5 +1298,24 @@ async function loadLiveData() {
   }
 }
 
-loadLiveData();
+loadLiveData(
+  if (Array.isArray(data.news) && data.news.length > 0) {
+  const newsGrid = document.querySelector("#newsCards");
+
+  if (newsGrid) {
+    newsGrid.innerHTML = data.news.slice(0, 8).map(item => `
+      <article class="news-card">
+        <span class="tag">自动新闻</span>
+        <h3>${item.title}</h3>
+        <p><strong>来源查询：</strong>${item.query || "Market news"}</p>
+        <p>该新闻由每日自动更新脚本抓取。需要结合公司基本面、估值和市场反应判断影响。</p>
+        <div class="prediction">
+          <span class="tag neutral">预测：待人工判断</span>
+          <a class="link-button" href="${item.link}" target="_blank" rel="noreferrer">查看新闻</a>
+        </div>
+      </article>
+    `).join("");
+  }
+}
+);
 </script>
