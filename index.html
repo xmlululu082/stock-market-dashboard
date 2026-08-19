@@ -1256,3 +1256,47 @@
   </script>
 </body>
 </html>
+<script>
+async function loadLiveData() {
+  try {
+    const response = await fetch("./data.json?v=" + Date.now());
+    const data = await response.json();
+
+    if (data.updatedAt) {
+      const date = data.updatedAt.slice(0, 10);
+      const eyebrow = document.querySelector(".eyebrow");
+      if (eyebrow) {
+        eyebrow.textContent = "更新日期：" + date + " · 美加股票观察";
+      }
+    }
+
+    if (Array.isArray(data.stocks)) {
+      data.stocks.forEach(item => {
+        const cards = Array.from(document.querySelectorAll(".card"));
+        const card = cards.find(card => {
+          const ticker = card.querySelector(".ticker");
+          return ticker && ticker.textContent.trim() === item.ticker;
+        });
+
+        if (!card) return;
+
+        const stats = card.querySelectorAll(".stat b");
+        if (stats[0] && item.pe) stats[0].textContent = item.pe + "x";
+        if (stats[1] && item.eps) stats[1].textContent = String(item.eps);
+        if (stats[2] && item.price) {
+          const change = item.changePercent != null
+            ? " / " + item.changePercent + "%"
+            : "";
+          stats[2].textContent = "$" + item.price + change;
+        }
+      });
+    }
+
+    console.log("Loaded latest dashboard data", data);
+  } catch (error) {
+    console.warn("Could not load data.json", error);
+  }
+}
+
+loadLiveData();
+</script>
