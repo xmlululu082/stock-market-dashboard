@@ -1,0 +1,35 @@
+name: Daily Dashboard Update
+
+on:
+  schedule:
+    # GitHub Actions 的 cron 通常按 UTC 跑。
+    # 新加坡时间 08:00 = UTC 00:00
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run dashboard update script
+        run: python scripts/update_dashboard.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Daily dashboard update"
+          git push
