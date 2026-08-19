@@ -1,3 +1,20 @@
+import feedparser
+from urllib.parse import quote
+
+def google_news(query, limit=5):
+    url = f"https://news.google.com/rss/search?q={quote(query)}&hl=en-US&gl=US&ceid=US:en"
+    feed = feedparser.parse(url)
+
+    items = []
+    for entry in feed.entries[:limit]:
+        items.append({
+            "title": entry.title,
+            "link": entry.link,
+            "published": entry.get("published", ""),
+            "query": query
+        })
+    return items
+
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -50,6 +67,22 @@ for ticker in TICKERS:
             "error": str(error)
         })
 
+news = []
+for query in [
+    "US stock market today Nasdaq Treasury yields oil",
+    "Nvidia AI data center stock",
+    "Berkshire Hathaway 13F holdings",
+    "Canada TSX banks energy Shopify Cameco",
+    "Reddit stocks WallStreetBets MU SNDK RDDT"
+]:
+    try:
+        news.extend(google_news(query, limit=3))
+    except Exception as error:
+        news.append({
+            "title": f"News fetch failed: {query}",
+            "error": str(error)
+        })
+
 data = {
     "updatedAt": datetime.now(timezone.utc).isoformat(),
     "marketPulse": [
@@ -60,7 +93,7 @@ data = {
         }
     ],
     "stocks": stocks,
-    "news": [],
+    "news": news,
     "hotStocks": []
 }
 
