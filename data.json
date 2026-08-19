@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T10:39:23.498697+00:00",
+  "updatedAt": "2026-08-19T10:46:40.779774+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -50,8 +50,8 @@
       "price": 64.23,
       "changePercent": 0.53,
       "marketCap": 449144258560,
-      "pe": 14.83,
-      "eps": 4.33,
+      "pe": 14.77,
+      "eps": 4.35,
       "dividendYield": 1.99,
       "fiftyTwoWeekHigh": 65.23,
       "fiftyTwoWeekLow": 46.12
@@ -123,7 +123,7 @@
       "changePercent": 0.28,
       "marketCap": 29432145920,
       "pe": 11.86,
-      "eps": -2.89,
+      "eps": -2.88,
       "dividendYield": 6.46,
       "fiftyTwoWeekHigh": 28.1,
       "fiftyTwoWeekLow": 21.04
@@ -134,8 +134,8 @@
       "price": 219.74,
       "changePercent": -2.34,
       "marketCap": 5322322739200,
-      "pe": 34.5,
-      "eps": 6.37,
+      "pe": 33.65,
+      "eps": 6.53,
       "dividendYield": 0.46,
       "fiftyTwoWeekHigh": 236.54,
       "fiftyTwoWeekLow": 164.07
@@ -170,8 +170,8 @@
       "price": 266.83,
       "changePercent": -3.94,
       "marketCap": 94539833344,
-      "pe": 26.06,
-      "eps": 10.24,
+      "pe": 26.11,
+      "eps": 10.22,
       "dividendYield": 0.61,
       "fiftyTwoWeekHigh": 412.7,
       "fiftyTwoWeekLow": 228.63
@@ -181,7 +181,7 @@
       "name": "SHOPIFY INC",
       "price": 203.93,
       "changePercent": -1.2,
-      "marketCap": 262385287168,
+      "marketCap": 264630697984,
       "pe": 99.0,
       "eps": 2.06,
       "dividendYield": null,
@@ -241,9 +241,9 @@
       "name": "Micron Technology, Inc.",
       "price": 940.76,
       "changePercent": -7.02,
-      "marketCap": 1062487916544,
-      "pe": 21.28,
-      "eps": 44.21,
+      "marketCap": null,
+      "pe": 21.27,
+      "eps": 44.22,
       "dividendYield": 0.06,
       "fiftyTwoWeekHigh": 1255.0,
       "fiftyTwoWeekLow": 113.46
@@ -279,7 +279,7 @@
       "changePercent": -3.56,
       "marketCap": 50615779328,
       "pe": 1583.2,
-      "eps": -0.26,
+      "eps": -0.27,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
@@ -313,7 +313,7 @@
       "name": "Nebius Group N.V.",
       "price": 248.43,
       "changePercent": -7.6,
-      "marketCap": 63075926016,
+      "marketCap": 67536994304,
       "pe": -82.88,
       "eps": -0.07,
       "dividendYield": null,
@@ -329,7 +329,7 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Stock Market Today: Nasdaq Falls 1.8%, With Bond Yields at Decade Highs and Oil price above $91 - Eurasia Business News",
+      "title": "Stock Market Today: Nasdaq Falls 1.8%, With Bond Yields at Decade Highs and Oil price above $91 - eurasiabusinessnews.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNDJkOG1iUzhBOHFOSkVmbVJwUVhHWVZuc2l5bzZsa0dyamdYN0p0Wkd6ZmN5VXl2cG5RTlZHaldEdkJKdHhORnVvQS1yZDRvUGtWNmdYbXpMbDA5dU5ra3JQRzhvZ1oyYi1yaGs3eGxPYWQzSUJxZ3gxRmF2dENoVlVHRkpqNEVUbE16VndVMmNvWTc0UlhqSlJ6R2M3M1lsZXk1X2ZxNEtnelVSNlVTR2k2dV9RUVhIMVRSbHRReFVaUzN5eXlaNzJwQXp3RkRE?oc=5",
       "published": "Tue, 18 Aug 2026 18:53:33 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
@@ -341,7 +341,7 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "OpenAI announces massive data center in Ohio with Nvidia guarantee - axios.com",
+      "title": "OpenAI announces massive data center in Ohio with Nvidia guarantee - Axios",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WTVZYTGFrandXeVZjWnV6TllsTjRzOEF3b0JLdy1QN2wzbFFFdC1TNXdWOU9LQ1lMbFFoQkUzY3RwU1dYbllrS2xSaE1hN1ZjOEd2ZVpuS2xvSDV2Q0pXRXFtMG43S0ZRWkZFdDRUZXJhRk54M2ZqQmFfMzl1QQ?oc=5",
       "published": "Tue, 18 Aug 2026 12:18:40 GMT",
       "query": "Nvidia AI data center stock"
@@ -353,9 +353,9 @@
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "NVIDIA (NVDA) Lands OpenAI Data Center Deal, Is The Stock Still A Bargain? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUE9MOWNMWGg2dXltZU1kQzkyUW0yVDM2R2JUVURSb1FnRHpqbUZEOVN2OUNwZEZiMDJQUlNCeHNSQ3NqbGVtWDZmYWVvT01iM3k3QkFVVllHR2plbHFZVVotTXh6a0d2Um1ORlRiUVZSeW1zeHN6MjZ6MzY0ODNTUnFFWlJyRE1oRzR6Vk1QR0JBa0lFeG9lRC1B?oc=5",
-      "published": "Tue, 18 Aug 2026 14:12:37 GMT",
+      "title": "Moody’s affirms Nvidia stock Aa1 rating on Ohio data center deal - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQek95eC04THNSZUVwcWNGeklGVEdWS2otVDlCTV9ISDNEQ1NVQ2tJNjBvNlpQZXVrYW9LYnVPQnlBVFh0TzBIaUhPMk5XTVA2TnRfcjJDYlN5cE9Xa0pmeUROQUduRTVEOWVBUmEtNXRMa1pGQ2xBVWI5ajRVNW9QSTNBUm9lX0I1MHdTY2xHQjZYVzZnbEpQNzA3SDVGanpwa05kT09DVkN0amgwT2VNNElCQTBaVTM2bWZKWHluSjhUZEk?oc=5",
+      "published": "Tue, 18 Aug 2026 21:40:21 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -389,7 +389,7 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "5 Top Canadian Stocks to Buy in August - The Motley Fool Canada",
+      "title": "5 Top Canadian Stocks to Buy in August - fool.ca",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdHFRNnBXdFNWUm1tZXlpZFoteVpndFFfNWRIckpPS1dDbXlmRllYTmFsemFBRG1ET0NNVjVFc0M3T0x6eHk3R0JYMzZmQ0JhQ2xBallGOUFYajNoeHp6Tk9MZ3NQUXlvVVl4VUNpbjZWaDZRY3VsREVn?oc=5",
       "published": "Wed, 05 Aug 2026 07:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
