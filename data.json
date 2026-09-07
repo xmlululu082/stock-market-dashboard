@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T03:41:27.953181+00:00",
+  "updatedAt": "2026-09-07T03:40:54.028024+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -323,15 +323,9 @@
   ],
   "news": [
     {
-      "title": "Stock Market Today: Treasury Yields Retreat, Dow and Nasdaq Soar, Oil price above $91, Gold at $ 4,465 - Eurasia Business News",
+      "title": "Stock Market Today: Treasury Yields Retreat, Dow and Nasdaq Soar, Oil price above $91, Gold at $ 4,465 - eurasiabusinessnews.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUVDNmpLNWxxVmJCSFdUNnRtZkdHeWtzbkJQSFN5SEtFckVpdk40QnVPZE1GOU5HMlBxNjF2bzNfcUY2YnVpS2F3Ykt0Nk1zQmRSaUxBajEwUkdBX0dFeFlOcE5BVktoZ0ItOWp4Nm13ZjhwcExwVWpOMzEwaHRXTDVEdXh5TzhjMm9Zck5DWXBRdFVpdGk0d2lDWFZkdmtya3lwLXQ3clVveTFJUDhTN1Z0WkI0X2k0Zk8ya0VqbGwxcjV2OXBzRnVlRXByTlh1TWNqYg?oc=5",
       "published": "Thu, 03 Sep 2026 14:27:22 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
-      "title": "Nasdaq Futures Slip As Rising Iran Tensions, Oil, Treasury Yields Keep Wall Street On Edge: NVDA, DELL, CRDO, NIO, RKLB, MSTR In Focus - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWmZMekoyQUVpZFF4ZkFseWlnMFFEcTVuVTFMMXlmS1RfVW1BSm5Ca2JNMG0zWUQ5cG94NWoxZG01TFQ1YWY3VUZHVDlQM0NadFZDWFk1c0RIQW9XUVhad1JGZzJlWlk3aUZiVVNDb0dvaEVJZ1ZUNFkxV1JCTGtvcUcyNmtyTzNHY3ZZa3dXWFJTYUItaFRITUlBQ1licXZwaDJ6UGdiT0JzcS1JQlg5UDRyanBEY3NBR0pKLThaamZoLWhQM2ZmR1d3NHh2RzhORTFOdktibGE4bGQxR3dBeGFEWnptWkZ3V05OdEoxVUJGdVhFYzRoanFjbHVhSU1ZWUx1UUR2dEp3QUxxcE9WRmVDR1ZiYWs?oc=5",
-      "published": "Sat, 05 Sep 2026 17:23:50 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
@@ -341,13 +335,19 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
+      "title": "Stock Market Today (Sept. 3, 2026): Nasdaq, S&P 500 leap as Treasury yields fall, Dollar retreats - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zcUpGZzJnd09RY0k4VzMtZ2Z6ejIzcDRlM0dVcHFsLTh1MzFLTmxjTHFqbUNuTlRySUFSdHFzX09fVDRQODF2YVZXT0lITVZaSDg0eUZQc0F5ZnJ1WDF3Ymc5UnU2Ukx5dmpNTEo3bXhOZDI3UVh2NjBFeUlPTU0?oc=5",
+      "published": "Thu, 03 Sep 2026 13:48:12 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
       "title": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1hqSjAyWnNpLXYxYjZwV3Z2NVh2ci1QS0swdW5rY01MaWVybHp6dFB5N0VSQnVIWVZ0Y0ZaaVZtalR2T3ZITlJ1Q2dWZkV4MGhnUzQxbGl1d2RCRHdMcTdtbnJuZ1hKa25Vem9fcUpvaDVrQ29RVkRMVXJ5Ti04SUQtSWN6dHpISl9hM3JLZw?oc=5",
       "published": "Wed, 02 Sep 2026 13:52:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom - cnbc.com",
+      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFJEczUtYm8zMzZSOVJnLU5tYWRYNG9pSWlOUjBfUm0zRElHbkZ4SmVTR2MyQmw4bHhuQzZESVVqemJMSFUyaGlERlJBQW5ndFZ4bmljZVZ4TldpVFdqanVUbzJxZjNwa3B1emdjclV5aEtHbFpmbUM2bDEzNnhjQ0lwMjBKaVFkX01BS2hYc2xYX2tXNV9JZ0lHb01tNS1ETzFJ0gGoAUFVX3lxTE15bmpzdUttS09NQ2NYQ0lJRXo0TEpLd2VLVjVRdjdrZHRtbjlqalFBNFNTMXNjS2hHMzRGODVfZjZCQW1OWFFZd0V1dm1xVk91UFdmN1g4TTBKem1EWGNrS2dmdUgxOWJFTmdETV9FS0xhNEVhLWdtSENRYkJzeEFDc1VjMTE5R0sxSzNtZWlSR21QNThwekdOeFZDa1Z5anNQdGt6VzRLZQ?oc=5",
       "published": "Wed, 02 Sep 2026 22:49:01 GMT",
       "query": "Nvidia AI data center stock"
@@ -359,7 +359,7 @@
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
+      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXJrOXJWRlYzbmVOa05RNXZpUjY4amRXbUFNcXdFLVEyNXJoVGtPUy1KVkF3VGVTdWlHZF9Mc2Yzemk1QUt2Z19IakxGeHlmaWlOUlQ2Zkctd1JtZVMtMVl5S1VEa3ZPZDgtTk4yTjd2a1gxNkt0YmdoOENVTTBkYTFmQUlNbU90NXItcElNcGZCUHJhX3FIR0REVUVNOS1JODlCN0xUNl9XQUFY?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
@@ -377,7 +377,7 @@
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
-      "title": "Cameco (TSX:CCO) Enters Focus As Energy Stocks Narrative Shifts - kalkinemedia.com",
+      "title": "Cameco (TSX:CCO) Enters Focus As Energy Stocks Narrative Shifts - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlZYc0FVQUhFa0V1TEt0Mlp4cVQ0N1ExODZ0aWVUYURtT1dKYkJwSTJaOFF1UEZsbklPYkxWWElWT0JTRmFyU0YyTUdFRTVPNTNlVDhnSmxrR0Y3V1gtalB6R0VEWlJSblFyc2xOUk5vRVQwNDBFQm8wbFBNbGRnMjRBRi04RlFHS0k5R2pUYm1lbEN3TTJrWTkwR2w4LVl0S04wdg?oc=5",
       "published": "Sat, 05 Sep 2026 17:22:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
@@ -389,21 +389,21 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "Cameco (TSX:CCO): Is Nuclear Power Set to Surge? - kalkinemedia.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXRJR0t0Q3NneTVpNUhudjI4V2hlMmNkcTlDaEVWelB6MzZxVDdtZnhqZ3k5NS1JMkREaW5Bc1dCTVJmUlJuYy1YbUVQQzVtQllBM0ZpUVh0cWNNakJjTDRGellmWXRrUXBjMEtVSFVabkpIZjJ6dlc2RTREcVZOMXpibDJkcUQ0YU9fdVh3?oc=5",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "title": "5 Top Canadian Stocks to Buy in August - The Motley Fool Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdHFRNnBXdFNWUm1tZXlpZFoteVpndFFfNWRIckpPS1dDbXlmRllYTmFsemFBRG1ET0NNVjVFc0M3T0x6eHk3R0JYMzZmQ0JhQ2xBallGOUFYajNoeHp6Tk9MZ3NQUXlvVVl4VUNpbjZWaDZRY3VsREVn?oc=5",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
-      "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkRjUTJDUTlTNGZfUVJQWUwyX1VfR1c5SXlSeWRSZVUtVXZoSElGVlNQSzhnWllLSGNQMF9pM0g2ZVB6TzB3MnJKaDlLSUU3Ql9nem5nVTk4V0hGanNsV0lPRzB3SXYwRHhMZGJxeG5PQzAtQk9QNzdLdVZ6VDRaUS1lRzVmQ2xIQVhMejE0Vk80dHhwSElqSU5wOHVpM2RNenJ4RnJ0SVdqUUo0cjNHdmJQQ1VLS3o4OEplM051Sy1BV2ZzQUhmRDFob1pLUkxfX1E?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
       "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor' - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWRFS19RemtZaFlZN3dHYkJfX0toaFl5LTM5TEFsLUItQ2NhakY4TzE3VnNqRlVteF81RVV6a2drVXNlMkRxd3RVV0FKdkRRekFNVU9BeFc3ak1sdWlwaFlHcWpZLTBzMnhrMkZYd0hBZktqYV9JUkI5OHgwRzRWcXdsT3h5dWJQVjAyRGZzT3hJYjR0RjA4?oc=5",
       "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
+    },
+    {
+      "title": "5 Stocks Investors Couldn't Stop Buzzing About This Week: NVDA, MRVL, CRM and More - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVZ6c3IzLS1OUmU1NzdXajd6bWNpRkVSb0xqVHRaZVk0ZlNWdUlkRERrUWdabzYzRV9UMTZpbWdMWFRJdThkazlqeDAxbklKVnZJNDRRLXIxaEd4ZFFMeHgzXzhlbzFpQXJPODFPMU9LS1FmN3EwWlFzQXYyMi1FQTdFcEMzdFVnazZaUWtQVURYOUdyRjlkdmxDLWg1M3ZnZDAzWlJ3ODVkOEoyQTFRcUwtZWFWYXd5c2EyVloxWmx2M3VVd0NpOEVlQm5sdE1U?oc=5",
+      "published": "Sat, 29 Aug 2026 13:00:34 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
