@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:40:54.028024+00:00",
+  "updatedAt": "2026-09-08T03:45:41.276745+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -210,7 +210,7 @@
       "eps": 0.81,
       "dividendYield": 0.17,
       "fiftyTwoWeekHigh": 182.72,
-      "fiftyTwoWeekLow": 103.67
+      "fiftyTwoWeekLow": 106.53
     },
     {
       "ticker": "ENB.TO",
@@ -246,7 +246,7 @@
       "eps": 44.22,
       "dividendYield": 0.05,
       "fiftyTwoWeekHigh": 1255.0,
-      "fiftyTwoWeekLow": 128.4
+      "fiftyTwoWeekLow": 131.56
     },
     {
       "ticker": "SNDK",
@@ -258,7 +258,7 @@
       "eps": 73.78,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 2354.39,
-      "fiftyTwoWeekLow": 67.86
+      "fiftyTwoWeekLow": 69.57
     },
     {
       "ticker": "RDDT",
@@ -306,7 +306,7 @@
       "eps": -0.91,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 50.73,
-      "fiftyTwoWeekLow": 13.16
+      "fiftyTwoWeekLow": 13.91
     },
     {
       "ticker": "NBIS",
@@ -318,27 +318,33 @@
       "eps": -0.07,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 299.86,
-      "fiftyTwoWeekLow": 63.8
+      "fiftyTwoWeekLow": 73.52
     }
   ],
   "news": [
     {
-      "title": "Stock Market Today: Treasury Yields Retreat, Dow and Nasdaq Soar, Oil price above $91, Gold at $ 4,465 - eurasiabusinessnews.com",
+      "title": "Stock Market Today: Treasury Yields Retreat, Dow and Nasdaq Soar, Oil price above $91, Gold at $ 4,465 - Eurasia Business News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUVDNmpLNWxxVmJCSFdUNnRtZkdHeWtzbkJQSFN5SEtFckVpdk40QnVPZE1GOU5HMlBxNjF2bzNfcUY2YnVpS2F3Ykt0Nk1zQmRSaUxBajEwUkdBX0dFeFlOcE5BVktoZ0ItOWp4Nm13ZjhwcExwVWpOMzEwaHRXTDVEdXh5TzhjMm9Zck5DWXBRdFVpdGk0d2lDWFZkdmtya3lwLXQ3clVveTFJUDhTN1Z0WkI0X2k0Zk8ya0VqbGwxcjV2OXBzRnVlRXByTlh1TWNqYg?oc=5",
       "published": "Thu, 03 Sep 2026 14:27:22 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nasdaq 100 forecast: Stocks continue rebound despite rising oil and elevated bond yields - stonex.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORWNicWw2UDBURVQyb0dlbDF6dFNaM0RndFdXQXU3R2VLbmlEbGZDQ0ZMQzVQb0RGb3d4MDYwdjNDdFVUdy1xc2dGdEFSMzJ5MkZKTHVjaWQwRkZadTNDZDVjUHZTOUkwWDMzam9kVmFtdU5CZWczVUlJSHlWN2k2MDZoYW5NNEFxOXdtYno3dmhJa0NWMWt5MWtKMXB2ZlluSV9JbkRwbm1GMkJzWmFUZDBCSkVVc3FDSHVtcXNrc1ZlUXkzQjYzd3JFWHFoeGZxcl95cjlUVFNSZVdMZHcw?oc=5",
-      "published": "Thu, 03 Sep 2026 16:14:58 GMT",
+      "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
+      "published": "Thu, 03 Sep 2026 22:48:22 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Stock Market Today (Sept. 3, 2026): Nasdaq, S&P 500 leap as Treasury yields fall, Dollar retreats - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zcUpGZzJnd09RY0k4VzMtZ2Z6ejIzcDRlM0dVcHFsLTh1MzFLTmxjTHFqbUNuTlRySUFSdHFzX09fVDRQODF2YVZXT0lITVZaSDg0eUZQc0F5ZnJ1WDF3Ymc5UnU2Ukx5dmpNTEo3bXhOZDI3UVh2NjBFeUlPTU0?oc=5",
-      "published": "Thu, 03 Sep 2026 13:48:12 GMT",
+      "title": "Nasdaq Futures Slip As Rising Iran Tensions, Oil, Treasury Yields Keep Wall Street On Edge: NVDA, DELL, CRDO, NIO, RKLB, MSTR In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWmZMekoyQUVpZFF4ZkFseWlnMFFEcTVuVTFMMXlmS1RfVW1BSm5Ca2JNMG0zWUQ5cG94NWoxZG01TFQ1YWY3VUZHVDlQM0NadFZDWFk1c0RIQW9XUVhad1JGZzJlWlk3aUZiVVNDb0dvaEVJZ1ZUNFkxV1JCTGtvcUcyNmtyTzNHY3ZZa3dXWFJTYUItaFRITUlBQ1licXZwaDJ6UGdiT0JzcS1JQlg5UDRyanBEY3NBR0pKLThaamZoLWhQM2ZmR1d3NHh2RzhORTFOdktibGE4bGQxR3dBeGFEWnptWkZ3V05OdEoxVUJGdVhFYzRoanFjbHVhSU1ZWUx1UUR2dEp3QUxxcE9WRmVDR1ZiYWs?oc=5",
+      "published": "Mon, 07 Sep 2026 05:15:48 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Not Nvidia. Not Micron. This Is My Top AI Infrastructure Stock to Buy Right Now (Hint: It Can Double Within 3 Years) - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1VKNm9aVm1odThoaTNINkc2ZkhEUWt0RnRVcWhMQ2IyNUs4elAtRUJ3WER1WUFWYTZHai0ySFl5a1BYVEo2R3ZjY2dLdGxBVkJnbU9UVERkaVNxN3JJX0JfdTd1YVFsa1FzU1hZaWl5TUotYlJheWkxX0IzbnJRb0FNUExlR1RuS3lwWjZfV0hlMlhCQkt1d0hGMDJsY1R3UnlhNzdrY1JkemxrTmtiUF9OYng3czM0cGhoQnJ4RVFJbXIwaGstWTNERjVwU25SSi0wLURwdEM3cUw1akJEdnFCVUpJNDFYbUE?oc=5",
+      "published": "Mon, 07 Sep 2026 17:03:00 GMT",
+      "query": "Nvidia AI data center stock"
     },
     {
       "title": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom - Yahoo Finance",
@@ -347,27 +353,21 @@
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFJEczUtYm8zMzZSOVJnLU5tYWRYNG9pSWlOUjBfUm0zRElHbkZ4SmVTR2MyQmw4bHhuQzZESVVqemJMSFUyaGlERlJBQW5ndFZ4bmljZVZ4TldpVFdqanVUbzJxZjNwa3B1emdjclV5aEtHbFpmbUM2bDEzNnhjQ0lwMjBKaVFkX01BS2hYc2xYX2tXNV9JZ0lHb01tNS1ETzFJ0gGoAUFVX3lxTE15bmpzdUttS09NQ2NYQ0lJRXo0TEpLd2VLVjVRdjdrZHRtbjlqalFBNFNTMXNjS2hHMzRGODVfZjZCQW1OWFFZd0V1dm1xVk91UFdmN1g4TTBKem1EWGNrS2dmdUgxOWJFTmdETV9FS0xhNEVhLWdtSENRYkJzeEFDc1VjMTE5R0sxSzNtZWlSR21QNThwekdOeFZDa1Z5anNQdGt6VzRLZQ?oc=5",
-      "published": "Wed, 02 Sep 2026 22:49:01 GMT",
+      "title": "Not Nvidia. Not Micron. This Is My Top AI Infrastructure Stock to Buy Right Now (Hint: It Can Double Within 3 Years) - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeHd0ZGhoMk9aUnh4NW43a1FQT3A0N3NBRGFQVGZhQndmRlF5V3NfSXluVS1WSjhENDVCYktvcFgwZm9LNWFWRHduRzJBT3ppSWNvWWlsVkZvVlNtUG1Hc0FLNHd6cWVUd3VSaWgtUk9tUGpObmdTbDZOOWZjZTlhTkc0R0Z0Mkx0N3RlMUZmLUZuejh0RDZZTlh0WFRFUjcySUo1Yk9sdFBTVjdJaVpXbWE5VVl1a1ZDa2luRnZyUFVYSkJnT1Z4MzNYTGdkTEpmSEFDa0FZdjhLX3I5eFFHVGZrYk9vemJ1cXpOakx3WW9hSzlsYWM2Tnh3X09UeWpOSzhRU2JqQ1VQOWxuOUtIaEpfU3FnVy1oc0E?oc=5",
+      "published": "Mon, 07 Sep 2026 16:37:17 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamJMNVI1ZThlMnNnbFl2Tl81SXd2ckc1eGF1aS1uOU11RHFSTjh1a29pOUV6cV9VR2QtS0liSlU4YlBBbWxVQ0ZTMDlLRnlad0p0cGtXY0ozWkl2MURsM0lOdktDSFRMN1pDLUh6TEplLWtJSFY1T3hmRVVMeG1jNGc1bFVhZ2V3YTdLZ0VKRlZQWks4SXVyb09uRmJ5YllpNTdKVVFfZXk5VEg4Mmw1UTFja0hFYjZDZjFfXzhFd3pBWmxvcnljT055Zl8?oc=5",
-      "published": "Tue, 01 Sep 2026 23:03:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - morningstar.com",
+      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXJrOXJWRlYzbmVOa05RNXZpUjY4amRXbUFNcXdFLVEyNXJoVGtPUy1KVkF3VGVTdWlHZF9Mc2Yzemk1QUt2Z19IakxGeHlmaWlOUlQ2Zkctd1JtZVMtMVl5S1VEa3ZPZDgtTk4yTjd2a1gxNkt0YmdoOENVTTBkYTFmQUlNbU90NXItcElNcGZCUHJhX3FIR0REVUVNOS1JODlCN0xUNl9XQUFY?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
-      "title": "These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlE5UE9oeE9fSC12MVFXczkzR3RhWFhzU2FVc1lOaEJfaWxCTjlkZlN4TUdZN19pRnllTnJaNDV0bjk3QXJNWEVNVmxJWmtFelYybUJIanQtLVlXcFNlWDlCUTZNdkRCOFRiYzhEa1RtZGRKMzZYbUZQRFcxaVprSWNPdlJpRUNNT0xQdW15cGItZ3RSV3ZtNDJ1bHozdWxwcDhwaUpIWDFfY2U0d3RpSDlzSQ?oc=5",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "title": "Berkshire Hathaway Turns Buyer As Buffett Backs Alphabet - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnQ3YnRNRmpURVBUTUhndC1mUGJFaEhpYTNEVUlZVFJ4OWQ0Zms4Y3A3Q1VJSzhDSU5aLUkxaWFNUEFuYmV2RGFWc0xiWVQ0OUx6Q05EWnpkOXFKWUdOTGhxOGFQb01RTDJpTGNxdTdMNjl6aDlCNjVUR2pydF9nSUR3MzVSNEFralNzYUlnakR1LU9iZ0NuQW1JY1pEbElEdXp2TjNiaHk4YjZy?oc=5",
+      "published": "Sat, 15 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
@@ -383,21 +383,21 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "With Canadian stocks near all-time highs, Harvest ETFs pushes new 'put and call' funds - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2p0aWg5X3hDQjRTMVZ0MVdFNTBOWXlBcGZjQ0hLTXdHU1FmV2M3bW5TT3RNNVQ4VVc1MUhpUFlpTVg4V1dQeVB0MlVJbkJZeUdnS3dmb0pKOFBxX0xsbERPUl9vVW82MkpncjN0cWRCRlhUeks2WHAteE02MWlIbGlHNmk3SlBlcW1ac1FzQmFDWjNuNlBVNzZtM2traVNCeE8tSjgzb1U2VUYyVTB6Ui1VNm9rejh2U1ZiRzQ4YWxDQ21IR001OHBOUTc?oc=5",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
       "title": "5 Top Canadian Stocks to Buy in August - The Motley Fool Canada",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdHFRNnBXdFNWUm1tZXlpZFoteVpndFFfNWRIckpPS1dDbXlmRllYTmFsemFBRG1ET0NNVjVFc0M3T0x6eHk3R0JYMzZmQ0JhQ2xBallGOUFYajNoeHp6Tk9MZ3NQUXlvVVl4VUNpbjZWaDZRY3VsREVn?oc=5",
       "published": "Wed, 05 Aug 2026 07:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWRFS19RemtZaFlZN3dHYkJfX0toaFl5LTM5TEFsLUItQ2NhakY4TzE3VnNqRlVteF81RVV6a2drVXNlMkRxd3RVV0FKdkRRekFNVU9BeFc3ak1sdWlwaFlHcWpZLTBzMnhrMkZYd0hBZktqYV9JUkI5OHgwRzRWcXdsT3h5dWJQVjAyRGZzT3hJYjR0RjA4?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "title": "Cameco (TSX:CCO): Is Nuclear Power Set to Surge? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXRJR0t0Q3NneTVpNUhudjI4V2hlMmNkcTlDaEVWelB6MzZxVDdtZnhqZ3k5NS1JMkREaW5Bc1dCTVJmUlJuYy1YbUVQQzVtQllBM0ZpUVh0cWNNakJjTDRGellmWXRrUXBjMEtVSFVabkpIZjJ6dlc2RTREcVZOMXpibDJkcUQ0YU9fdVh3?oc=5",
+      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "query": "Canada TSX banks energy Shopify Cameco"
+    },
+    {
+      "title": "Reddit Inc (RDDT) Stock Price, Quote, News & History - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9odGlDdmRpU1VDQmV4SnpfdGFES0xFRkY3RVdvS3AxTTNzeXhTUkVtMEdaSnlEc1RyYkxSMEhKYVJwUzNTa3A5UVdrRQ?oc=5",
+      "published": "Fri, 04 Sep 2026 23:58:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
@@ -407,7 +407,7 @@
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "These Are 5 of Buzziest Stocks on Reddit: Here’s the Best and Worst of the Bunch - Yahoo! Finance Canada",
+      "title": "These Are 5 of Buzziest Stocks on Reddit: Here’s the Best and Worst of the Bunch - ca.finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ09jbldZY0dOdVJIX3JKMzlOVS1tZTEwN3pMemRjcHd4MFctcUZTZ3JPVVFVa3ZsNnpxUGthNW9pZDhldlJjRnJ6cVd4Rm92SEdjc09KWXdJd0NTNWVrazZQck1NTTZjMVJMODFCOUhXMFo1eWw2dGdRZzBfVUNHTkV1bFc?oc=5",
       "published": "Tue, 26 Aug 2025 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
@@ -424,7 +424,7 @@
       "eps": 44.22,
       "dividendYield": 0.05,
       "fiftyTwoWeekHigh": 1255.0,
-      "fiftyTwoWeekLow": 128.4
+      "fiftyTwoWeekLow": 131.56
     },
     {
       "ticker": "SNDK",
@@ -436,7 +436,7 @@
       "eps": 73.78,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 2354.39,
-      "fiftyTwoWeekLow": 67.86
+      "fiftyTwoWeekLow": 69.57
     },
     {
       "ticker": "RDDT",
@@ -484,7 +484,7 @@
       "eps": -0.91,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 50.73,
-      "fiftyTwoWeekLow": 13.16
+      "fiftyTwoWeekLow": 13.91
     },
     {
       "ticker": "NBIS",
@@ -496,7 +496,7 @@
       "eps": -0.07,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 299.86,
-      "fiftyTwoWeekLow": 63.8
+      "fiftyTwoWeekLow": 73.52
     }
   ]
 }
