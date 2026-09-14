@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T03:57:52.010712+00:00",
+  "updatedAt": "2026-09-14T04:05:46.213126+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -52,7 +52,7 @@
       "marketCap": 438375383040,
       "pe": 14.48,
       "eps": 4.33,
-      "dividendYield": 2.05,
+      "dividendYield": 2.04,
       "fiftyTwoWeekHigh": 65.23,
       "fiftyTwoWeekLow": 46.12
     },
@@ -323,6 +323,12 @@
   ],
   "news": [
     {
+      "title": "Nasdaq 100 forecast: Stocks continue rebound despite rising oil and elevated bond yields - forex.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRG9PREVyTjRwOENuTzc0YThObmF3SDVReHVVMzdEX2tmYTV1dmN5NHZ1OHc2Zkw5Q2JlTWdqYUFYbVlxR2hnbEhPbFFMR3lWMFgxSkx3Q0VVQ3drUWV0UmZrRWFUcnVKSlQyeHpodWpWdjl3aXVPTVpFNUxjNnVVWE13ZnB1WDRXUTdSRVExSGRjZDlzX25JNnliOENzMEpBZVNlcDNuaG5UbnlfV2lFUDVQdXdOaVhpNVpRYmFobnV5MEVuYlN4U3BfMA?oc=5",
+      "published": "Sun, 13 Sep 2026 15:39:29 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
       "title": "Stock Market Today: Dow and Nasdaq Drop as Oil Hits $100, Gold price at $ 4,399 - Eurasia Business News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm5YM0hOVVczNVFoMEJmNFZFcUY0ZWRJa0RpSXdnWXQ3aTFZTzNKMEtkMENnRkJFcGpzRVdvRFNsVDFJMThseTRGUnVZSmNFWjQ5YlpRcXRIMkpUZ2dEOWhyM0hjWlVIOU5Ydmxhb28wWEtZX3dUSWxENmIzYW5ib2x4TkI4OUJaSlh3LV91OEpRb3c2eHBhVmZKWHFHT0pEX3NzUVc3LVNsQUxrdTRTNkVENHhFRVg5?oc=5",
       "published": "Wed, 09 Sep 2026 23:20:30 GMT",
@@ -335,27 +341,21 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHVxU1NNMWR3bWFGV2FGd1dpYzg3WDNXcDBOVnpyRHNEYmtldlNzSHNraGpwQ3d5eGp1Q2t2eUI3STdQMXpfOERzX1Rmc1NLUVp6c2tJR1o4djYxWmtIYUQ4dUZUYlNOcF9NbFJMR2NGRE56OUNYSVBaMHhjQzFDSDdmc1JkTWZrQVlfUnhn?oc=5",
-      "published": "Wed, 09 Sep 2026 22:01:49 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
+      "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
+      "published": "Tue, 08 Sep 2026 13:09:52 GMT",
+      "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "4 Stocks to Buy Now to Ride the AI Data Center Spending Boom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1hqSjAyWnNpLXYxYjZwV3Z2NVh2ci1QS0swdW5rY01MaWVybHp6dFB5N0VSQnVIWVZ0Y0ZaaVZtalR2T3ZITlJ1Q2dWZkV4MGhnUzQxbGl1d2RCRHdMcTdtbnJuZ1hKa25Vem9fcUpvaDVrQ29RVkRMVXJ5Ti04SUQtSWN6dHpISl9hM3JLZw?oc=5",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "query": "Nvidia AI data center stock"
     },
     {
       "title": "NVIDIA (NVDA) Expands Its AI Factory Footprint, Is The Stock A Bargain? - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalY3d0lMMVp1cUFHWkZRV09aRWxCLTBfVzdCVndjdGE0WVRibUVFZGg5Zk1UNlFNWTdNb2w1X2NHeWRCcVdmTTRkaVFrRU9DeWEtUjNiYUpjd3NXbFJLZVEtT29XVzZpcV9DSWhuajZXaHB2eWpPcEV6T0w2RlVPdERWYndTc0NiTjRTSEpnNlNXV2p5OWtXd2h2aFM0eTk2SmE4OEcwak1NckdrVUxsUXhUUURIMXAzNkJoZmxDWV9mMGlVV2N6b1Z30gHPAUFVX3lxTE1kYlpWelNLWUM2OGxiOE1QaFRIellrdWxOSnUwSnRlTTRNbURLajJxdHZhVHFOWW9WTG84MlVpTW80RkR4blBRTWk3UHJjaDQwUEtoMTN3T1RyMDdBWS1Nc1gyMUI1RTNCRnVheTI4allPVkE4N25McmF5djV0cTNMeEJJbE5tLUFCdExQNnFZMWZMVzd4V0JxdjJSd2RnU0dEREcwanVYOS1RWmlZN1VXTGxVSlkyb0tDMWFvQmxmMzVwTFp6RTFWQnNLRWZhaw?oc=5",
       "published": "Sat, 12 Sep 2026 12:25:54 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa19wdl9Wakl0bzBlWk1jWV8zb1AtanhNM0pHYkJCU0dFYjJsYUczb2ZsWnZUWHJ4M1hfSy1KemIzSEJKZzlEcmRQYUdFUGdZa0swTGxFUEVfYUJRbTRxWXJLZE42bl92Q2ZvalMxX3BMeVVlenlkU3NENVFBVS05N2ZTSWJnRE1qVzhsUXlObDIwQ1h5cndZN21LTmF2cWI1aEFHNnB6SmVna1hyVmxSUzhVUHI3YjRKMUpzZFh2X2J3YU9kSjJuaEtNdlpBNzlXWDJOR1lsejlQZDNkbGJTdXBkLUVKQWI2cHpfRHJGdFFXd2tXWmVYejd4bFFXc2RSMDllNFJET3R2TzQ?oc=5",
-      "published": "Sat, 12 Sep 2026 23:15:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
-      "published": "Tue, 08 Sep 2026 13:09:52 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -377,15 +377,15 @@
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
-      "title": "Cameco (TSX:CCO) Enters Focus As Energy Stocks Narrative Shifts - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlZYc0FVQUhFa0V1TEt0Mlp4cVQ0N1ExODZ0aWVUYURtT1dKYkJwSTJaOFF1UEZsbklPYkxWWElWT0JTRmFyU0YyTUdFRTVPNTNlVDhnSmxrR0Y3V1gtalB6R0VEWlJSblFyc2xOUk5vRVQwNDBFQm8wbFBNbGRnMjRBRi04RlFHS0k5R2pUYm1lbEN3TTJrWTkwR2w4LVl0S04wdg?oc=5",
-      "published": "Sat, 05 Sep 2026 17:22:00 GMT",
-      "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
       "title": "With Canadian stocks near all-time highs, Harvest ETFs pushes new 'put and call' funds - Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2p0aWg5X3hDQjRTMVZ0MVdFNTBOWXlBcGZjQ0hLTXdHU1FmV2M3bW5TT3RNNVQ4VVc1MUhpUFlpTVg4V1dQeVB0MlVJbkJZeUdnS3dmb0pKOFBxX0xsbERPUl9vVW82MkpncjN0cWRCRlhUeks2WHAteE02MWlIbGlHNmk3SlBlcW1ac1FzQmFDWjNuNlBVNzZtM2traVNCeE8tSjgzb1U2VUYyVTB6Ui1VNm9rejh2U1ZiRzQ4YWxDQ21IR001OHBOUTc?oc=5",
       "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "query": "Canada TSX banks energy Shopify Cameco"
+    },
+    {
+      "title": "Cameco (TSX:CCO) Operating Progress Drives Uranium Discussion - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnV0d05LaUtGTFpXc3llNE9qMHZfTjNBem45bEhHbXZoRXI3cVpqLXBDdUY1bUJuSEdHMFhkaFgweDVoaFoxdVVOT3hqbFJzTThmSmhfTkk0NXA4QVA2aVFOZWk4Z25DS1JaQTJ6UERRcTBZdXFJWVBlY0Y0RDB0T2xXSkRZVE9uUDA3ZFhrajV3UFhhb3R1ME9xa3pNOEhqbHc?oc=5",
+      "published": "Fri, 21 Aug 2026 17:15:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
@@ -395,9 +395,9 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "5 Stocks Investors Couldn't Stop Buzzing About This Week: NVDA, MRVL, CRM and More - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVZ6c3IzLS1OUmU1NzdXajd6bWNpRkVSb0xqVHRaZVk0ZlNWdUlkRERrUWdabzYzRV9UMTZpbWdMWFRJdThkazlqeDAxbklKVnZJNDRRLXIxaEd4ZFFMeHgzXzhlbzFpQXJPODFPMU9LS1FmN3EwWlFzQXYyMi1FQTdFcEMzdFVnazZaUWtQVURYOUdyRjlkdmxDLWg1M3ZnZDAzWlJ3ODVkOEoyQTFRcUwtZWFWYXd5c2EyVloxWmx2M3VVd0NpOEVlQm5sdE1U?oc=5",
-      "published": "Sat, 29 Aug 2026 13:00:34 GMT",
+      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWRFS19RemtZaFlZN3dHYkJfX0toaFl5LTM5TEFsLUItQ2NhakY4TzE3VnNqRlVteF81RVV6a2drVXNlMkRxd3RVV0FKdkRRekFNVU9BeFc3ak1sdWlwaFlHcWpZLTBzMnhrMkZYd0hBZktqYV9JUkI5OHgwRzRWcXdsT3h5dWJQVjAyRGZzT3hJYjR0RjA4?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
