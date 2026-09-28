@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T04:28:12.434314+00:00",
+  "updatedAt": "2026-09-28T04:29:21.484173+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -98,8 +98,8 @@
       "price": 333.37,
       "changePercent": -0.44,
       "marketCap": 128614105088,
-      "pe": 11.81,
-      "eps": 28.23,
+      "pe": 11.8,
+      "eps": 28.24,
       "dividendYield": 1.22,
       "fiftyTwoWeekHigh": 365.91,
       "fiftyTwoWeekLow": 265.3
@@ -146,8 +146,8 @@
       "price": 516.17,
       "changePercent": 3.66,
       "marketCap": 3832843862016,
-      "pe": 28.72,
-      "eps": 17.97,
+      "pe": 28.74,
+      "eps": 17.96,
       "dividendYield": 0.76,
       "fiftyTwoWeekHigh": 553.72,
       "fiftyTwoWeekLow": 349.2
@@ -170,8 +170,8 @@
       "price": 263.27,
       "changePercent": 0.63,
       "marketCap": 93278502912,
-      "pe": 25.74,
-      "eps": 10.23,
+      "pe": 25.71,
+      "eps": 10.24,
       "dividendYield": 0.65,
       "fiftyTwoWeekHigh": 412.7,
       "fiftyTwoWeekLow": 228.63
@@ -302,7 +302,7 @@
       "price": 26.25,
       "changePercent": -2.99,
       "marketCap": 7462974976,
-      "pe": -103.96,
+      "pe": -54.29,
       "eps": -0.91,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 50.73,
@@ -323,9 +323,9 @@
   ],
   "news": [
     {
-      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-      "published": "Mon, 21 Sep 2026 23:12:31 GMT",
+      "title": "Wall Street ends down as oil prices, Treasury yields rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
+      "published": "Wed, 23 Sep 2026 23:20:00 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
@@ -341,21 +341,21 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Marvell vs. NVIDIA: One AI Stock Looks Like the Better Buy Now - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkgtWUNQQzZGandMU2ZtbTN0UjJteXBpMWd6ZE5nRzFRUHVWd2dvQjFTZEp0S3BMNTdlOEZVNVhGejNDemFrVFhZc1dQV2E2elVDMlhMRGlIMUp1ZHkxVzlQWi1FQnBXSnVONmlrTUJVS2JoR1huSXJ0MTY2LVU2anFtN2Q0cUJ6dEI2RkhiS1B4MW8?oc=5",
-      "published": "Thu, 24 Sep 2026 18:00:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Credo vs. Nvidia: Which AI Chip Stock Is a Better Buy in 2026? - fool.com",
+      "title": "Credo vs. Nvidia: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1dqTjdmMjJjS2NYT2RVX1EtaEdBSzZKZTgwdXBLRnRuR3dEbmVBRkxpTjd4Nkk0QTh1Nlp4Q3BmTFVNTDJVd1c3ZVhyaTR4bVZHcmxrcEU0S2ZJeDIxR0MtZkZJYWhaMUprNHRlSlJ1cXlUeWdrd090VHRqcC1LbURhSzVFY3Ntbjh6amtxTFBGakFTSGR5dk5qSlNrajA?oc=5",
       "published": "Fri, 25 Sep 2026 20:00:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Musk says Colossus 2 data center plans to ramp up Nvidia AI chips by year-end - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2J4VEhEWHV2NlU0dFVxN1hsR2RneUxSNV90YkxCYW1ZLVY1aEkyUXBtM3BkOVdEZFNOMEQ3QlRqeEhxZUFDLUFWYnY2R214R3dhMzVsaVd6dVp4bVlyejAxMnh4VkxURDJmd3A1NFVvaFRkR0FDOUM2SnJGeW5ocC1BUHVfV1pMcXdiRmdkYzVHWWJEWVh6NklVbEoyVmdMOG83MzdYX2ZveEpacmtQV0N1UzRxbmZuYjByTWhIRUJlazhzeDhfWlFjWjdxUQ?oc=5",
-      "published": "Fri, 25 Sep 2026 10:33:53 GMT",
+      "title": "Buy Marvell Stock, On Semi, Semtech to Ride the AI Data-Center Boom. Here's Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUE9ialozNlFva3VIUzI3aVBLUEYzY0lPMVVRT2RuWXY2UzBadDA2ZlBjd3hzc0hHMURhSlhuVWJHcjdiZGdQR2M4cGdPcEtvZGxmWUlpMGp6eHd5TGpRRVpVclRJQmNXLWY4UTJKQUQ5SG9DU3lTUHN5S2N1YXRnSHJPNnpEWGRvSi1XdkVpeldKZ1NF?oc=5",
+      "published": "Wed, 23 Sep 2026 20:16:00 GMT",
+      "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "Beyond NVIDIA: 2 AI Data Center Stocks to Buy for More Upside - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGIyelVyTUFTYWtZNGtYTi1HaTEtbnlTT2lXbzdpaE9ab2JvTUhhSFVMdkRMempxMTJ4ZENRa2laeTJRNnlFUUtaX2lsR2hiYUlaSzFpeDMzUl84NXBwaTNkQnNycHRzSXRObHQ3UTM4WTNGbDRVRWhfdDlqX19ubUVTYlJOTWg0UTN2Z3NNay0?oc=5",
+      "published": "Mon, 21 Sep 2026 19:00:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -389,7 +389,7 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "Toronto Stock Exchange (S&P/TSX Composite) Dips -0.19% to 34,412 as Mining and Energy Stocks Retreat Ahead of Bank of Canada Decision - bbntimes.com",
+      "title": "Toronto Stock Exchange (S&P/TSX Composite) Dips -0.19% to 34,412 as Mining and Energy Stocks Retreat Ahead of Bank of Canada Decision - BBN Times",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOG9EenR5SWgwU2Q1VVU2RVgtbGpQTXMyQ21zZWN5UmpjVHAzVkxkMjBCYjltRWlxLVhMUmhqblpIWjdxLUpOQmlYQ3FrT1RIT09RdXFrdi1VczZGVUZMNTRjY2l0a3pFMTNLRnNsbEJkeFh6bUJBSHYwbXVfeXVBZFViY0dqU3BoZ1RkN0psWnprakRlMUFUZEJSTGVubHp2TWNPcUZWdENHZW1FTmtHdEtDYmxXVFM3X0dDQWIxZkNoVXM4QmxMNUhYNk9DNnJiTWNOVUxnd2pabmxmeEc3aU52TjE2SEhUSGNMYVZhSXVVTTY0bTR5VDdiZ3F6UQ?oc=5",
       "published": "Wed, 10 Jun 2026 21:11:04 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
@@ -407,9 +407,9 @@
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Thursday; Microsoft, Nebius Group to Advance - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUJmWmpOaXNwLW9adC1jeDM4bzRjZW1JWVJZX2ZUQ2RDOU9sb09EMFpFeW0zdUZvSEJuMDZMV2JaQUFrRmQtLTlIeUpOcGNIeHU0LWFzS0hGdHhUd3ZLWTRtREE4d1VCY1MtT2kyM3ZCSjdteHJqM0poam9ScjFoTG5DN1Z1aDRIdWoteHh6RE1RN01ZR2h4bWdMM1JfVW9RdE5hM1RQVkw?oc=5",
-      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "title": "Social Buzz: Wallstreetbets Stocks Advance Pre-Bell Friday; Intel, AMD to Open Higher - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2xJXzB4anEtdUZOWlRyQ1hXYlZSZlNOMEtESlJSR2JPeDhPY215TkJ1ejE2Y2JyZHhPeFRIVTdhVEd3TXZ5RDlSTVExN25ZZjV2N2Jnd2IybkRYMnAzWkxPblpXMFNfVGM2eUR2bU5idTgxbTNVZkRPNEM5dllGTFZZLXA5S3VneFlaenNIUEItNHdFUklxZjlPTTdVM0phaFRSN0tvU3RXUQ?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -480,7 +480,7 @@
       "price": 26.25,
       "changePercent": -2.99,
       "marketCap": 7462974976,
-      "pe": -103.96,
+      "pe": -54.29,
       "eps": -0.91,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 50.73,
