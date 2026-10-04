@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:30:13.769960+00:00",
+  "updatedAt": "2026-10-04T05:01:09.200318+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -14,9 +14,9 @@
       "price": 333.69,
       "changePercent": 1.02,
       "marketCap": 4869931925504,
-      "pe": 37.88,
-      "eps": 8.81,
-      "dividendYield": 0.33,
+      "pe": 38.31,
+      "eps": 8.71,
+      "dividendYield": 0.32,
       "fiftyTwoWeekHigh": 345.34,
       "fiftyTwoWeekLow": 243.42
     },
@@ -26,8 +26,8 @@
       "price": 302.78,
       "changePercent": 0.23,
       "marketCap": 204470304768,
-      "pe": 18.32,
-      "eps": 16.53,
+      "pe": 18.38,
+      "eps": 16.47,
       "dividendYield": 1.26,
       "fiftyTwoWeekHigh": 387.49,
       "fiftyTwoWeekLow": 290.97
@@ -40,7 +40,7 @@
       "marketCap": 368513318912,
       "pe": 25.72,
       "eps": 3.33,
-      "dividendYield": 2.46,
+      "dividendYield": 2.48,
       "fiftyTwoWeekHigh": 92.49,
       "fiftyTwoWeekLow": 65.84
     },
@@ -76,7 +76,7 @@
       "marketCap": 58058940416,
       "pe": 17.13,
       "eps": 3.39,
-      "dividendYield": 1.94,
+      "dividendYield": 1.93,
       "fiftyTwoWeekHigh": 67.45,
       "fiftyTwoWeekLow": 38.8
     },
@@ -86,8 +86,8 @@
       "price": 343.5,
       "changePercent": 1.56,
       "marketCap": 4200982642688,
-      "pe": 16.98,
-      "eps": 20.23,
+      "pe": 17.24,
+      "eps": 19.92,
       "dividendYield": 0.26,
       "fiftyTwoWeekHigh": 408.61,
       "fiftyTwoWeekLow": 235.84
@@ -98,8 +98,8 @@
       "price": 330.89,
       "changePercent": -0.12,
       "marketCap": 127657328640,
-      "pe": 11.72,
-      "eps": 28.23,
+      "pe": 11.73,
+      "eps": 28.22,
       "dividendYield": 1.23,
       "fiftyTwoWeekHigh": 365.91,
       "fiftyTwoWeekLow": 265.3
@@ -112,7 +112,7 @@
       "marketCap": 76435161088,
       "pe": 28.01,
       "eps": 15.76,
-      "dividendYield": 0.92,
+      "dividendYield": 0.93,
       "fiftyTwoWeekHigh": 546.88,
       "fiftyTwoWeekLow": 402.28
     },
@@ -124,7 +124,7 @@
       "marketCap": 26313428992,
       "pe": 10.63,
       "eps": -2.88,
-      "dividendYield": 7.12,
+      "dividendYield": 7.21,
       "fiftyTwoWeekHigh": 28.09,
       "fiftyTwoWeekLow": 21.04
     },
@@ -134,10 +134,10 @@
       "price": 233.95,
       "changePercent": 1.34,
       "marketCap": 5649190617088,
-      "pe": 29.17,
-      "eps": 8.02,
+      "pe": 29.58,
+      "eps": 7.91,
       "dividendYield": 0.43,
-      "fiftyTwoWeekHigh": 237.87,
+      "fiftyTwoWeekHigh": 237.88,
       "fiftyTwoWeekLow": 164.27
     },
     {
@@ -146,8 +146,8 @@
       "price": 517.53,
       "changePercent": 0.92,
       "marketCap": 3842942959616,
-      "pe": 28.83,
-      "eps": 17.95,
+      "pe": 28.82,
+      "eps": 17.96,
       "dividendYield": 0.76,
       "fiftyTwoWeekHigh": 553.72,
       "fiftyTwoWeekLow": 349.2
@@ -158,9 +158,9 @@
       "price": 332.38,
       "changePercent": -0.24,
       "marketCap": 883527974912,
-      "pe": 14.27,
-      "eps": 23.3,
-      "dividendYield": 1.98,
+      "pe": 14.25,
+      "eps": 23.33,
+      "dividendYield": 1.99,
       "fiftyTwoWeekHigh": 366.5,
       "fiftyTwoWeekLow": 279.1
     },
@@ -170,8 +170,8 @@
       "price": 257.49,
       "changePercent": -0.55,
       "marketCap": 91230609408,
-      "pe": 25.17,
-      "eps": 10.23,
+      "pe": 25.19,
+      "eps": 10.22,
       "dividendYield": 0.66,
       "fiftyTwoWeekHigh": 412.7,
       "fiftyTwoWeekLow": 228.63
@@ -182,8 +182,8 @@
       "price": 215.86,
       "changePercent": 1.77,
       "marketCap": 280111742976,
-      "pe": 102.79,
-      "eps": 2.1,
+      "pe": 101.82,
+      "eps": 2.12,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 253.1,
       "fiftyTwoWeekLow": 129.01
@@ -196,7 +196,7 @@
       "marketCap": 386131329024,
       "pe": 17.57,
       "eps": 15.87,
-      "dividendYield": 2.53,
+      "dividendYield": 2.52,
       "fiftyTwoWeekHigh": 306.38,
       "fiftyTwoWeekLow": 200.82
     },
@@ -206,8 +206,8 @@
       "price": 121.4,
       "changePercent": -0.36,
       "marketCap": 52873707520,
-      "pe": 151.75,
-      "eps": 0.8,
+      "pe": 149.88,
+      "eps": 0.81,
       "dividendYield": 0.2,
       "fiftyTwoWeekHigh": 182.72,
       "fiftyTwoWeekLow": 109.89
@@ -220,7 +220,7 @@
       "marketCap": 146078400512,
       "pe": 25.31,
       "eps": 2.59,
-      "dividendYield": 5.9,
+      "dividendYield": 5.92,
       "fiftyTwoWeekHigh": 80.65,
       "fiftyTwoWeekLow": 62.42
     },
@@ -230,9 +230,9 @@
       "price": 52.67,
       "changePercent": 1.35,
       "marketCap": 117577949184,
-      "pe": 69.3,
-      "eps": 0.76,
-      "dividendYield": 0.76,
+      "pe": 68.4,
+      "eps": 0.77,
+      "dividendYield": 0.75,
       "fiftyTwoWeekHigh": 68.44,
       "fiftyTwoWeekLow": 50.85
     },
@@ -242,9 +242,9 @@
       "price": 1074.89,
       "changePercent": -2.05,
       "marketCap": 1213973397504,
-      "pe": 14.47,
-      "eps": 74.29,
-      "dividendYield": 0.05,
+      "pe": 14.45,
+      "eps": 74.38,
+      "dividendYield": 0.06,
       "fiftyTwoWeekHigh": 1255.0,
       "fiftyTwoWeekLow": 179.61
     },
@@ -254,8 +254,8 @@
       "price": 1719.99,
       "changePercent": -3.79,
       "marketCap": 251839234048,
-      "pe": 23.3,
-      "eps": 73.83,
+      "pe": 23.31,
+      "eps": 73.79,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 2354.39,
       "fiftyTwoWeekLow": 115.68
@@ -266,8 +266,8 @@
       "price": 147.86,
       "changePercent": -1.12,
       "marketCap": 28447748096,
-      "pe": 34.31,
-      "eps": 4.31,
+      "pe": 34.39,
+      "eps": 4.3,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 263.5,
       "fiftyTwoWeekLow": 119.27
@@ -279,7 +279,7 @@
       "changePercent": 4.91,
       "marketCap": 47265259520,
       "pe": 1369.14,
-      "eps": -0.27,
+      "eps": -0.29,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
@@ -323,39 +323,39 @@
   ],
   "news": [
     {
-      "title": "Stock Market Today: Weak Jobs Report Lifts Stocks as Fed Rate-Hike Bets Fade, Nasdaq and Dow Rally - Eurasia Business News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORi0wd2VjQTlfSDg1LXc1dkJzZlpiSHlvRnpWTDBtY1dEYThiLXotWG9aWWdmLUR3WDFOX2g5aGRhVjJudTJObm91aTJjRGF4LWRRRk90YkhZT25GSU92ZndkelZYYXZ2WVA2cldwOWd0dlVFallPa25wb0VuZDNFNzUwalRuX2pqR2hNYnFjeGVyTnpqUVJPYnRRSW5TbDhyUFJiWE4yTkt3ektvSFMxdWtKSHhycmlYdEZ1RXY5VXpWTV96WmQyLVBJQ0wzejNVY3NMRHJLYw?oc=5",
-      "published": "Fri, 02 Oct 2026 21:53:07 GMT",
+      "title": "Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise - StoneX",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzFaSGZXVjNNX05aSDR5dS01SUpKMGU0b1JkZi1SSENXN3NSdDhUazE0LXh6ekVVdmJ3cWx5UnllMzd4OUdiQWNPbFg0ZnQ3M3E5MWVXVFowQjZSMnFQUjQ3TTRaeWpFdjl5Ympld25CN3UtV2t3dW04TnF0V3Z5bU5yV3VlSExLS1p4RHVYS1VWSnFVM2pYWnhWVVJCMDFpRDJhSnNNUWFuQ21GTWM1Qjlsd1ZLdw?oc=5",
+      "published": "Sat, 03 Oct 2026 15:43:18 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Stocks fall as higher oil prices, Treasury yields weigh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
-      "published": "Mon, 28 Sep 2026 23:16:32 GMT",
+      "title": "Equities end slightly lower as bond yields hold near multi-decade highs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
+      "published": "Tue, 29 Sep 2026 22:55:48 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nasdaq 100 Forecast: NDX extends gains as oil, Treasury yields fall - StoneX",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEYwd1BtWVl1OTlFSDhYVWRTSWxkbHZ0SmEwaVFmM25iRlNCY2JsQXhZbW5Id1hLUG5hcmZkaDUxWHhYTFozSFQySjhGcTZfZFgweTZOazlTQTZ6eWFyN1hXbS1KdjhBX3gtbDlfd1lUVEFWQ3VvWHdGTkE3aUdPZEs4TFNVbVVfQWthN01laUV0Zk42T1JWLS1Ja0tscnc4Nlk0U3NfbmZocWlWRlp1NjhTOA?oc=5",
-      "published": "Fri, 02 Oct 2026 00:12:13 GMT",
+      "title": "Dow Slips Over 350 Points, Nasdaq And S&P 500 Also In The Red As Treasury Yields, Crude Oil Prices Rise - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb1BBdjdEdnl4VVdFbHVJQWROT3ktUnl4SVRVb21aSGViQVg1SE9hQnEwNTVwMnFzb2hja1A0SnNBVGRDZWpZSHJZeE1RSml1QmRXcmpsRzFRN2FZNDY3OWVSM3Jsek56MVlKWWNqODZ2cE1HeWR5anhpU2RNTjhLampvbW1reXdVd0w2cDRUVi1ISG1uWG1NVVp1VUZVaGVPZHdtWUhjanR4M1hTTjdYalpiQnVmSDNMekxycElDU2lFUG83RC01SF9kM19DZ215ZWxoRHFEQmFYczJSMFlKUU9HNWxieFhlek9QV3E2aXRlUDRhbGxn?oc=5",
+      "published": "Sat, 03 Oct 2026 18:47:09 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "3 No-Brainer Stocks to Buy If Data Center Expenditures Hit $3 Trillion by 2030 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWo2RUVSWnRQV2dFTkRnVHZhV2Rva2pnNmttWnF2NV8zTTVBYnJaeFdzRHY4SVhXWXBCNFhWYkh6Rzk1WS03UXkwbGp4cW9tVjhOYnJDbV9heG9iTFVwVkppX2NNam1GcF9pN1hHd1dkdUc4Q2RCQUtwNkx6elZpVnFXbTUtLUtGNXJZdVo3d0FBc3ViLXBZTw?oc=5",
+      "published": "Sun, 04 Oct 2026 01:06:20 GMT",
+      "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "Nvidia Rally Shines A Light On AI Datacenter Hardware Stocks - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEQxdGFSQ25SaUdEbzRDRWlmWThRRTJLbjNIN0tIOXFXRDF5cTU4NzM1c2w4cndTVEd3UFhuSU9RTkJtdmF1UW1nc2pCY3FMWlBrdmNIYlBNUWYySDFiOGMxdkUyZmtOa3ltdFBxb1R3a3IzRnVDbmxlS2VsUDlmN0pzLUtjdEhkeWhscnBRRl9LYklzcndBYk15YlczVGw1QWRYTVZicEh4VWx4bGhsWkI3ZkpiWUE2TVdLTlRWa2s1X19YVnM4OWFn0gHPAUFVX3lxTE54WUZZRFA3YVZNQWd3OTIyT0k4Ykl2dC1WWExJa3RKeEp1aEdReTBnSTNQanVGMUlKMWVsNC1hRnpaTXc4bTU0WXpmZlJyMU5GQ1NEUTlYVGpRblVpeUdkY2FaSDJPX1B6YUpjN0REV19adEtDaERxVG9Qa2RLSHdIaW9NSUtNZzU1U2Q1Q09rX1g0WlV0dWJINDVlQ3NSdHZ4anp4RHZFcFhVVFFoV0pDSUFoLTd0akk3bXdsRW9rXzd6UHNERmNmUU1tM0tqSQ?oc=5",
+      "published": "Sat, 03 Oct 2026 19:39:27 GMT",
+      "query": "Nvidia AI data center stock"
     },
     {
       "title": "Nvidia Isn’t the Only AI Stock With Massive Upside Potential - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkhEX0NpNEc0Y3IyZDlxX0w4U2MwRWFkTzlsWkVva1g1U0RJc3NMc2s1bl9tWGV5N1lYUzJsMDRpSHQxLWJqVUZyWko1a0lZX1cwZzc3WUZaU1pLUXljelV5cWtFWjh5NW90YVFZUE5HOE5Rdk96MG9PR3Rzb1VYVEZaSndnUk11S1ZkclVOcDRjZnAybGdXVWxoaUtEbW81RDFqYXZ3?oc=5",
       "published": "Fri, 02 Oct 2026 15:00:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Can SiC Datacenter Win Change The Case For STMicroelectronics Stock? - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSS1UczdlVTljcjZmUXZwR0xaYjJPbXJ3ZGxDVEFIRGdBRmhJSWlEUy1kM1l4ZjRRdFBJZDNHSzNBWlZjRDUweGdINzNsWVZxQzFRaV9wc2RFaHZ5eWVWVHJ5M1VOSEVIZDd1VHRKZlJMMTN1aGo0WElTQUllNi1kUVJrSG4tWWdqV0x1SzZBSE9qWm4yRWtxQWNvYVRoaFBoYm5XM3k4WEh3VWc4dkN2UmxwNGx3bUFoNG83ZFI3N29tTUhLOEx3TkxoQlAxUXNjaFZaM3FfaDQxMEE2bElwOGZB0gHnAUFVX3lxTE5KZnZVN2RBeEwyYXZ1UFBlZ2Vib0EwNDJoek90NFZneVhqYWwyZmVWc2didVBhQlluUjNzLW4xUWdHbE9kemZ1SV83QzVYOHhfY3BEaWFQbkhfTlQzZFcyUlRXTmRTRWZTSndxOUN3eWxDYjhiUWxVa29kbmxCa3liX0doR3VPU1FYdlBRQTZFM0QtRW0tbXlYaGpHRk1LM1ZNcG5lMWdNLTVBdE1KZ2k2bFNHTkVvWHF2M25HMXNhbVBKd08wbE1KRWZNcTJBaVlHOFhIX0dPMDUxcGJKdmRpOEgzaUxEMA?oc=5",
-      "published": "Fri, 02 Oct 2026 17:40:02 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "NVDA Stock Eyes Third Straight Monthly Gain: Nvidia Adds Data Center Digital Twin Deal - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjJSV29UYV91eTFrdUZzSEY3LWFGV01mUHFqUzYwUkVkRFRmZEZTa1VvellHRUhkcjU5aUJUYm5rN2d2eTRmUGpDUDNpcWtHWVl2TFFqRnk4ZWVjb0JWUE1ueUg4ek5iUzR1SEFNaWU1TXdERC1hRDdlWE5PM2FmdUk0UUJ4OGpNenViancyYmRYanhLZVk1dE5NR1U0X2tITmtjc0pUempNcXY1SFBoQTlHa2NEeU5ycjJSZVJ6cTNnYU5LSWVQRFVCcDgwR0hp?oc=5",
-      "published": "Wed, 30 Sep 2026 12:26:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -377,6 +377,12 @@
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
+      "title": "Best- and Worst-Performing Canadian Stocks - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjE1MWJHOU1KNE5uMGs0N0lMdlk2ZTRNckdmVGZhZkxrVVNwaUtxb3d2dXdjbTdYZzU1QzVTV3IwaUN1Z0M2SHFvWTZzQ0k0VENhZEt5cXN0MFgzM2piVEM1Z3BURkFVRGdQTmd2Y1A3Sk5iZ2k1QndhRjloYnNHMmRjUlAzanE0empZ?oc=5",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "query": "Canada TSX banks energy Shopify Cameco"
+    },
+    {
       "title": "Cameco Corporation (TSX:CCO): What Is Shaping the Story? - Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDBlRlV3bms1ekcwSEU1WTljc05mWXN2M1VDT2VIQjduWkxKNEFUNDR3NjFNVnhoSmVsNVZxdUFhMHdRMml4TXA0Z09NNnJYSXVFQ0luYkJBTGhsdERkQ3JUc2hWb1VHT05FQXFxSVlIcXh6Sjl2MVhGd2IyczNqSlo1bzkzSG9uRXVJQ2JRYVV0Q3ZsV0g3OQ?oc=5",
       "published": "Tue, 29 Sep 2026 14:51:00 GMT",
@@ -389,27 +395,21 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "Is Shopify (TSX:SHOP) Leading the TSX Tech Rally? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckoxSUFyeEVScXM3NS0xdi1CNWVLekh5eE9WVkhYQlRNMDVBZ3RKUmtLX0lvVFVYRmxCS2xWVF84SzRkUVM2NWZKWGdxdnJwbjFHNVVzYUlkNHUxNE8tbDdFbkJYX1dlUThqa0dDb1pjOFpJcjAwMHU4V3dqc1J4ak1ERlNrbk1rdUxVVXlfN0xpT281blE?oc=5",
-      "published": "Tue, 29 Sep 2026 22:51:00 GMT",
-      "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
-      "title": "NBIS, SMCI, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHVnaEZpOHprb3I4TEdXaFNBTWV2cE5qNU03Y1NKazBhUGx3eWhEVHo1cTNqb1hPUUNmRDJheTlPejFVa3p0ZEx5MS1CS2FaTllxMVM3YVZqRHF1ZEswd1BDVGkwUlNwTTZnZ1ZtVFZJZHpGYXNvTzE4ektWeUNIREhDTk95N1BnUVBLd2F4Vk43RDZFVktGZmZ1bjFIYTZhWVhFbDlpTG8tdnB6LUVXZTJPeXA4d2NucDRCWnZkb1lNSWlIeVM5UnNWWk1oVWw1T1E?oc=5",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    },
-    {
       "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmc2WnE5LUpVSGk2OVNkQlNabDlqNFRKZHNFdWM2U3Uxd2J2UmZ6Y18wMlNZc2VFVXM3QWktNTAzQXB3ZGJsa0Jpa3dmOHM3czE4UEF3Mkk2bmVsYVE0NlRBX3FYSWNZSmxDR0NNenY2RE5KVEZRNGkxVVk4VEdjamhVSFRhQk9IaEx0ZGVubEZiUDJqSWl1QkROTEtaTlJRVHdycVItWHU?oc=5",
       "published": "Mon, 17 Aug 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "Social Buzz: Wallstreetbets Stocks Advance Premarket Tuesday; MongoDB, Reddit to Open Higher - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNW5aSjJFbmFLUEtaRm1yRVloU25aOHkxcGRQbVpYWng4SWYxN3pSOVpyRjExMVBjaExSWjFrRC1UMktvbnlGR09FS1V2S1J3MEpkX29IQmRwUGV4M3VCWHNwZ0pMVjEzS09idjNPRy1hZWI4eTFkTGdtNWNVWDEwajJtTGhDZ3B1WFh4UDVOX0hqQmF0?oc=5",
+      "title": "Social Buzz: Wallstreetbets Stocks Advance Premarket Tuesday; MongoDB, Reddit to Open Higher - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZqMU5ack93ZGpISW9oejQ4ZXh2WVBsQ09jeV9OckcyRU9TNnJPcm1rR3JQM1ZVRC1ka1pVWDFWWHFDSGlDNkZIdFZFQ2JZTU5YeWw5ZUZqX2FxdTQ0dmE5STAwU0tUWWlNWl9pT2xPc0tIRWQzc3U0ZzBhX3JZYnhqNlJOeERBX3NFSTJNWW9EbEM4M2FOdUgteHlvdXdQX1Mtc0VHMEUxQQ?oc=5",
       "published": "Tue, 29 Sep 2026 10:43:01 GMT",
+      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
+    },
+    {
+      "title": "NBIS, SMCI, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHVnaEZpOHprb3I4TEdXaFNBTWV2cE5qNU03Y1NKazBhUGx3eWhEVHo1cTNqb1hPUUNmRDJheTlPejFVa3p0ZEx5MS1CS2FaTllxMVM3YVZqRHF1ZEswd1BDVGkwUlNwTTZnZ1ZtVFZJZHpGYXNvTzE4ektWeUNIREhDTk95N1BnUVBLd2F4Vk43RDZFVktGZmZ1bjFIYTZhWVhFbDlpTG8tdnB6LUVXZTJPeXA4d2NucDRCWnZkb1lNSWlIeVM5UnNWWk1oVWw1T1E?oc=5",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -420,9 +420,9 @@
       "price": 1074.89,
       "changePercent": -2.05,
       "marketCap": 1213973397504,
-      "pe": 14.47,
-      "eps": 74.29,
-      "dividendYield": 0.05,
+      "pe": 14.45,
+      "eps": 74.38,
+      "dividendYield": 0.06,
       "fiftyTwoWeekHigh": 1255.0,
       "fiftyTwoWeekLow": 179.61
     },
@@ -432,8 +432,8 @@
       "price": 1719.99,
       "changePercent": -3.79,
       "marketCap": 251839234048,
-      "pe": 23.3,
-      "eps": 73.83,
+      "pe": 23.31,
+      "eps": 73.79,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 2354.39,
       "fiftyTwoWeekLow": 115.68
@@ -444,8 +444,8 @@
       "price": 147.86,
       "changePercent": -1.12,
       "marketCap": 28447748096,
-      "pe": 34.31,
-      "eps": 4.31,
+      "pe": 34.39,
+      "eps": 4.3,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 263.5,
       "fiftyTwoWeekLow": 119.27
@@ -457,7 +457,7 @@
       "changePercent": 4.91,
       "marketCap": 47265259520,
       "pe": 1369.14,
-      "eps": -0.27,
+      "eps": -0.29,
       "dividendYield": null,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
