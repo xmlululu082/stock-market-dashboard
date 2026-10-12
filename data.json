@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:51:49.216462+00:00",
+  "updatedAt": "2026-10-12T05:06:31.444989+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -28,7 +28,7 @@
       "marketCap": 208110239744,
       "pe": 18.7,
       "eps": 16.48,
-      "dividendYield": 1.23,
+      "dividendYield": 1.25,
       "fiftyTwoWeekHigh": 387.49,
       "fiftyTwoWeekLow": 290.97
     },
@@ -40,7 +40,7 @@
       "marketCap": 378839465984,
       "pe": 26.44,
       "eps": 3.33,
-      "dividendYield": 2.41,
+      "dividendYield": 2.42,
       "fiftyTwoWeekHigh": 92.49,
       "fiftyTwoWeekLow": 66.0
     },
@@ -52,7 +52,7 @@
       "marketCap": 379846098944,
       "pe": 12.55,
       "eps": 4.33,
-      "dividendYield": 2.36,
+      "dividendYield": 2.39,
       "fiftyTwoWeekHigh": 65.23,
       "fiftyTwoWeekLow": 46.12
     },
@@ -64,7 +64,7 @@
       "marketCap": 415820677120,
       "pe": 20.4,
       "eps": 10.39,
-      "dividendYield": 3.36,
+      "dividendYield": 3.47,
       "fiftyTwoWeekHigh": 217.78,
       "fiftyTwoWeekLow": 146.49
     },
@@ -76,7 +76,7 @@
       "marketCap": 60088205312,
       "pe": 17.08,
       "eps": 3.52,
-      "dividendYield": 1.86,
+      "dividendYield": 1.92,
       "fiftyTwoWeekHigh": 67.45,
       "fiftyTwoWeekLow": 38.8
     },
@@ -100,7 +100,7 @@
       "marketCap": 131634921472,
       "pe": 12.09,
       "eps": 28.23,
-      "dividendYield": 1.2,
+      "dividendYield": 1.22,
       "fiftyTwoWeekHigh": 365.91,
       "fiftyTwoWeekLow": 265.3
     },
@@ -112,7 +112,7 @@
       "marketCap": 80395812864,
       "pe": 29.46,
       "eps": 15.76,
-      "dividendYield": 0.89,
+      "dividendYield": 0.92,
       "fiftyTwoWeekHigh": 546.88,
       "fiftyTwoWeekLow": 402.28
     },
@@ -123,8 +123,8 @@
       "changePercent": -0.93,
       "marketCap": 26408294400,
       "pe": 10.7,
-      "eps": -2.84,
-      "dividendYield": 7.18,
+      "eps": -2.87,
+      "dividendYield": 7.12,
       "fiftyTwoWeekHigh": 28.09,
       "fiftyTwoWeekLow": 21.04
     },
@@ -136,7 +136,7 @@
       "marketCap": 5536424132608,
       "pe": 28.99,
       "eps": 7.91,
-      "dividendYield": 0.44,
+      "dividendYield": 0.43,
       "fiftyTwoWeekHigh": 243.37,
       "fiftyTwoWeekLow": 164.27
     },
@@ -146,9 +146,9 @@
       "price": 535.07,
       "changePercent": 2.38,
       "marketCap": 3973186846720,
-      "pe": 29.11,
-      "eps": 18.38,
-      "dividendYield": 0.73,
+      "pe": 29.81,
+      "eps": 17.95,
+      "dividendYield": 0.75,
       "fiftyTwoWeekHigh": 553.72,
       "fiftyTwoWeekLow": 349.2
     },
@@ -160,7 +160,7 @@
       "marketCap": 885149401088,
       "pe": 14.27,
       "eps": 23.34,
-      "dividendYield": 1.98,
+      "dividendYield": 1.99,
       "fiftyTwoWeekHigh": 366.5,
       "fiftyTwoWeekLow": 279.1
     },
@@ -172,7 +172,7 @@
       "marketCap": 105608404992,
       "pe": 29.14,
       "eps": 10.23,
-      "dividendYield": 0.57,
+      "dividendYield": 0.6,
       "fiftyTwoWeekHigh": 412.7,
       "fiftyTwoWeekLow": 228.63
     },
@@ -181,7 +181,7 @@
       "name": "SHOPIFY INC",
       "price": 243.83,
       "changePercent": 4.12,
-      "marketCap": 316407152640,
+      "marketCap": 313722404864,
       "pe": 118.94,
       "eps": 2.05,
       "dividendYield": 0.0,
@@ -196,7 +196,7 @@
       "marketCap": 379029192704,
       "pe": 17.26,
       "eps": 15.86,
-      "dividendYield": 2.57,
+      "dividendYield": 2.58,
       "fiftyTwoWeekHigh": 306.38,
       "fiftyTwoWeekLow": 201.14
     },
@@ -220,7 +220,7 @@
       "marketCap": 148240384000,
       "pe": 25.68,
       "eps": 2.59,
-      "dividendYield": 5.83,
+      "dividendYield": 5.87,
       "fiftyTwoWeekHigh": 80.65,
       "fiftyTwoWeekLow": 62.42
     },
@@ -302,8 +302,8 @@
       "price": 23.68,
       "changePercent": -0.71,
       "marketCap": 7160527360,
-      "pe": -38.79,
-      "eps": -1.62,
+      "pe": -30.19,
+      "eps": -0.91,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 19.0
@@ -313,9 +313,9 @@
       "name": "Nebius Group N.V.",
       "price": 221.07,
       "changePercent": 0.62,
-      "marketCap": 60099039232,
-      "pe": 171.37,
-      "eps": 1.29,
+      "marketCap": 56129273856,
+      "pe": 172.71,
+      "eps": 1.28,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 299.86,
       "fiftyTwoWeekLow": 73.52
@@ -335,27 +335,27 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
-      "published": "Mon, 05 Oct 2026 21:38:42 GMT",
+      "title": "Stock Market Today: Tech Leads Stocks Toward a Higher Open as Treasury Yields Ease - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOai1yeTgzQlZFZ2c0ajQtVFNoMk9zTmkxNDlBbnBidnluM1NRUG1zaHZnVjcyalM5N0kzNndRb3BhenNvWWp0S1BZTy1XTGhOZDJIX1czVTlPUXNubG1SVHJGMW0xY1NOR2w2YzI3X19ySmhHR1J3bjhxN3hYZzJtemN2TkluYUFtbnpRUHFObEVxM28wUlNndUZveXVCMDdkOVBtTWd3YW5qcUdGWTdxQzgwbw?oc=5",
+      "published": "Fri, 09 Oct 2026 13:30:00 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Cerebras Is About as Big as Nvidia's Data Center Business Was Nearly a Decade Ago. The Similarities Mostly End There. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMEU4QVo4ZkpPem9zcFc4c2hmbmtJYUJvdWgzbkVITmZJcDFidzdPVlhDSk4tc3hIUlNMSklReWtkeHg0cjJ4UFo1Q1FJQ0x4QzlQRVNVUzRXNjV3U20zNGJ3RVUxc0t1ajEtakhlUFBUa2NwMFFRNkFORE81VWxpSmZJTXpoN3I1blgxaG9Qc3lmbnBFRUd4Wm5QTVk3QTY1cmNJMGh4NXR2UzVoWXY1VG0tUzB6cFUtUWloTVNidFVSNlg1SkNxYnZnZHE4OUpNVVlKY2NlWF9kS0VteGhrbWRvb0lCdFVfRkw0aV9BUQ?oc=5",
-      "published": "Sun, 11 Oct 2026 01:37:00 GMT",
+      "title": "Meet the Only AI Stock I'd Buy Over Nvidia in October - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXktQWhYX2JSSlF3S19OYi0xYUMwSzRPT21tLTVjM3ppeG9uYVpuTjBYOG5fcnl5UE5HNmJIeV8tRllpQlRsOV96Wm40VzRoUEdHdnZkNjc4SnZGdnVYNHljZ1N0U3EyMzVKclZNSXg0d0hDaHZxMURQYnhxM1AwVmhLZjM5V01VRUNTZHRyOUx2ajR1OTktNg?oc=5",
+      "published": "Sun, 11 Oct 2026 11:17:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Firmus investor stock falls after reports AI data centre operator may cut $5 bln IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVpnZzdsTktra3dYMk9ZcXo2dHlHWmNQeXFPNzdJaGtOdmFXRjFKOUVrak8zMVp5NWtXN3FvcHhKd0FMSmNrNzktM2E1VVdrZDV5ZnFncXlQV0x1RE5EWk5EN2JhemNyUzcxV1BZb2xtMjVabVRyVUlpQ1J0c1U1eGtGZXJrcG5Ga2JyZVQtMlAzZTVXZ3FMVmJQUTBUajBuNkhUbWVOUS1MTTNYSi1IZzdrOHMycHJFbld5czhUQ2pGdW5HSUhmc3c3TzVxTG8?oc=5",
-      "published": "Thu, 08 Oct 2026 10:45:43 GMT",
+      "title": "Cerebras Is About as Big as Nvidia's Data Center Business Was Nearly a Decade Ago. The Similarities Mostly End There. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjBBbHRUektYeURiN1R6UlFUM2FyTXNlZmE0clUwR0MxRm0xczhKYVdQS0ZpUmpyb1RhSWNiaVRhZTVJTlhhM0pXdVp4RHNXMjh6Q0wyZ19RNWdGbTczemtyREhUWjZkUDU4UWM2Z0dHaTQ4b00wS0czS3BOcEZneHVoTHNnVVlTYWRzYmRtYlNJQ3Y2MFYxTGIwNk8?oc=5",
+      "published": "Sun, 11 Oct 2026 00:57:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Nvidia-backed AI data centre firm scraps mega stock market listing - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MZFY5US1mN2RFQ1VtbFlXWUVsX3NsTDc3TE43UTZqTC1ZZFh2d2RfUl9uczNOUWllNUUzdDFfR3lLVHVwQmVPeWdaUVpsQUlnZU9TYVJ4cFhJb25oaE1nM3JXaHA0NW1aUFd0U0t5UllJOW5WY1JRUHVEa2Y?oc=5",
-      "published": "Fri, 09 Oct 2026 03:44:00 GMT",
+      "title": "Meet the Only AI Stock I'd Buy Over Nvidia in October - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV014LVU3dlE5dEpSSmduVzhmWnFBemxJdUZYM19GY2gtNnZsZ0tJRUxtU0hXS2haaGlDbE5ucmdVY2xWZnI5ZGYyQ3ZhVjZ0V2doWlRfZEtMaWczMVlZbHE2YUJQM0hzbWZzbEdYNVI2RzVBRVN4TXBPZXBkQzdOc0wtSC1PLUFnQktvUXRNMTdKdTlFTFlydVR3QktjcWo5OFFiei1vNmdsekRsTGpoQW5taFdDQlR4eTVpdEpMQlNIMm1mcmN2UEc1X1IzOTB6Wnlv?oc=5",
+      "published": "Sun, 11 Oct 2026 10:55:31 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -480,8 +480,8 @@
       "price": 23.68,
       "changePercent": -0.71,
       "marketCap": 7160527360,
-      "pe": -38.79,
-      "eps": -1.62,
+      "pe": -30.19,
+      "eps": -0.91,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 19.0
@@ -491,9 +491,9 @@
       "name": "Nebius Group N.V.",
       "price": 221.07,
       "changePercent": 0.62,
-      "marketCap": 60099039232,
-      "pe": 171.37,
-      "eps": 1.29,
+      "marketCap": 56129273856,
+      "pe": 172.71,
+      "eps": 1.28,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 299.86,
       "fiftyTwoWeekLow": 73.52
