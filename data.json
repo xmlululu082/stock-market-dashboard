@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:44:12.390042+00:00",
+  "updatedAt": "2026-10-19T03:53:47.746086+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -62,8 +62,8 @@
       "price": 224.99,
       "changePercent": 2.59,
       "marketCap": 441341149184,
-      "pe": 21.23,
-      "eps": 10.6,
+      "pe": 21.65,
+      "eps": 10.39,
       "dividendYield": 3.16,
       "fiftyTwoWeekHigh": 225.31,
       "fiftyTwoWeekLow": 146.49
@@ -122,7 +122,7 @@
       "price": 23.68,
       "changePercent": 1.72,
       "marketCap": 28080306176,
-      "pe": 11.39,
+      "pe": 11.38,
       "eps": -2.87,
       "dividendYield": 6.76,
       "fiftyTwoWeekHigh": 28.09,
@@ -181,7 +181,7 @@
       "name": "SHOPIFY INC",
       "price": 239.71,
       "changePercent": -5.08,
-      "marketCap": 311060791296,
+      "marketCap": 308421427200,
       "pe": 116.93,
       "eps": 2.05,
       "dividendYield": 0.0,
@@ -278,7 +278,7 @@
       "price": 50.84,
       "changePercent": -7.98,
       "marketCap": 32507656192,
-      "pe": 884.33,
+      "pe": 782.27,
       "eps": -0.27,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
@@ -303,7 +303,7 @@
       "changePercent": -11.48,
       "marketCap": 5458087424,
       "pe": -23.01,
-      "eps": -1.62,
+      "eps": -0.91,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 17.65
@@ -313,7 +313,7 @@
       "name": "Nebius Group N.V.",
       "price": 165.47,
       "changePercent": -12.18,
-      "marketCap": 44983885824,
+      "marketCap": 42012532736,
       "pe": 129.27,
       "eps": 1.28,
       "dividendYield": 0.0,
@@ -322,12 +322,6 @@
     }
   ],
   "news": [
-    {
-      "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
     {
       "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
@@ -341,22 +335,34 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmRzOE1YSUFRVVg0bC16VmpoSldEcEJOTDdhR3JHUUU3NlpIYzJ6eU1KR3hPZmFuR0czUHFidzBVOVJhSmUzVkhFeW03aS02RHN5bXZSc0JtQ3lNeG1ESklUVmg3bmowOFdqUUpzbnNBLWd4MGV0SE1LdFh6NWJaUmt4Z1ZiUmZQREVIMEtPRHFwQnRiRWc?oc=5",
-      "published": "Sat, 17 Oct 2026 22:10:27 GMT",
+      "title": "Equities end slightly lower as bond yields hold near multi-decade highs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWpGRWtjQ1gydnZLYjdFMm1ydWlGV2JQV3c5TXhkYVFvN01iRTYybTZlelVnd3FGTUZCMGQzUWtNMVZDTlU3Ym1SRmpDcUR5RmFsOVJIci1peGdreGJ6S0dGZ0VqcE4zYnNkbzZlNmxCTFBZaU9SMXp0d1NsVXJfeVpDS3NjenJ4Z0lldlBhMkQ?oc=5",
+      "published": "Thu, 15 Oct 2026 23:35:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5",
-      "published": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+      "published": "Thu, 15 Oct 2026 19:57:10 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "IREN Stock Gains After First Microsoft AI Data Center Delivery, Gains Nvidia ‘Exemplar Cloud’ Status - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc3dfMnN2c09RcER6T3dhbXVIWjUzemQ2bUI2MF9vbnRra3ZsWjY4X3l4bS1sM0RqRHBQazM5OE9Sb3JSX09FRElNSWE3OGtJb1h3M1g4NXRNVy1hMmtadDd5dDNWXzVUZlJURTVhSk9id1J5TkVWaGo4LUlObTB3LTFxbW84X2YzTXMtV0VVWWVOUVd4WWhwdDl6TmdCT2piVU9QOUFDZUY5b2tWNW12U21CdTRtQ2xrYUQ2bDlPNnF3WGlFWTdBLThNalVwa25nZ2tNMTBWYWI?oc=5",
-      "published": "Sat, 17 Oct 2026 17:53:29 GMT",
+      "title": "High Voltage Returns: Navitas Rewires AI Data Centers - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDVTcE95VnU0Rzd3ODgyRTRmSER2eGs0MDV3UnZCWWtUaHE5dkVUWmpuekNPdjRZaTFCMU5RM2VsMWUzejVkZ0oyZzNlUXpKVmQxcnNLMjhScDFBaHcycUxyN2ljNnNISHhmU3FEdlJlaHdpR3gwV1pHVi1ONjhoZ0tNZ3l5VFRYNmtxb2F5VkNMSkE?oc=5",
+      "published": "Wed, 14 Oct 2026 14:27:25 GMT",
       "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlE5UE9oeE9fSC12MVFXczkzR3RhWFhzU2FVc1lOaEJfaWxCTjlkZlN4TUdZN19pRnllTnJaNDV0bjk3QXJNWEVNVmxJWmtFelYybUJIanQtLVlXcFNlWDlCUTZNdkRCOFRiYzhEa1RtZGRKMzZYbUZQRFcxaVprSWNPdlJpRUNNT0xQdW15cGItZ3RSV3ZtNDJ1bHozdWxwcDhwaUpIWDFfY2U0d3RpSDlzSQ?oc=5",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "query": "Berkshire Hathaway 13F holdings"
     },
     {
       "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
@@ -367,12 +373,6 @@
     {
       "title": "Warren Buffett's Top Second Quarter 2026 Move: Alphabet Inc at a 2.93% Portfolio Impact - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWhvcEJ1YUJnNzZLdldlT0tSSHhmWGVWU3pERDRDdFhkZWh6OGNtU3RaeGd3a0VhNXBBRzdHM3Bza3puOVZmTDZ5OXlDREJpdVpJV3piSzl0SmlNRDBLMXoxQUpaWE1uVDBZZkZUZWE3dXBjVWs5SDBza1dzc0RidEZsdWctUVNMZVFKdWYyV1R0MFkxZ0t0ZHNDREdWY2ZZ?oc=5",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
-      "title": "Tracking Berkshire Hathaway Portfolio – Q2 2026 Update (NYSE:BRK.A) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2tMME5tX1VudFpNSkxkNmZiWjBUcWhPMHRtbzhXSV95RzE2Wk1hNHhzdjZzaUxWUVhYdER2UkFYY3k1Q0NZTHdiRmhQalBIU2wzSnJjYVpGeFI3alZVRUppRzdGajNCRHM2V2d1UWtmQXBjcFFMV0V3Q3FBTlVzZGg3eklCYkZMZTNIeVV5M0FxdF9EcnVxVg?oc=5",
       "published": "Fri, 14 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
@@ -401,15 +401,15 @@
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "NBIS, SMCI, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHVnaEZpOHprb3I4TEdXaFNBTWV2cE5qNU03Y1NKazBhUGx3eWhEVHo1cTNqb1hPUUNmRDJheTlPejFVa3p0ZEx5MS1CS2FaTllxMVM3YVZqRHF1ZEswd1BDVGkwUlNwTTZnZ1ZtVFZJZHpGYXNvTzE4ektWeUNIREhDTk95N1BnUVBLd2F4Vk43RDZFVktGZmZ1bjFIYTZhWVhFbDlpTG8tdnB6LUVXZTJPeXA4d2NucDRCWnZkb1lNSWlIeVM5UnNWWk1oVWw1T1E?oc=5",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    },
-    {
       "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Tuesday; Sandisk, Micron Technology to Decline - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSktPZUtaRzkzcWtUbTZNOUE0bG44TU9QeWxMLXBGUEhMWWFMM1NLZkZoRlM2dnQ3S3RBd0ZwQ2VvZFBucmdYVzVydVNqTG9CZWd5dUNVX3BNRVhyMzROSWtlWjE1TGpLOUZfRF9DU1laeE9EaFh2U2tZVTBkb3FOMGphRzdQZ2RUM3E2ODBibV9ubXR5akZ6TEZ3UlFOWE9EZFFLMkw2WUs?oc=5",
       "published": "Tue, 13 Oct 2026 10:35:33 GMT",
+      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
+    },
+    {
+      "title": "NBIS, SMCI, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHVnaEZpOHprb3I4TEdXaFNBTWV2cE5qNU03Y1NKazBhUGx3eWhEVHo1cTNqb1hPUUNmRDJheTlPejFVa3p0ZEx5MS1CS2FaTllxMVM3YVZqRHF1ZEswd1BDVGkwUlNwTTZnZ1ZtVFZJZHpGYXNvTzE4ektWeUNIREhDTk95N1BnUVBLd2F4Vk43RDZFVktGZmZ1bjFIYTZhWVhFbDlpTG8tdnB6LUVXZTJPeXA4d2NucDRCWnZkb1lNSWlIeVM5UnNWWk1oVWw1T1E?oc=5",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -456,7 +456,7 @@
       "price": 50.84,
       "changePercent": -7.98,
       "marketCap": 32507656192,
-      "pe": 884.33,
+      "pe": 782.27,
       "eps": -0.27,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
@@ -481,7 +481,7 @@
       "changePercent": -11.48,
       "marketCap": 5458087424,
       "pe": -23.01,
-      "eps": -1.62,
+      "eps": -0.91,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 17.65
@@ -491,7 +491,7 @@
       "name": "Nebius Group N.V.",
       "price": 165.47,
       "changePercent": -12.18,
-      "marketCap": 44983885824,
+      "marketCap": 42012532736,
       "pe": 129.27,
       "eps": 1.28,
       "dividendYield": 0.0,
