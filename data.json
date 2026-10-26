@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T03:51:54.273778+00:00",
+  "updatedAt": "2026-10-26T03:56:52.037284+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -25,7 +25,7 @@
       "name": "American Express Company",
       "price": 313.22,
       "changePercent": -3.67,
-      "marketCap": 211520536576,
+      "marketCap": 210030297088,
       "pe": 19.01,
       "eps": 16.48,
       "dividendYield": 1.21,
@@ -110,8 +110,8 @@
       "price": 483.45,
       "changePercent": -1.55,
       "marketCap": 83358425088,
-      "pe": 28.9,
-      "eps": 16.73,
+      "pe": 30.68,
+      "eps": 15.76,
       "dividendYield": 0.85,
       "fiftyTwoWeekHigh": 546.88,
       "fiftyTwoWeekLow": 402.28
@@ -123,7 +123,7 @@
       "changePercent": -1.16,
       "marketCap": 29408428032,
       "pe": 11.94,
-      "eps": -2.87,
+      "eps": -3.06,
       "dividendYield": 6.45,
       "fiftyTwoWeekHigh": 28.09,
       "fiftyTwoWeekLow": 21.04
@@ -181,7 +181,7 @@
       "name": "SHOPIFY INC",
       "price": 236.24,
       "changePercent": -0.07,
-      "marketCap": 306557943808,
+      "marketCap": 303956787200,
       "pe": 115.24,
       "eps": 2.05,
       "dividendYield": 0.0,
@@ -303,7 +303,7 @@
       "changePercent": -4.4,
       "marketCap": 5518565376,
       "pe": -23.27,
-      "eps": -1.47,
+      "eps": -0.91,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 17.65
@@ -313,7 +313,7 @@
       "name": "Nebius Group N.V.",
       "price": 158.74,
       "changePercent": -0.27,
-      "marketCap": 43154300928,
+      "marketCap": 40303800320,
       "pe": 124.02,
       "eps": 1.28,
       "dividendYield": 0.0,
@@ -321,98 +321,7 @@
       "fiftyTwoWeekLow": 73.52
     }
   ],
-  "news": [
-    {
-      "title": "Nasdaq, Treasury yields and dollar face a major AI sentiment test - StoneX",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlpmc3pTTnVwTkp5aS1HMXpISUhTSnBndTNiTWdzMmlkZ21QOUJsRm1CaWtidGtKVWVvV3N2cm5KTnE0NW93X2JfRUtzcjZoR1VVZWp5NzFheUEyOWFRd19vTjBCTUFVdnFaMWhaTXBBOW5rSDBRakQzNXBraTEyVklqajEyUjhaWUFIZXViVWZ3SFpkZmhfQmh1N1NQRXZjVUQyeDZyMGlaemNNdElyNGdB?oc=5",
-      "published": "Sat, 24 Oct 2026 17:43:55 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
-      "title": "Surging oil prices and fresh tech jitters are hammering stocks - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXp3YnNZOEN0MWQzbzVpYVNUWjFYZUs1aDVrbF9DVlktUm4wYUdHUUo0cmZFSXB6WUhtek1hNVRVd1F6MExBLWZmR3Riblp2UVRxZXg1Wi1yckx6UVJwVUxITUZxd1N4MzVRc19MYm9XdEtDVnExMHVCTU9KZUZ6Z1I2eFBCcE4tTld6Yk5hWUxqMTlFbERXV0xB?oc=5",
-      "published": "Thu, 22 Oct 2026 20:04:00 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
-      "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjc2Qnc1OUdYaTRkWFNLc1N4MGhZUEk0QWg5UXdkaDdyMF9qcjV2WUFPaW1JeU5oT3VZaTdPdHBpQUYxTy1fb3ctS3NUaWRuS0F3VlJaME9ZVXp2cFJIVEtIaXZUN01PaS1fRi0wQUtaN0VnMzdxMEh0cldyTHRFSVY2czE?oc=5",
-      "published": "Thu, 22 Oct 2026 20:05:42 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
-      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
-      "published": "Sat, 24 Oct 2026 11:00:01 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "The AI sell-off is crushing stocks of companies leading the data center build-out - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNemFqVTR5R3pxRDdTaE5mOFpqR3d4S1E1SFVuRVBfaWw1em8wcXdCZU1SR0tMTU12WkVoZ3Z2dnkyb0lNRUVZZEJsRnl3QlI2WmhQVE1BamNkWHNKVGVBME9WRWlPcDYzVy1JY0hHcWV6b2tqbVBMMEZvSUxWX0pYOEYxQ0FUQ3p0SFlpRVNyWVBaVE54WUctRUJvelhBUmdxLVJST3VtWWRmZWlYTTBsUVYzLXd3WW9jVVk3YnlWdE9nWlhlZDU2VVNKczdYV0NkREk1Zg?oc=5",
-      "published": "Fri, 23 Oct 2026 17:52:06 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Nvidia Stock’s 2 Critical Flaws and More Reasons an Analyst Says Sell - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
-      "published": "Fri, 23 Oct 2026 16:33:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlE5UE9oeE9fSC12MVFXczkzR3RhWFhzU2FVc1lOaEJfaWxCTjlkZlN4TUdZN19pRnllTnJaNDV0bjk3QXJNWEVNVmxJWmtFelYybUJIanQtLVlXcFNlWDlCUTZNdkRCOFRiYzhEa1RtZGRKMzZYbUZQRFcxaVprSWNPdlJpRUNNT0xQdW15cGItZ3RSV3ZtNDJ1bHozdWxwcDhwaUpIWDFfY2U0d3RpSDlzSQ?oc=5",
-      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
-      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXJrOXJWRlYzbmVOa05RNXZpUjY4amRXbUFNcXdFLVEyNXJoVGtPUy1KVkF3VGVTdWlHZF9Mc2Yzemk1QUt2Z19IakxGeHlmaWlOUlQ2Zkctd1JtZVMtMVl5S1VEa3ZPZDgtTk4yTjd2a1gxNkt0YmdoOENVTTBkYTFmQUlNbU90NXItcElNcGZCUHJhX3FIR0REVUVNOS1JODlCN0xUNl9XQUFY?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
-      "title": "Tracking Berkshire Hathaway Portfolio – Q2 2026 Update (NYSE:BRK.A) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2tMME5tX1VudFpNSkxkNmZiWjBUcWhPMHRtbzhXSV95RzE2Wk1hNHhzdjZzaUxWUVhYdER2UkFYY3k1Q0NZTHdiRmhQalBIU2wzSnJjYVpGeFI3alZVRUppRzdGajNCRHM2V2d1UWtmQXBjcFFMV0V3Q3FBTlVzZGg3eklCYkZMZTNIeVV5M0FxdF9EcnVxVg?oc=5",
-      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
-      "title": "These Stocks Led the Market in Q3 2026 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVENlOFFycHI4ZWpld1N3dVhiZzUyNHlJMlFlR3BqbFVCZUs3S2hidmRiclg5b3VQeS1VZHZLOXRIV3NCVzNlZlhST1ZVYUQ2dV9IeVFpMHg0Sk85Y1VDUS1pRDZOYktjQWxpZE5mYi12S0ZoSzROYk41bXdsQkJxeERR?oc=5",
-      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
-      "title": "Barlow’s Research Roundup: RBC analysts’ best ideas portfolio sees 14 changes - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPelhlNWNKdzU3RkZHYzUtVTR1NTJUUG1VaWRrQ080VkNkZ1lhSDl2S3Jodm5QT3cxaURETlJzMnkwQ1l0b0NRMURjbTBpWFBkbHdJeEtjeGo1WU9fSDFJZ3FnT2FidURsNUM5TTlXOUdfcWRfQkpkd3Vkck1yNzBjdGNRUENwX3ltZjFBM1R4VVBNWW5MYjJzbHRUWHlDOGF1X0F2VzNFOGRCUkozWFJ3WWR0MWZxVUlGbUtpQ0FLRDhCM1RUS213MTc4QjMtQnBudzlnSWVUOC1xZXc?oc=5",
-      "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
-      "title": "Cameco (TSX:CCO) Enters Focus As Energy Stocks Narrative Shifts - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlZYc0FVQUhFa0V1TEt0Mlp4cVQ0N1ExODZ0aWVUYURtT1dKYkJwSTJaOFF1UEZsbklPYkxWWElWT0JTRmFyU0YyTUdFRTVPNTNlVDhnSmxrR0Y3V1gtalB6R0VEWlJSblFyc2xOUk5vRVQwNDBFQm8wbFBNbGRnMjRBRi04RlFHS0k5R2pUYm1lbEN3TTJrWTkwR2w4LVl0S04wdg?oc=5",
-      "published": "Sat, 05 Sep 2026 07:00:00 GMT",
-      "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
-      "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmc2WnE5LUpVSGk2OVNkQlNabDlqNFRKZHNFdWM2U3Uxd2J2UmZ6Y18wMlNZc2VFVXM3QWktNTAzQXB3ZGJsa0Jpa3dmOHM3czE4UEF3Mkk2bmVsYVE0NlRBX3FYSWNZSmxDR0NNenY2RE5KVEZRNGkxVVk4VEdjamhVSFRhQk9IaEx0ZGVubEZiUDJqSWl1QkROTEtaTlJRVHdycVItWHU?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    },
-    {
-      "title": "Social Buzz: Wallstreetbets Stocks Advance Premarket Tuesday; MongoDB, Reddit to Open Higher - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjZqMU5ack93ZGpISW9oejQ4ZXh2WVBsQ09jeV9OckcyRU9TNnJPcm1rR3JQM1ZVRC1ka1pVWDFWWHFDSGlDNkZIdFZFQ2JZTU5YeWw5ZUZqX2FxdTQ0dmE5STAwU0tUWWlNWl9pT2xPc0tIRWQzc3U0ZzBhX3JZYnhqNlJOeERBX3NFSTJNWW9EbEM4M2FOdUgteHlvdXdQX1Mtc0VHMEUxQQ?oc=5",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    },
-    {
-      "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkRjUTJDUTlTNGZfUVJQWUwyX1VfR1c5SXlSeWRSZVUtVXZoSElGVlNQSzhnWllLSGNQMF9pM0g2ZVB6TzB3MnJKaDlLSUU3Ql9nem5nVTk4V0hGanNsV0lPRzB3SXYwRHhMZGJxeG5PQzAtQk9QNzdLdVZ6VDRaUS1lRzVmQ2xIQVhMejE0Vk80dHhwSElqSU5wOHVpM2RNenJ4RnJ0SVdqUUo0cjNHdmJQQ1VLS3o4OEplM051Sy1BV2ZzQUhmRDFob1pLUkxfX1E?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    }
-  ],
+  "news": [],
   "hotStocks": [
     {
       "ticker": "MU",
@@ -481,7 +390,7 @@
       "changePercent": -4.4,
       "marketCap": 5518565376,
       "pe": -23.27,
-      "eps": -1.47,
+      "eps": -0.91,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 17.65
@@ -491,7 +400,7 @@
       "name": "Nebius Group N.V.",
       "price": 158.74,
       "changePercent": -0.27,
-      "marketCap": 43154300928,
+      "marketCap": 40303800320,
       "pe": 124.02,
       "eps": 1.28,
       "dividendYield": 0.0,
