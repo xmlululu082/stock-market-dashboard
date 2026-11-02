@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T05:06:52.681424+00:00",
+  "updatedAt": "2026-11-02T05:07:51.572534+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -323,12 +323,6 @@
   ],
   "news": [
     {
-      "title": "Nasdaq, Treasury yields and dollar face a major AI sentiment test - StoneX",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlpmc3pTTnVwTkp5aS1HMXpISUhTSnBndTNiTWdzMmlkZ21QOUJsRm1CaWtidGtKVWVvV3N2cm5KTnE0NW93X2JfRUtzcjZoR1VVZWp5NzFheUEyOWFRd19vTjBCTUFVdnFaMWhaTXBBOW5rSDBRakQzNXBraTEyVklqajEyUjhaWUFIZXViVWZ3SFpkZmhfQmh1N1NQRXZjVUQyeDZyMGlaemNNdElyNGdB?oc=5",
-      "published": "Sat, 31 Oct 2026 22:46:11 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
       "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
@@ -341,33 +335,39 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhTVFYtQ3l2eEZlSV9jRHFJX05VUjRoUEFJVkZLV0t2R2V4T05meU9kT2dxWU92VWl5U3p4Ty01bTBud0pZclRGS2hMYUVHbF9WdzRTUXZoMEFyM055aFh5UmxTZ093UFl0SVN1Vl9zTWJwUE5RN0Rxb1JWTVloWEVJMEhacy02VElrZUNySi1od3Z1bUlyY25MNk0xQWpISmFwQQ?oc=5",
-      "published": "Sat, 31 Oct 2026 13:05:01 GMT",
+      "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "If I Could Only Buy and Hold 1 \"Magnificent Seven\" Stock Through 2030, It Would Be This One - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkpNY0xPOGRuR3ZjUWZvc3FZS3B6Qk1XUExFUDBrdC1JdmhHVjJvSmw2SHgzcmNZb1BoMjE1Y3BYM2J3SjdkaXNjdlF3TjFTOTZEcmVrMFJ2eWdzZVNDZ05TdV9OekhiT0I4QngtblhuWHFuVGQweENqbnRwVThycFpnVWFSV1ViU2NxbFRpSQ?oc=5",
+      "published": "Mon, 02 Nov 2026 00:37:04 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Meet the Brilliant AI Stock Obliterating Nvidia in 2026 With a Return of 44% - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnFJczNReXExTWs4Um1FR2FMR005bmFzeVdHVjM2YXUzWEdXb3ExalZFU25fSk5SWjZrTGJGUlRPQmVuQ191cTdCT3RMc1Z6dnhTRHpmWWpBV2l2MGdackRERHk3ak01d3R2enl4VkdDV19PWWRCN1htRDNGQ0c5c1RXUWNFTExzeV9vRU9CYzZCeHdHYlE?oc=5",
-      "published": "Sat, 31 Oct 2026 12:09:00 GMT",
+      "title": "Prediction: Nvidia Stock Is Going to Soar After Nov. 17 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmU2bkhYVFltS0RkTnJINU9jaWF0Q253aWoyQnloT0ZDVTdfd2d2aEFlakwxcXdOSjE2NldxcEV4b0hTSXFwUzM5VGtwYVNQQ0pqVGg0a3p0SXhrUDRCM3V2Vm0xSk5KNWlpdjhnMGZsTFNOdU51NkExV3BQSjk3ZkJmRl9SbDAtT2toSlF3bFJRNXhFbHpSaA?oc=5",
+      "published": "Sun, 01 Nov 2026 20:29:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "NVIDIA Stock: Analyst Estimates & Ratings - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3F4WldNbXdBemQ2d2I5OUZkQmJrYTdFcUZGRHpCSlV3TDlQSjZVbzRsMUFXWmh4M2RIYjRKUERieUhBUkN2Ym9ENElqZ19JWEtLWHkyaEZBTTRYemR1MVR0WHltSlNpN0tZcy1vTE0yRTJUVGdlckNxX0JNeVRZdlpqbEFTUHcwci1FZEhCOUtQM19FRG9WNERqa0Uxd293a1lKSHpR?oc=5",
-      "published": "Fri, 30 Oct 2026 15:42:30 GMT",
+      "title": "Nvidia Q3 FY2027 Preview: The Fabless Model Just Got A $279 Billion Footnote (NASDAQ:NVDA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUEzRnZyNUFrdTRLY0s1TGJVdG9yMV9CSUpyWHlScGhiMm9haGc0MXN4MldRUUF5SHA3SUpkejkzdHhYVy1UcmFvSGNlQkRrbS1XWFRnVmhNNVpBa3ZrVXJvVHpxQ1N6RXJodjlfOFhFOEFYMnI3UlJyenEtcWVHeE5HZERyTmR5YkY3WGIwT3d4VUZYSVE5dFlpaWhmd2VoSHhYMTNhYk1DclBrVDN3cUdtVTNxUQ?oc=5",
+      "published": "Sun, 01 Nov 2026 10:49:27 GMT",
       "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2lja09UOHoxalpHRy1HdEhVZlRmT2JPamlLZC1uamFYb3phOTByaVhSamNHQWtTb20wSEVfb09YdmpKR1BjVEMybmZ5R0gweHRMUG1wb3NTc3YzMTZZcjVmOTUzQThTbHE3X1Y0XzFidXFOcTdtVWlfMkVSUlFYU29hdjdfQmw3cE1CakJxVGZNTC1XMTQzZkxrSk9ZcGdvMjZscnpQMkkzYVhMR2wxNXZDWTFadE9f?oc=5",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "query": "Berkshire Hathaway 13F holdings"
     },
     {
       "title": "These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlE5UE9oeE9fSC12MVFXczkzR3RhWFhzU2FVc1lOaEJfaWxCTjlkZlN4TUdZN19pRnllTnJaNDV0bjk3QXJNWEVNVmxJWmtFelYybUJIanQtLVlXcFNlWDlCUTZNdkRCOFRiYzhEa1RtZGRKMzZYbUZQRFcxaVprSWNPdlJpRUNNT0xQdW15cGItZ3RSV3ZtNDJ1bHozdWxwcDhwaUpIWDFfY2U0d3RpSDlzSQ?oc=5",
       "published": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
-      "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXJrOXJWRlYzbmVOa05RNXZpUjY4amRXbUFNcXdFLVEyNXJoVGtPUy1KVkF3VGVTdWlHZF9Mc2Yzemk1QUt2Z19IakxGeHlmaWlOUlQ2Zkctd1JtZVMtMVl5S1VEa3ZPZDgtTk4yTjd2a1gxNkt0YmdoOENVTTBkYTFmQUlNbU90NXItcElNcGZCUHJhX3FIR0REVUVNOS1JODlCN0xUNl9XQUFY?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
