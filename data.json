@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:16:12.651830+00:00",
+  "updatedAt": "2026-11-08T05:13:14.304692+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -40,7 +40,7 @@
       "marketCap": 411562999808,
       "pe": 28.22,
       "eps": 3.39,
-      "dividendYield": 2.21,
+      "dividendYield": 2.22,
       "fiftyTwoWeekHigh": 97.39,
       "fiftyTwoWeekLow": 67.27
     },
@@ -61,10 +61,10 @@
       "name": "Chevron Corporation",
       "price": 212.61,
       "changePercent": -0.15,
-      "marketCap": 414802116608,
-      "pe": 15.63,
-      "eps": 13.6,
-      "dividendYield": 3.34,
+      "marketCap": 414856019968,
+      "pe": 15.61,
+      "eps": 13.62,
+      "dividendYield": 3.35,
       "fiftyTwoWeekHigh": 236.48,
       "fiftyTwoWeekLow": 146.49
     },
@@ -100,9 +100,9 @@
       "marketCap": 139466555392,
       "pe": 12.79,
       "eps": 28.53,
-      "dividendYield": 1.1,
+      "dividendYield": 1.12,
       "fiftyTwoWeekHigh": 384.26,
-      "fiftyTwoWeekLow": 282.99
+      "fiftyTwoWeekLow": 284.63
     },
     {
       "ticker": "MCO",
@@ -110,9 +110,9 @@
       "price": 505.67,
       "changePercent": -1.88,
       "marketCap": 87189684224,
-      "pe": 31.45,
-      "eps": 16.08,
-      "dividendYield": 0.8,
+      "pe": 30.85,
+      "eps": 16.39,
+      "dividendYield": 0.81,
       "fiftyTwoWeekHigh": 546.88,
       "fiftyTwoWeekLow": 402.28
     },
@@ -122,9 +122,9 @@
       "price": 24.61,
       "changePercent": -2.8,
       "marketCap": 29134032896,
-      "pe": 11.92,
-      "eps": -2.85,
-      "dividendYield": 6.32,
+      "pe": 11.95,
+      "eps": -2.93,
+      "dividendYield": 6.5,
       "fiftyTwoWeekHigh": 28.09,
       "fiftyTwoWeekLow": 21.04
     },
@@ -136,7 +136,7 @@
       "marketCap": 4506795900928,
       "pe": 23.6,
       "eps": 7.91,
-      "dividendYield": 0.55,
+      "dividendYield": 0.54,
       "fiftyTwoWeekHigh": 243.37,
       "fiftyTwoWeekLow": 164.27
     },
@@ -146,9 +146,9 @@
       "price": 530.61,
       "changePercent": -0.99,
       "marketCap": 3940412817408,
-      "pe": 27.97,
-      "eps": 18.97,
-      "dividendYield": 0.73,
+      "pe": 27.69,
+      "eps": 19.16,
+      "dividendYield": 0.74,
       "fiftyTwoWeekHigh": 559.15,
       "fiftyTwoWeekLow": 349.2
     },
@@ -160,7 +160,7 @@
       "marketCap": 888274812928,
       "pe": 14.03,
       "eps": 23.84,
-      "dividendYield": 1.96,
+      "dividendYield": 1.97,
       "fiftyTwoWeekHigh": 366.5,
       "fiftyTwoWeekLow": 279.1
     },
@@ -170,9 +170,9 @@
       "price": 249.95,
       "changePercent": 4.3,
       "marketCap": 88559132672,
-      "pe": 23.43,
-      "eps": 10.67,
-      "dividendYield": 0.71,
+      "pe": 24.43,
+      "eps": 10.23,
+      "dividendYield": 0.68,
       "fiftyTwoWeekHigh": 380.78,
       "fiftyTwoWeekLow": 228.63
     },
@@ -182,8 +182,8 @@
       "price": 210.47,
       "changePercent": 4.59,
       "marketCap": 270774288384,
-      "pe": 97.44,
-      "eps": 2.16,
+      "pe": 93.13,
+      "eps": 2.26,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 255.95,
       "fiftyTwoWeekLow": 129.01
@@ -196,9 +196,9 @@
       "marketCap": 393399599104,
       "pe": 17.92,
       "eps": 15.86,
-      "dividendYield": 2.46,
+      "dividendYield": 2.48,
       "fiftyTwoWeekHigh": 306.38,
-      "fiftyTwoWeekLow": 201.76
+      "fiftyTwoWeekLow": 202.79
     },
     {
       "ticker": "CCO.TO",
@@ -206,8 +206,8 @@
       "price": 100.65,
       "changePercent": 5.01,
       "marketCap": 43836395520,
-      "pe": 115.69,
-      "eps": 0.87,
+      "pe": 110.6,
+      "eps": 0.91,
       "dividendYield": 0.24,
       "fiftyTwoWeekHigh": 182.72,
       "fiftyTwoWeekLow": 92.52
@@ -217,9 +217,9 @@
       "name": "ENBRIDGE INC",
       "price": 66.14,
       "changePercent": -1.77,
-      "marketCap": 147415711744,
-      "pe": 22.57,
-      "eps": 2.93,
+      "marketCap": 147418660864,
+      "pe": 22.97,
+      "eps": 2.88,
       "dividendYield": 5.76,
       "fiftyTwoWeekHigh": 80.65,
       "fiftyTwoWeekLow": 62.42
@@ -279,7 +279,7 @@
       "changePercent": 15.39,
       "marketCap": 33933541376,
       "pe": 923.12,
-      "eps": -0.31,
+      "eps": -0.27,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
@@ -303,7 +303,7 @@
       "changePercent": 9.74,
       "marketCap": 4702119936,
       "pe": -19.82,
-      "eps": -1.78,
+      "eps": -1.62,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 13.12
@@ -314,8 +314,8 @@
       "price": 129.49,
       "changePercent": 7.58,
       "marketCap": 32877279232,
-      "pe": 93.83,
-      "eps": 1.38,
+      "pe": 101.16,
+      "eps": 1.28,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 299.86,
       "fiftyTwoWeekLow": 73.52
@@ -323,39 +323,39 @@
   ],
   "news": [
     {
-      "title": "Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG02RXdnOUdVdG5heW1rdll4NGtPY2gzam5SbFNoY1RZZ0pQclREUjYtNFBPX3BnQlVsRU5leHVPcjJpN0JBcWFJck8wREhyczE1NGRIa1V3ei0tQVJjcVYtN0d3SHdwSVVMMS1jMVF0Vl91eXBSeXRCTHNXWFZOTmZkaEh2eGFNRjlnbl9UWUZBazlSeHNZb1RwTnppdGZRUTZNN1huYUNtSDUxSWY4LUxjaw?oc=5",
-      "published": "Fri, 06 Nov 2026 19:00:20 GMT",
+      "title": "Stock Market Today : AI Stocks Rebound After Brutal Nasdaq Selloff, Oil prices Fall - Eurasia Business News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHY2MlhOMGt6cWtheDNLUHV0blZWVXo0STN2YlFqWkxhNnoyb003R25jTU1na3kybktTczljNVZ6Zl9hQnQtZ0V5elJ3djJXTDVaLVVVRm5kUjlIVXR4UmNEeTdKdERCRHNNWkpwblJqaUxaVTFnYVlBYUxEb2Rqclp4UmpBZTItZi1ENUFPVFpBRFdweDdyVmdzVDNDWmV3dVhXc3RwMGtybXQ3?oc=5",
+      "published": "Sat, 07 Nov 2026 01:21:45 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Stock market today: Nasdaq plunges 5% amid chip stock wipeout, Dow and S&P 500 erase post-election rally gains - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1BQQmJLMC1jZnlVQi1QcVV2ZUdzZFVCU0lrdnRvMWl2b2FySnNrZWt0WFpnNS1CYjdkTGNvbzc5Z2JqMGlxN3NQS01RTnJzWjlxUW8tc2RBLUFRZzdfUUJGbkFWNGdobEM1MWlWcENPWlQycUhMWUhWbG45SUFVcFpTcWlVb0VTeGN0VnZianFmeUZJYmhEdU5NazYzWjBtVVJGTndUazFlMkVfbmtFUXYybkxSc0NsYUFfYTkyem5PLXlRQXRyblAyT1k?oc=5",
-      "published": "Thu, 05 Nov 2026 19:38:49 GMT",
+      "title": "US Equity Futures Inch Higher as Investors Await Midterm Results - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5",
+      "published": "Wed, 04 Nov 2026 21:44:13 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nasdaq rebounds but posts fourth straight weekly decline - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5",
-      "published": "Fri, 06 Nov 2026 09:41:00 GMT",
+      "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Jim Cramer explains why no AI stock seems safe from the market carnage - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVG1fZkZFN3RQc19oUnRmYk44dTFaM1NIWE5Uck9VMW9UMjVyMWZoRkxtSFJCRm9NcHJUY1ROVXJzS2xyVHV6ck50UTZVdmlyTFN6eDZ2UDd2SnNnbmlhVUdkVXRQU293N3c2QjVJZUNrWUxLN2VaSWZ3Y3BaTGtOZWhUZEhkSFJB0gGOAUFVX3lxTE45WUg5QjRXV3ZVTzZ2OW5nLWtUNFotLTcxbXFLdmYtdWNOSE1EYkIwY2ZfZTRwSjJMVVkzWmFkcEtGT0s0Rk5MOHFtSmM5b2VGOUFXQUNxOFg1elhNeFRIdHZCdGVTSlJ3a1JoRzc4SWNSU0hlMGxjZC1Yc0R5eklHTnZQaVQ3SGZJdHhHaGc?oc=5",
+      "published": "Thu, 05 Nov 2026 23:25:04 GMT",
+      "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
+      "published": "Thu, 05 Nov 2026 23:16:52 GMT",
+      "query": "Nvidia AI data center stock"
     },
     {
       "title": "Why Nvidia Stock Can Ride Out a Data-Center Crackdown - Barron's",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5",
       "published": "Wed, 04 Nov 2026 18:29:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGR6VGxMQVNKdUF0R21NRjNRYzB1MlJMRzZFVVViM0tLZXpMM3BOc210T2FGZ0RMcEVWOTRXeGx3dHJNd2JlOHh4Z05BREdvSmVGdjdHWlptek45UEc1UGU1eDFYdVdRczVheTJCcE93S2E4d0dULWI0NUtVXzNiQg?oc=5",
-      "published": "Thu, 05 Nov 2026 15:18:46 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Nvidia Eyes Apollo’s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5",
-      "published": "Thu, 05 Nov 2026 21:31:27 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -389,16 +389,10 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "3 Canadian Stocks That Could Power the AI Data Centre Surge - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG83WlBJSjBhaG9qU3RDdzVKMlphenRGUEl5MWxKSk9UQ25MY0JFTll2aEpYd0xtRW9SdXhVVHMwUnlmRGM2cGNwaGlYUE9yWTJvUTFtdDJoQUFqMkQ5bkhVLUZDYURfQkpNelVjSUU3UmJHNGh3X3kyX1hFblZOWWVRcnc?oc=5",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "title": "Why These 3 Canadian Stocks Have a Serious Advantage Over Global Markets in 2026 - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjVuVnduYjFFSTlvdVNRMk1UcDFsQ3MzY0xEV0dqMC01OFNPbTJlMjFDb0I2cG15UzFOd05tTnZfb3VpSm1oM0lGNkM0M2FxeGZmaXE1OW5xODVxc21tT09JQjRtaVZVdk1PT0dmZ0N4RmE4Ni1UYXhmNkp3cjdBMXFwMlo?oc=5",
+      "published": "Tue, 30 Dec 2025 08:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
-    },
-    {
-      "title": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Tuesday; Micron Technology, CoreWeave to Open Higher - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDQ0endRbmhXSWpoRTk1MFdXeF9aY2k2dnBNTXB2bDlQQzF6MURrLUcxLUJkb2dhN0RMOG5tTUFsSEhvYlVOX2l6X0RZTXpEdmQtaXFyZS0zMzROODhIMm9qTFVmTzBwMDRqZlJPcmNvTUg3RlBrek5WMW9hYlVIQlIwSllFVjBmLU9JUkdNbGJFeHVKWUdrMi1BNjFxTnpzT1dkY3BLcGk?oc=5",
-      "published": "Tue, 27 Oct 2026 10:33:49 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
       "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance - Yahoo Finance",
@@ -410,6 +404,12 @@
       "title": "NBIS, SMCI, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHVnaEZpOHprb3I4TEdXaFNBTWV2cE5qNU03Y1NKazBhUGx3eWhEVHo1cTNqb1hPUUNmRDJheTlPejFVa3p0ZEx5MS1CS2FaTllxMVM3YVZqRHF1ZEswd1BDVGkwUlNwTTZnZ1ZtVFZJZHpGYXNvTzE4ektWeUNIREhDTk95N1BnUVBLd2F4Vk43RDZFVktGZmZ1bjFIYTZhWVhFbDlpTG8tdnB6LUVXZTJPeXA4d2NucDRCWnZkb1lNSWlIeVM5UnNWWk1oVWw1T1E?oc=5",
       "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
+    },
+    {
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Tuesday; Micron Technology, CoreWeave to Open Higher - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDQ0endRbmhXSWpoRTk1MFdXeF9aY2k2dnBNTXB2bDlQQzF6MURrLUcxLUJkb2dhN0RMOG5tTUFsSEhvYlVOX2l6X0RZTXpEdmQtaXFyZS0zMzROODhIMm9qTFVmTzBwMDRqZlJPcmNvTUg3RlBrek5WMW9hYlVIQlIwSllFVjBmLU9JUkdNbGJFeHVKWUdrMi1BNjFxTnpzT1dkY3BLcGk?oc=5",
+      "published": "Tue, 27 Oct 2026 10:33:49 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -457,7 +457,7 @@
       "changePercent": 15.39,
       "marketCap": 33933541376,
       "pe": 923.12,
-      "eps": -0.31,
+      "eps": -0.27,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
@@ -481,7 +481,7 @@
       "changePercent": 9.74,
       "marketCap": 4702119936,
       "pe": -19.82,
-      "eps": -1.78,
+      "eps": -1.62,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 50.73,
       "fiftyTwoWeekLow": 13.12
@@ -492,8 +492,8 @@
       "price": 129.49,
       "changePercent": 7.58,
       "marketCap": 32877279232,
-      "pe": 93.83,
-      "eps": 1.38,
+      "pe": 101.16,
+      "eps": 1.28,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 299.86,
       "fiftyTwoWeekLow": 73.52
