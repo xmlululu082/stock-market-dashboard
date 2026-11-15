@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:37:10.416517+00:00",
+  "updatedAt": "2026-11-15T05:34:34.736407+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -14,8 +14,8 @@
       "price": 356.27,
       "changePercent": 0.39,
       "marketCap": 5177380175872,
-      "pe": 39.5,
-      "eps": 9.02,
+      "pe": 39.67,
+      "eps": 8.98,
       "dividendYield": 0.3,
       "fiftyTwoWeekHigh": 360.83,
       "fiftyTwoWeekLow": 243.42
@@ -26,8 +26,8 @@
       "price": 320.6,
       "changePercent": 0.8,
       "marketCap": 214978969600,
-      "pe": 17.92,
-      "eps": 17.89,
+      "pe": 18.06,
+      "eps": 17.75,
       "dividendYield": 1.19,
       "fiftyTwoWeekHigh": 387.49,
       "fiftyTwoWeekLow": 290.97
@@ -50,9 +50,9 @@
       "price": 51.02,
       "changePercent": 1.01,
       "marketCap": 352048676864,
-      "pe": 12.06,
-      "eps": 4.23,
-      "dividendYield": 2.53,
+      "pe": 12.18,
+      "eps": 4.19,
+      "dividendYield": 2.51,
       "fiftyTwoWeekHigh": 65.23,
       "fiftyTwoWeekLow": 46.12
     },
@@ -64,7 +64,7 @@
       "marketCap": 429061144576,
       "pe": 16.14,
       "eps": 13.62,
-      "dividendYield": 3.29,
+      "dividendYield": 3.24,
       "fiftyTwoWeekHigh": 236.48,
       "fiftyTwoWeekLow": 146.49
     },
@@ -74,9 +74,9 @@
       "price": 58.75,
       "changePercent": 0.6,
       "marketCap": 58743816192,
-      "pe": 13.0,
-      "eps": 4.52,
-      "dividendYield": 1.92,
+      "pe": 13.08,
+      "eps": 4.49,
+      "dividendYield": 1.91,
       "fiftyTwoWeekHigh": 67.45,
       "fiftyTwoWeekLow": 38.8
     },
@@ -86,11 +86,11 @@
       "price": 295.77,
       "changePercent": -0.98,
       "marketCap": 3636196016128,
-      "pe": 15.6,
-      "eps": 18.96,
-      "dividendYield": 0.29,
+      "pe": 15.44,
+      "eps": 19.15,
+      "dividendYield": 0.3,
       "fiftyTwoWeekHigh": 408.61,
-      "fiftyTwoWeekLow": 270.7
+      "fiftyTwoWeekLow": 272.11
     },
     {
       "ticker": "CB",
@@ -98,9 +98,9 @@
       "price": 375.74,
       "changePercent": 1.07,
       "marketCap": 143562440704,
-      "pe": 13.03,
-      "eps": 28.84,
-      "dividendYield": 1.1,
+      "pe": 13.17,
+      "eps": 28.53,
+      "dividendYield": 1.09,
       "fiftyTwoWeekHigh": 384.26,
       "fiftyTwoWeekLow": 291.03
     },
@@ -123,8 +123,8 @@
       "changePercent": 2.57,
       "marketCap": 29725945856,
       "pe": 12.26,
-      "eps": -3.01,
-      "dividendYield": 6.54,
+      "eps": -2.93,
+      "dividendYield": 6.37,
       "fiftyTwoWeekHigh": 28.09,
       "fiftyTwoWeekLow": 21.04
     },
@@ -134,8 +134,8 @@
       "price": 162.85,
       "changePercent": -2.01,
       "marketCap": 3932339044352,
-      "pe": 21.01,
-      "eps": 7.75,
+      "pe": 20.59,
+      "eps": 7.91,
       "dividendYield": 0.61,
       "fiftyTwoWeekHigh": 243.37,
       "fiftyTwoWeekLow": 148.8
@@ -146,8 +146,8 @@
       "price": 523.88,
       "changePercent": 0.17,
       "marketCap": 3890434801664,
-      "pe": 27.3,
-      "eps": 19.19,
+      "pe": 27.34,
+      "eps": 19.16,
       "dividendYield": 0.75,
       "fiftyTwoWeekHigh": 559.15,
       "fiftyTwoWeekLow": 349.2
@@ -170,9 +170,9 @@
       "price": 280.2,
       "changePercent": -0.78,
       "marketCap": 98520711168,
-      "pe": 22.71,
-      "eps": 12.34,
-      "dividendYield": 0.6,
+      "pe": 22.52,
+      "eps": 12.44,
+      "dividendYield": 0.61,
       "fiftyTwoWeekHigh": 380.78,
       "fiftyTwoWeekLow": 228.63
     },
@@ -196,9 +196,9 @@
       "marketCap": 399228010496,
       "pe": 18.18,
       "eps": 15.86,
-      "dividendYield": 2.43,
+      "dividendYield": 2.44,
       "fiftyTwoWeekHigh": 306.38,
-      "fiftyTwoWeekLow": 202.79
+      "fiftyTwoWeekLow": 204.6
     },
     {
       "ticker": "CCO.TO",
@@ -206,8 +206,8 @@
       "price": 100.8,
       "changePercent": -1.53,
       "marketCap": 43901726720,
-      "pe": 109.57,
-      "eps": 0.92,
+      "pe": 110.77,
+      "eps": 0.91,
       "dividendYield": 0.24,
       "fiftyTwoWeekHigh": 182.72,
       "fiftyTwoWeekLow": 92.52
@@ -232,7 +232,7 @@
       "marketCap": 130413969408,
       "pe": 42.03,
       "eps": 1.39,
-      "dividendYield": 0.67,
+      "dividendYield": 0.68,
       "fiftyTwoWeekHigh": 68.44,
       "fiftyTwoWeekLow": 50.76
     },
@@ -242,8 +242,8 @@
       "price": 778.31,
       "changePercent": -2.52,
       "marketCap": 880597991424,
-      "pe": 10.74,
-      "eps": 72.46,
+      "pe": 10.47,
+      "eps": 74.33,
       "dividendYield": 0.08,
       "fiftyTwoWeekHigh": 1255.0,
       "fiftyTwoWeekLow": 192.59
@@ -254,8 +254,8 @@
       "price": 885.01,
       "changePercent": -5.59,
       "marketCap": 125927505920,
-      "pe": 7.49,
-      "eps": 118.12,
+      "pe": 7.07,
+      "eps": 125.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 2354.39,
       "fiftyTwoWeekLow": 183.0
@@ -266,8 +266,8 @@
       "price": 98.45,
       "changePercent": -1.1,
       "marketCap": 19010076672,
-      "pe": 20.3,
-      "eps": 4.85,
+      "pe": 20.09,
+      "eps": 4.9,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 263.5,
       "fiftyTwoWeekLow": 89.28
@@ -279,7 +279,7 @@
       "changePercent": -3.96,
       "marketCap": 41407975424,
       "pe": 859.6,
-      "eps": -0.36,
+      "eps": -0.37,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
@@ -291,7 +291,7 @@
       "changePercent": -5.51,
       "marketCap": 12717574144,
       "pe": -20.88,
-      "eps": -2.0,
+      "eps": -2.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 133.86,
       "fiftyTwoWeekLow": 27.58
@@ -313,9 +313,9 @@
       "name": "Nebius Group N.V.",
       "price": 115.88,
       "changePercent": -9.92,
-      "marketCap": 29421721600,
-      "pe": -40.19,
-      "eps": -0.23,
+      "marketCap": 33941528576,
+      "pe": 90.53,
+      "eps": 1.28,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 299.86,
       "fiftyTwoWeekLow": 73.52
@@ -323,15 +323,9 @@
   ],
   "news": [
     {
-      "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Fall on November 10, 2026; Oil and Gold Retreat - Eurasia Business News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTnAwU2t5T2szQUhFeXdXUVk0WnZ2Qi1hanhRcnZsaVk3VEpKSmhFeFI5Y3FiOXdvN2dtbEZlZkdCZW9aWDlUOGZaS2t2aHJ0bHZCMFdSTmxXWjhRMExMWmJCODhwQVlvV3gtckVNZm9nREVLVE9GaDFNUXJMVzVLTXJPWk85aUhheTlRT3ZGanNNSW44RFNXTVR5R1FuUTJPQUItSXZBT1UzSEtRVmxMUldGeXJyZ0FGczFsNDR6QXRzMDZJUW1ibklwRWg?oc=5",
-      "published": "Wed, 11 Nov 2026 01:15:05 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
-      "title": "US Stock Market Weekly Wrap: Dow, S&P 500, Nasdaq Rise - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3RvWWxLd0oyWkN2aVBFYThtVFY0M0p5UjdlS0NGNElrWW5zbWtQNWF1UnpYNUIxVV9XcnZYcndaQVdSczlZeWJZMDBJUjFYUWJLTjRXdVdKNVlXQTFKanI1Z2ZEUXRPTDd4SmtKcEZCNzBTOERaZEdFN2EzdTV3alFYZE80eWo0R3R1MXNtRUE5RDVDNnQ3Q0NXeHdLY1dFdXVkMDZPaW1LOHF3a3MzZmpsbU9fTFBWTVUxNXIydnE5b0FnQTJsM2EteE4wZw?oc=5",
-      "published": "Sat, 14 Nov 2026 03:02:18 GMT",
+      "title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns - Eurasia Business News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUZ4dk5ZRTJ4TGJBWUdaUHltUWNhWE9IdjYwMi1lQU5pU0w4c2F4aEhsVXI1M2RIUUNiT25hbkpYRk1YRnlqQTZ3OEJHQ0UweTZiaU5vcnBqWWZiajJXcV84Sl85U0k5NWpWbXpKTTVRRnF3NGJ0UGlSSGhNYUZ0T2JRR00ycWIzTmEyVEFnQjFMTmJkb0NoSDUzd2lIOTZIQjh2ek1JMU1UNi1mTTFmQktvdGw3QTRlSGQ2X2dIdWpNVVBBRk9QXzhmS2ZUQQ?oc=5",
+      "published": "Thu, 12 Nov 2026 23:34:26 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
@@ -341,9 +335,21 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
-      "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+      "title": "US Stock Market Weekly Wrap: Dow, S&P 500, Nasdaq Rise - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3RvWWxLd0oyWkN2aVBFYThtVFY0M0p5UjdlS0NGNElrWW5zbWtQNWF1UnpYNUIxVV9XcnZYcndaQVdSczlZeWJZMDBJUjFYUWJLTjRXdVdKNVlXQTFKanI1Z2ZEUXRPTDd4SmtKcEZCNzBTOERaZEdFN2EzdTV3alFYZE80eWo0R3R1MXNtRUE5RDVDNnQ3Q0NXeHdLY1dFdXVkMDZPaW1LOHF3a3MzZmpsbU9fTFBWTVUxNXIydnE5b0FnQTJsM2EteE4wZw?oc=5",
+      "published": "Sat, 14 Nov 2026 03:02:18 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Nvidia Stock Falls Below $165 After Its CEO Resigns: Is It a Bargain Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenJRUDJwOENPWU80dGxWN2JyOVhSZkVyVmVIT0tETGUxamdnUENsRGJMWFRFSWdxelZoY3FIS2oyWUtUTDh0SU9hbjN2ZzJSNWdfRTl3X1JoMWJZQS1KM2RvcGRDLWxRV2Nnak96SnpTSmtZb0pxSE5ib3JJU2pTNFkzMlFlQW9TQ1VzN2FWS3IxZUs4OVJSbA?oc=5",
+      "published": "Sat, 14 Nov 2026 14:01:02 GMT",
+      "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUTd1amNDQzhvSy1kWGcwdk1CZjRGZG9rTFc4VEFRX3p2Y3VTdzd6dDRkSnJnR21nUkt1OVVlajV4R3VJTElDYUpJQlBfbzhKRFB5RUdWdEJWLVotUVJQS2hqZFpJZGpERlJFWUNJb2ZZbUtNYWVtN2pNb3liSGvSAYQBQVVfeXFMTVZlLXNUMVl0Qkc4M2ZKWGFwNnB6U05GSEw5LXlXQlNKN2MwMUg1by1Pb3pyd3JoWHRzQkcxRFJmOG45RzlzcVNybHJ0Q3VyZEtfdlctNDdZSGpYU2NlaUpIUFFrdkE2akpLdFdBRkppeFBWYk1qT0gyd3ByLXhaVmdySDYy?oc=5",
+      "published": "Sat, 14 Nov 2026 15:50:43 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -351,18 +357,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5",
       "published": "Fri, 13 Nov 2026 16:14:39 GMT",
       "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "Nvidia Stock Is Still a Buy After CEO Jensen Huang’s Departure - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbHVXbEZWNnBkNlRaU1A5QWdvS3pNV1lWdF9yRkU2UVNpUUpLWlNEY0JhX1ZJLWYtMjFXZXlmeWgxV09DRUdRZ19HbEhrSlBVZ1ZzWVVVSkl3bFN2azlEM0VQMloydHY4MERiYTJzWU9qNlVGczlkcUhJRQ?oc=5",
-      "published": "Fri, 13 Nov 2026 13:29:00 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "A $2.4 Billion Fund Is Betting Big on Berkshire Hathaway - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFZBVGlfdUhsWFJqQVlyQmRDYktjTDd2Q09TVXN0bUJnSVRZZUx3MXBhSW42ZDFkR3lJa3ZsU2hqQnYtbGpmQ1B6TGRJV0xrVHVoaVlyTUdQZ2hQOE9BMXQ5TU9kcVZkX2N1TFlnN2s4TFBPeEU3TWpKc0JaWVNneUtyb0RJM0xnNEE?oc=5",
-      "published": "Sat, 14 Nov 2026 04:07:30 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
     },
     {
       "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales; Alphabet Most Traded in Q2 - Morningstar",
@@ -374,6 +368,12 @@
       "title": "Famous Investors Face a Nov. 16 Holdings Deadline While Recent Filings Fill In the Gap - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNm1HZzFYejMyS0MtQjBmYjFPbjl6U2FWamRPdkoyNXpmbXYxUlZVZ29aNXRXZFU5MkN2MTJqaUxIRE5hSkRkQVNNT1FUNVA5MEZvMlBrckdGMkUwRVVWV0NCTW1IMUd6Zk1vX1Z4VENXdi1Ca05lSkN0THh4R3A2c3ItSHdyUVAtVUZBY05OQU1zVkZYOHlKbXJxUmVCMl9DV18wZ1c4QUhpdGpCUURzdUFJZ3lQazhrdG95UnZNbC1HNDUxWm1IN2J6bkc0S3F6bGNDS2tUZDNGcWJhdk9B?oc=5",
       "published": "Wed, 11 Nov 2026 13:37:00 GMT",
+      "query": "Berkshire Hathaway 13F holdings"
+    },
+    {
+      "title": "These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlE5UE9oeE9fSC12MVFXczkzR3RhWFhzU2FVc1lOaEJfaWxCTjlkZlN4TUdZN19pRnllTnJaNDV0bjk3QXJNWEVNVmxJWmtFelYybUJIanQtLVlXcFNlWDlCUTZNdkRCOFRiYzhEa1RtZGRKMzZYbUZQRFcxaVprSWNPdlJpRUNNT0xQdW15cGItZ3RSV3ZtNDJ1bHozdWxwcDhwaUpIWDFfY2U0d3RpSDlzSQ?oc=5",
+      "published": "Tue, 18 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
@@ -405,12 +405,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkRjUTJDUTlTNGZfUVJQWUwyX1VfR1c5SXlSeWRSZVUtVXZoSElGVlNQSzhnWllLSGNQMF9pM0g2ZVB6TzB3MnJKaDlLSUU3Ql9nem5nVTk4V0hGanNsV0lPRzB3SXYwRHhMZGJxeG5PQzAtQk9QNzdLdVZ6VDRaUS1lRzVmQ2xIQVhMejE0Vk80dHhwSElqSU5wOHVpM2RNenJ4RnJ0SVdqUUo0cjNHdmJQQ1VLS3o4OEplM051Sy1BV2ZzQUhmRDFob1pLUkxfX1E?oc=5",
       "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    },
-    {
-      "title": "Reddit, Inc. (RDDT) Interactive Stock Chart - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3FBYmJxQkZZMC1Ob3JKRmV3Q0xSSzIxTEZvdGs5RU5mSWZVQ2V5cXd5NS1MZTAtLTZRVHFWZ2xibE1KWmRVZUt4VGlEYld3aV9SRTlXdlNkUQ?oc=5",
-      "published": "Thu, 21 Mar 2024 17:30:02 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
   "hotStocks": [
@@ -420,8 +414,8 @@
       "price": 778.31,
       "changePercent": -2.52,
       "marketCap": 880597991424,
-      "pe": 10.74,
-      "eps": 72.46,
+      "pe": 10.47,
+      "eps": 74.33,
       "dividendYield": 0.08,
       "fiftyTwoWeekHigh": 1255.0,
       "fiftyTwoWeekLow": 192.59
@@ -432,8 +426,8 @@
       "price": 885.01,
       "changePercent": -5.59,
       "marketCap": 125927505920,
-      "pe": 7.49,
-      "eps": 118.12,
+      "pe": 7.07,
+      "eps": 125.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 2354.39,
       "fiftyTwoWeekLow": 183.0
@@ -444,8 +438,8 @@
       "price": 98.45,
       "changePercent": -1.1,
       "marketCap": 19010076672,
-      "pe": 20.3,
-      "eps": 4.85,
+      "pe": 20.09,
+      "eps": 4.9,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 263.5,
       "fiftyTwoWeekLow": 89.28
@@ -457,7 +451,7 @@
       "changePercent": -3.96,
       "marketCap": 41407975424,
       "pe": 859.6,
-      "eps": -0.36,
+      "eps": -0.37,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyTwoWeekLow": 37.57
@@ -469,7 +463,7 @@
       "changePercent": -5.51,
       "marketCap": 12717574144,
       "pe": -20.88,
-      "eps": -2.0,
+      "eps": -2.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 133.86,
       "fiftyTwoWeekLow": 27.58
@@ -491,9 +485,9 @@
       "name": "Nebius Group N.V.",
       "price": 115.88,
       "changePercent": -9.92,
-      "marketCap": 29421721600,
-      "pe": -40.19,
-      "eps": -0.23,
+      "marketCap": 33941528576,
+      "pe": 90.53,
+      "eps": 1.28,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 299.86,
       "fiftyTwoWeekLow": 73.52
