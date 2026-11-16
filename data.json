@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T05:34:34.736407+00:00",
+  "updatedAt": "2026-11-16T05:33:47.647226+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -122,7 +122,7 @@
       "price": 25.11,
       "changePercent": 2.57,
       "marketCap": 29725945856,
-      "pe": 12.26,
+      "pe": 12.27,
       "eps": -2.93,
       "dividendYield": 6.37,
       "fiftyTwoWeekHigh": 28.09,
@@ -323,27 +323,27 @@
   ],
   "news": [
     {
-      "title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns - Eurasia Business News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUZ4dk5ZRTJ4TGJBWUdaUHltUWNhWE9IdjYwMi1lQU5pU0w4c2F4aEhsVXI1M2RIUUNiT25hbkpYRk1YRnlqQTZ3OEJHQ0UweTZiaU5vcnBqWWZiajJXcV84Sl85U0k5NWpWbXpKTTVRRnF3NGJ0UGlSSGhNYUZ0T2JRR00ycWIzTmEyVEFnQjFMTmJkb0NoSDUzd2lIOTZIQjh2ek1JMU1UNi1mTTFmQktvdGw3QTRlSGQ2X2dIdWpNVVBBRk9QXzhmS2ZUQQ?oc=5",
-      "published": "Thu, 12 Nov 2026 23:34:26 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
       "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "US Stock Market Weekly Wrap: Dow, S&P 500, Nasdaq Rise - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3RvWWxLd0oyWkN2aVBFYThtVFY0M0p5UjdlS0NGNElrWW5zbWtQNWF1UnpYNUIxVV9XcnZYcndaQVdSczlZeWJZMDBJUjFYUWJLTjRXdVdKNVlXQTFKanI1Z2ZEUXRPTDd4SmtKcEZCNzBTOERaZEdFN2EzdTV3alFYZE80eWo0R3R1MXNtRUE5RDVDNnQ3Q0NXeHdLY1dFdXVkMDZPaW1LOHF3a3MzZmpsbU9fTFBWTVUxNXIydnE5b0FnQTJsM2EteE4wZw?oc=5",
-      "published": "Sat, 14 Nov 2026 03:02:18 GMT",
+      "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
+      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nvidia Stock Falls Below $165 After Its CEO Resigns: Is It a Bargain Buy? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenJRUDJwOENPWU80dGxWN2JyOVhSZkVyVmVIT0tETGUxamdnUENsRGJMWFRFSWdxelZoY3FIS2oyWUtUTDh0SU9hbjN2ZzJSNWdfRTl3X1JoMWJZQS1KM2RvcGRDLWxRV2Nnak96SnpTSmtZb0pxSE5ib3JJU2pTNFkzMlFlQW9TQ1VzN2FWS3IxZUs4OVJSbA?oc=5",
-      "published": "Sat, 14 Nov 2026 14:01:02 GMT",
+      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Nvidia Stock Is Still a Buy After CEO Jensen Huang’s Departure - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbHVXbEZWNnBkNlRaU1A5QWdvS3pNV1lWdF9yRkU2UVNpUUpLWlNEY0JhX1ZJLWYtMjFXZXlmeWgxV09DRUdRZ19HbEhrSlBVZ1ZzWVVVSkl3bFN2azlEM0VQMloydHY4MERiYTJzWU9qNlVGczlkcUhJRQ?oc=5",
+      "published": "Fri, 13 Nov 2026 13:29:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -353,9 +353,9 @@
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5",
-      "published": "Fri, 13 Nov 2026 16:14:39 GMT",
+      "title": "Nvidia's Ousted CEO Said a 1-Gigawatt Data Center Delay Costs $10 Billion a Quarter. Here's Why That Matters for Power Stocks. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWl6b2pYWE9JeUVLZm9CdVJKMG5tZVpVczRqb3cySk5NcjVVZFlMNFBZcnMycmYyZlZIcFk5a3pfdS1BaWthZ0hpaFVMOWxlbmpfOWxWV3YtSXVnV2pFR1RwN25hNlJxZzlGTWsxVExXTGI0cXZuOTRPQXVLNUVwdHVUa0tySVozLVhHVEtzcWw2MzNEWUE?oc=5",
+      "published": "Sat, 14 Nov 2026 23:45:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -365,15 +365,15 @@
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
-      "title": "Famous Investors Face a Nov. 16 Holdings Deadline While Recent Filings Fill In the Gap - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNm1HZzFYejMyS0MtQjBmYjFPbjl6U2FWamRPdkoyNXpmbXYxUlZVZ29aNXRXZFU5MkN2MTJqaUxIRE5hSkRkQVNNT1FUNVA5MEZvMlBrckdGMkUwRVVWV0NCTW1IMUd6Zk1vX1Z4VENXdi1Ca05lSkN0THh4R3A2c3ItSHdyUVAtVUZBY05OQU1zVkZYOHlKbXJxUmVCMl9DV18wZ1c4QUhpdGpCUURzdUFJZ3lQazhrdG95UnZNbC1HNDUxWm1IN2J6bkc0S3F6bGNDS2tUZDNGcWJhdk9B?oc=5",
-      "published": "Wed, 11 Nov 2026 13:37:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
       "title": "These Were the Biggest Changes in Berkshire Hathaway's Holdings for Q2 - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlE5UE9oeE9fSC12MVFXczkzR3RhWFhzU2FVc1lOaEJfaWxCTjlkZlN4TUdZN19pRnllTnJaNDV0bjk3QXJNWEVNVmxJWmtFelYybUJIanQtLVlXcFNlWDlCUTZNdkRCOFRiYzhEa1RtZGRKMzZYbUZQRFcxaVprSWNPdlJpRUNNT0xQdW15cGItZ3RSV3ZtNDJ1bHozdWxwcDhwaUpIWDFfY2U0d3RpSDlzSQ?oc=5",
       "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "query": "Berkshire Hathaway 13F holdings"
+    },
+    {
+      "title": "Warren Buffett's Top Second Quarter 2026 Move: Alphabet Inc at a 2.93% Portfolio Impact - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWhvcEJ1YUJnNzZLdldlT0tSSHhmWGVWU3pERDRDdFhkZWh6OGNtU3RaeGd3a0VhNXBBRzdHM3Bza3puOVZmTDZ5OXlDREJpdVpJV3piSzl0SmlNRDBLMXoxQUpaWE1uVDBZZkZUZWE3dXBjVWs5SDBza1dzc0RidEZsdWctUVNMZVFKdWYyV1R0MFkxZ0t0ZHNDREdWY2ZZ?oc=5",
+      "published": "Fri, 14 Aug 2026 07:00:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
@@ -383,9 +383,9 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "Posthaste: Why it might be time to pile back into Canadian stocks - Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVdmUFJTeUsySURDR0xyMTBUQVBfSkVSRFQzZERLSE9WSXFLUzgxUUxXOGtjZzNuM2hVMVl4b29IczNtOGxJVi1uN1dNU18wWjFfZlE1UG9ZclVOUmJJa1M0dzBmVm9GRVBSYlJYS1pSTkNYOGhtdHQtX2NYWTVxMA?oc=5",
-      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "title": "With Canadian stocks near all-time highs, Harvest ETFs pushes new 'put and call' funds - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2p0aWg5X3hDQjRTMVZ0MVdFNTBOWXlBcGZjQ0hLTXdHU1FmV2M3bW5TT3RNNVQ4VVc1MUhpUFlpTVg4V1dQeVB0MlVJbkJZeUdnS3dmb0pKOFBxX0xsbERPUl9vVW82MkpncjN0cWRCRlhUeks2WHAteE02MWlIbGlHNmk3SlBlcW1ac1FzQmFDWjNuNlBVNzZtM2traVNCeE8tSjgzb1U2VUYyVTB6Ui1VNm9rejh2U1ZiRzQ4YWxDQ21IR001OHBOUTc?oc=5",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
@@ -393,6 +393,12 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXQ3UE02YWxIaUozdEVqWjJrdXNzYjN4d0pzb05tT3FKb1lqRUJZTjJzRUVPeGtyNER1dVRDRy1kcVlMVmZVYWtLSG9GY0JjOHVaS2xDOUdvMWgtN25VRlUxR0NHV1J5b09rX0xsZjVfM0QyZ3hSV2loaXREYjhVa1BremR2eUl1cl9fbkFJSTJyZGk3Nkh2WV9xS0I?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
+    },
+    {
+      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWRFS19RemtZaFlZN3dHYkJfX0toaFl5LTM5TEFsLUItQ2NhakY4TzE3VnNqRlVteF81RVV6a2drVXNlMkRxd3RVV0FKdkRRekFNVU9BeFc3ak1sdWlwaFlHcWpZLTBzMnhrMkZYd0hBZktqYV9JUkI5OHgwRzRWcXdsT3h5dWJQVjAyRGZzT3hJYjR0RjA4?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
       "title": "NBIS, SMCI, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
