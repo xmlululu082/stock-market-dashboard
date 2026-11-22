@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:15:52.138815+00:00",
+  "updatedAt": "2026-11-22T05:48:55.500245+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -14,9 +14,9 @@
       "price": 342.56,
       "changePercent": -1.9,
       "marketCap": 4978144444416,
-      "pe": 38.88,
-      "eps": 8.81,
-      "dividendYield": 0.31,
+      "pe": 38.15,
+      "eps": 8.98,
+      "dividendYield": 0.32,
       "fiftyTwoWeekHigh": 360.83,
       "fiftyTwoWeekLow": 243.42
     },
@@ -28,7 +28,7 @@
       "marketCap": 202305552384,
       "pe": 17.0,
       "eps": 17.75,
-      "dividendYield": 1.22,
+      "dividendYield": 1.26,
       "fiftyTwoWeekHigh": 387.49,
       "fiftyTwoWeekLow": 290.97
     },
@@ -40,7 +40,7 @@
       "marketCap": 417241497600,
       "pe": 28.61,
       "eps": 3.39,
-      "dividendYield": 2.21,
+      "dividendYield": 2.19,
       "fiftyTwoWeekHigh": 100.56,
       "fiftyTwoWeekLow": 67.27
     },
@@ -50,9 +50,9 @@
       "price": 47.04,
       "changePercent": -3.15,
       "marketCap": 324585848832,
-      "pe": 11.59,
-      "eps": 4.06,
-      "dividendYield": 2.64,
+      "pe": 11.23,
+      "eps": 4.19,
+      "dividendYield": 2.72,
       "fiftyTwoWeekHigh": 65.23,
       "fiftyTwoWeekLow": 46.12
     },
@@ -64,7 +64,7 @@
       "marketCap": 406582722560,
       "pe": 15.3,
       "eps": 13.62,
-      "dividendYield": 3.45,
+      "dividendYield": 3.42,
       "fiftyTwoWeekHigh": 236.48,
       "fiftyTwoWeekLow": 146.49
     },
@@ -74,8 +74,8 @@
       "price": 53.9,
       "changePercent": 0.17,
       "marketCap": 53894328320,
-      "pe": 11.98,
-      "eps": 4.5,
+      "pe": 12.0,
+      "eps": 4.49,
       "dividendYield": 2.08,
       "fiftyTwoWeekHigh": 67.45,
       "fiftyTwoWeekLow": 38.8
@@ -88,7 +88,7 @@
       "marketCap": 3261475323904,
       "pe": 13.85,
       "eps": 19.15,
-      "dividendYield": 0.32,
+      "dividendYield": 0.33,
       "fiftyTwoWeekHigh": 408.61,
       "fiftyTwoWeekLow": 264.22
     },
@@ -112,7 +112,7 @@
       "marketCap": 80492732416,
       "pe": 28.48,
       "eps": 16.39,
-      "dividendYield": 0.87,
+      "dividendYield": 0.88,
       "fiftyTwoWeekHigh": 546.88,
       "fiftyTwoWeekLow": 402.28
     },
@@ -124,7 +124,7 @@
       "marketCap": 30057416704,
       "pe": 12.41,
       "eps": -2.93,
-      "dividendYield": 6.42,
+      "dividendYield": 6.3,
       "fiftyTwoWeekHigh": 28.09,
       "fiftyTwoWeekLow": 21.04
     },
@@ -134,9 +134,9 @@
       "price": 125.53,
       "changePercent": -14.01,
       "marketCap": 3031172907008,
-      "pe": 15.67,
-      "eps": 8.01,
-      "dividendYield": 0.69,
+      "pe": 13.48,
+      "eps": 9.31,
+      "dividendYield": 0.8,
       "fiftyTwoWeekHigh": 243.37,
       "fiftyTwoWeekLow": 124.5
     },
@@ -148,7 +148,7 @@
       "marketCap": 3598139523072,
       "pe": 25.29,
       "eps": 19.16,
-      "dividendYield": 0.79,
+      "dividendYield": 0.81,
       "fiftyTwoWeekHigh": 559.15,
       "fiftyTwoWeekLow": 349.2
     },
@@ -158,9 +158,9 @@
       "price": 310.53,
       "changePercent": -3.03,
       "marketCap": 824646434816,
-      "pe": 13.43,
-      "eps": 23.12,
-      "dividendYield": 2.06,
+      "pe": 13.03,
+      "eps": 23.84,
+      "dividendYield": 2.13,
       "fiftyTwoWeekHigh": 366.5,
       "fiftyTwoWeekLow": 279.1
     },
@@ -172,7 +172,7 @@
       "marketCap": 83475374080,
       "pe": 19.08,
       "eps": 12.44,
-      "dividendYield": 0.68,
+      "dividendYield": 0.72,
       "fiftyTwoWeekHigh": 380.78,
       "fiftyTwoWeekLow": 228.63
     },
@@ -182,8 +182,8 @@
       "price": 177.09,
       "changePercent": -6.47,
       "marketCap": 227830169600,
-      "pe": 73.18,
-      "eps": 2.42,
+      "pe": 78.36,
+      "eps": 2.26,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 255.95,
       "fiftyTwoWeekLow": 129.01
@@ -196,9 +196,9 @@
       "marketCap": 364174245888,
       "pe": 16.59,
       "eps": 15.86,
-      "dividendYield": 2.61,
+      "dividendYield": 2.68,
       "fiftyTwoWeekHigh": 306.38,
-      "fiftyTwoWeekLow": 208.24
+      "fiftyTwoWeekLow": 210.36
     },
     {
       "ticker": "CCO.TO",
@@ -206,9 +206,9 @@
       "price": 83.11,
       "changePercent": -5.72,
       "marketCap": 36197146624,
-      "pe": 85.68,
-      "eps": 0.97,
-      "dividendYield": 0.27,
+      "pe": 91.33,
+      "eps": 0.91,
+      "dividendYield": 0.29,
       "fiftyTwoWeekHigh": 182.72,
       "fiftyTwoWeekLow": 83.06
     },
@@ -218,9 +218,9 @@
       "price": 65.54,
       "changePercent": -0.68,
       "marketCap": 146081333248,
-      "pe": 22.6,
-      "eps": 2.9,
-      "dividendYield": 5.88,
+      "pe": 22.76,
+      "eps": 2.88,
+      "dividendYield": 5.92,
       "fiftyTwoWeekHigh": 80.65,
       "fiftyTwoWeekLow": 62.42
     },
@@ -232,7 +232,7 @@
       "marketCap": 120400789504,
       "pe": 38.91,
       "eps": 1.39,
-      "dividendYield": 0.72,
+      "dividendYield": 0.74,
       "fiftyTwoWeekHigh": 68.44,
       "fiftyTwoWeekLow": 50.76
     },
@@ -242,11 +242,11 @@
       "price": 594.51,
       "changePercent": -13.89,
       "marketCap": 672642433024,
-      "pe": 9.29,
-      "eps": 64.0,
-      "dividendYield": 0.09,
+      "pe": 8.0,
+      "eps": 74.33,
+      "dividendYield": 0.1,
       "fiftyTwoWeekHigh": 1255.0,
-      "fiftyTwoWeekLow": 192.59
+      "fiftyTwoWeekLow": 212.36
     },
     {
       "ticker": "SNDK",
@@ -254,11 +254,11 @@
       "price": 79.24,
       "changePercent": -16.05,
       "marketCap": 90200072192,
-      "pe": 6.04,
-      "eps": 13.13,
+      "pe": 0.09,
+      "eps": 923.7,
       "dividendYield": 0.0,
-      "fiftyTwoWeekHigh": 2354.39,
-      "fiftyTwoWeekLow": 78.25
+      "fiftyTwoWeekHigh": 294.3,
+      "fiftyTwoWeekLow": 23.46
     },
     {
       "ticker": "RDDT",
@@ -282,7 +282,7 @@
       "eps": -0.37,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
-      "fiftyTwoWeekLow": 37.57
+      "fiftyTwoWeekLow": 39.3
     },
     {
       "ticker": "ASTS",
@@ -341,22 +341,28 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-      "published": "Fri, 20 Nov 2026 21:37:28 GMT",
+      "title": "Nvidia Shock Puts MongoDB Stock And Cloud Software Names Back In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdG5uWE5Fa3VWMm5XZ3RKZHBWVTVOSjljaTQ2RjloSGJla2V6NmdQMVpsSzFHRmlFNlk1RDhTYjdFMVc4UTVsa3VSX2lPLVRSVFF1WUVkUms2N1MwZkRWLVNxQm42WndvdnNUSWhEUUxXRFJWQkREZzZ0ZFJMYlFPVC1LOWJFelNWNmNraEl0ampFdndxRGp6WXVYTQ?oc=5",
+      "published": "Sun, 22 Nov 2026 05:15:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "'Big Short' Michael Burry says he 'tried to warn' about Nvidia, CoreWeave, Nebius stocks - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkZVMDlacnZFTUdQWmc0dGpKNUl5UFpTdjBPM1ZXdWFsN1RNazJabnpwYnk3WE9fM3Vrb1dSdFF2QkIwSzZPdGRJaW9TOFhKUzFQZml6UU4zSlAwXy1aMW5VTlZhN1RMdjJsNWdXR2VmSTdpRjh4enRBUHl3Rjc1N0c2UWxiTVVzcTRhWXdLRTFvd1c3M2hqOUJ0Z25WU3BvTndDTQ?oc=5",
-      "published": "Fri, 20 Nov 2026 14:59:00 GMT",
+      "title": "Kevin O’Leary Says ‘The Bank of NVIDIA Is Closed’ as AI Data Center Boom Faces Scrutiny - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQXy0yWDlCVlVHckdscDRZd1VobE9GUml3RXhFSGlsQ0JvRXNMM0o3NG0yc1VENGF6UXVKN1Jma25KSk5acVhPV1IxUzJINFhLalJxYW5pWU5NZEJWSTV2YXJHa200MzVCYXFBTk9mQkNKNnBfb3NjNmQ3VmRjTkR6dzlvS254d2RNeUVnV19WUVFnM0h2N1ZWZEpNZlZWd2ZUODgyTlg5S29uNnNvNFlIUFBXakM2Sy1leWhqeFBfeEliUWl2Umpfc2hZSFJJSlVPTUdN?oc=5",
+      "published": "Sun, 22 Nov 2026 03:28:19 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Nvidia Stock: 5 Reasons the AI Trade Has Only Begun - I/O Fund",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1NLaWJHLWN3X1FGazdDLUliSW9zUVZwa2l4RV96bDJYLUNxYVZwQ2FGX00zaG00aHBqb3cyaHpZd0Y2Nld5UnoxbnBtQ21Xcm9tVEdta0N5OUZuZ0dPTGN4X2VaU3MyNkh0SjE4bWJQWHNwMURQWGhsMDhDNmZUdVJB?oc=5",
-      "published": "Fri, 20 Nov 2026 15:37:07 GMT",
+      "title": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
+      "published": "Sat, 21 Nov 2026 10:00:00 GMT",
       "query": "Nvidia AI data center stock"
+    },
+    {
+      "title": "Warren Buffett’s Top 10 Stock Picks: Latest 13F - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlZnQ3VMc05oamVKNEVyYzVoek5QUUNHODlJVjc2ekRvNk9ZZUdZYzNlMlZ3b2sxTERNRzlnLWVfUzhYQ0Y5Y2lCLWtYS3BFVmw5Tk5Nb3prQnhoVEJwbnJHOXc1N2FfNHIzZFNiTW53cldhRW1hdHRMdmtsekNlOVI1VUF5LTZjb043TC1jX2lWbHVvLUpZ?oc=5",
+      "published": "Sat, 21 Nov 2026 16:13:30 GMT",
+      "query": "Berkshire Hathaway 13F holdings"
     },
     {
       "title": "Berkshire Hathaway 13F: Sales Outweighed Purchases; Swapping Bank of America Stock for Lennar - Morningstar",
@@ -368,12 +374,6 @@
       "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmtSdzA4SVl6UlZEclpaQVd2b2NSaXRLQWZDTzVIQ3dRYnU2elJoVEtmbFhWb0tMbVZiSVVnMHVSWHdRS3V2VW5uYmY3cnFWU1FHbmo1aF85QzFVY0VCVnRRcXZLSHFGNGlfWExtRlJpRU5idDgxMGlKWWlQdVhwZmkyZFVtVnNsTHc2SzVoXzR1R2xLXzVfMFJ1RnJCU2RJZDJj?oc=5",
       "published": "Tue, 17 Nov 2026 21:11:00 GMT",
-      "query": "Berkshire Hathaway 13F holdings"
-    },
-    {
-      "title": "Warren Buffett’s Berkshire Just Revealed a New $689 Million Stock. The Company’s IPO Was Less Than Five Months Ago - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNy1zREdTaHR2aVMxWXgxR2FsSi12Si1xOVhPdFg2RC1TbnpBYllacHdsOTRyb1V0M2RHaHduc2pFWTh6UWJjVU5WclNHU2pad3hvaS1FU09tZEoxYk9wT2YzRGp2ekRQLV9wUkVHS0RKSmdyVGNDMmVvLWM4SUoxM256WEJkeGdiNUpFM0QxekRSTXN3M08xZE02TndHeVFxajg0ZF9n?oc=5",
-      "published": "Mon, 16 Nov 2026 23:17:00 GMT",
       "query": "Berkshire Hathaway 13F holdings"
     },
     {
@@ -401,15 +401,15 @@
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "TSLA, MU, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week (CORRECTED) - Tesla (NA - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEFZQkJBUmRGZTlSWGFjY3FHYjFiNVEtTE55LXJpYl91SmZOTlFpVE5IXzFLaVBsWWRuTXFTWC1SVUlpNk0yZHJYVEFDNGstVFlFMnd2YmtLeWo5MEU3cGxQcEFjZEpxVVB2YVdneV9YSEdnZVl0QzJFMkhDbVZHVTJ0TDZBVm10blV0NUtEX1VZQkhpSlJKUjNLRTF3c3lJNFVib3otTHdJMnpZSTE1OHdLTFAtWG9vZ3RINDJyUGtYQ3FyX0JTTWF0c1BhNmc?oc=5",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
-    },
-    {
       "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkRjUTJDUTlTNGZfUVJQWUwyX1VfR1c5SXlSeWRSZVUtVXZoSElGVlNQSzhnWllLSGNQMF9pM0g2ZVB6TzB3MnJKaDlLSUU3Ql9nem5nVTk4V0hGanNsV0lPRzB3SXYwRHhMZGJxeG5PQzAtQk9QNzdLdVZ6VDRaUS1lRzVmQ2xIQVhMejE0Vk80dHhwSElqSU5wOHVpM2RNenJ4RnJ0SVdqUUo0cjNHdmJQQ1VLS3o4OEplM051Sy1BV2ZzQUhmRDFob1pLUkxfX1E?oc=5",
       "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
+    },
+    {
+      "title": "Reddit Vs. Chewy: The Better Buy Stock In 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTlBVE1EbHZvcUdkcklVWFJOQjB6SVFrOG9nbTJ5dmQ4SDZUTWRMaDd2UXdvS01MVjU4RXkwMm9HV3hoMVNTdlNmM1plU1NtQl9ZeDgwM2hvMWxxdGl2Z3prTkR5Rl9Qci1TaV91ZHVTTWFxU01jRlhuN0JOTlRISVc5dWxCYl9sMHk3RWVoemFPbV9ONEE?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -420,11 +420,11 @@
       "price": 594.51,
       "changePercent": -13.89,
       "marketCap": 672642433024,
-      "pe": 9.29,
-      "eps": 64.0,
-      "dividendYield": 0.09,
+      "pe": 8.0,
+      "eps": 74.33,
+      "dividendYield": 0.1,
       "fiftyTwoWeekHigh": 1255.0,
-      "fiftyTwoWeekLow": 192.59
+      "fiftyTwoWeekLow": 212.36
     },
     {
       "ticker": "SNDK",
@@ -432,11 +432,11 @@
       "price": 79.24,
       "changePercent": -16.05,
       "marketCap": 90200072192,
-      "pe": 6.04,
-      "eps": 13.13,
+      "pe": 0.09,
+      "eps": 923.7,
       "dividendYield": 0.0,
-      "fiftyTwoWeekHigh": 2354.39,
-      "fiftyTwoWeekLow": 78.25
+      "fiftyTwoWeekHigh": 294.3,
+      "fiftyTwoWeekLow": 23.46
     },
     {
       "ticker": "RDDT",
@@ -460,7 +460,7 @@
       "eps": -0.37,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 151.0,
-      "fiftyTwoWeekLow": 37.57
+      "fiftyTwoWeekLow": 39.3
     },
     {
       "ticker": "ASTS",
