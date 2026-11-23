@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T05:48:55.500245+00:00",
+  "updatedAt": "2026-11-23T06:35:30.055058+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -290,7 +290,7 @@
       "price": 23.27,
       "changePercent": -8.92,
       "marketCap": 9324940288,
-      "pe": -14.9,
+      "pe": -17.06,
       "eps": -2.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 133.86,
@@ -323,12 +323,6 @@
   ],
   "news": [
     {
-      "title": "New York Stock Market Reverses Gains Amid Rising Oil Prices, Yields - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOERXeXhJbE9ObmRsbC1jS1RiYndpRWFXV1ZLdEE3ekpOREFKbjhoczZGSmZCSHpOSmlJb1VIYnlXbG1Fa08wTUJhbmRXQXRzcmlLOHVvd0NPQlRwRmMxZGFpMEo1VFFod0g3SDlEaTBPeTVOUEpwZVU0U1ZpS2h3RHB1LVdpZUp1M1NDQmZn?oc=5",
-      "published": "Thu, 19 Nov 2026 16:04:57 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
       "title": "Wall Street ends lower, off record highs, as Treasury yields climb - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
       "published": "Wed, 07 Oct 2026 07:00:00 GMT",
@@ -341,15 +335,21 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nvidia Shock Puts MongoDB Stock And Cloud Software Names Back In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdG5uWE5Fa3VWMm5XZ3RKZHBWVTVOSjljaTQ2RjloSGJla2V6NmdQMVpsSzFHRmlFNlk1RDhTYjdFMVc4UTVsa3VSX2lPLVRSVFF1WUVkUms2N1MwZkRWLVNxQm42WndvdnNUSWhEUUxXRFJWQkREZzZ0ZFJMYlFPVC1LOWJFelNWNmNraEl0ampFdndxRGp6WXVYTQ?oc=5",
-      "published": "Sun, 22 Nov 2026 05:15:00 GMT",
+      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPLVJtM3dNOTdxTG5veFFBQ0MzT1dDQ1FVQWtITEkxdnRYTWZEc2taX0ttUXBsQXVPZjFSMmxnSnlwa3QwZnBPdUpVZVZpSHRaUEpMbl9xWXZJanJrWXNORU1RMGxSTmNGeDROMkl1bXpJTnpod2J3bDYtc20tNXp1ZXVBWTluS05feGt0ZkxGYUdIRmdPNDYyY3Jya2pmQVBUcHJXTzFpQ2o2WkVxOWh6WjNReVFiX0NLWkZLbENOYnlMZHlIWm55ZjJTZXVZaU5UeFU0ajdOLUdoS045clhic1ZRZ0t6Z1RQYmFSYkk4M2JMakFLbDBnTk1YMWJrM3NEVE5fSDdn?oc=5",
+      "published": "Mon, 23 Nov 2026 06:00:02 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Kevin O’Leary Says ‘The Bank of NVIDIA Is Closed’ as AI Data Center Boom Faces Scrutiny - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQXy0yWDlCVlVHckdscDRZd1VobE9GUml3RXhFSGlsQ0JvRXNMM0o3NG0yc1VENGF6UXVKN1Jma25KSk5acVhPV1IxUzJINFhLalJxYW5pWU5NZEJWSTV2YXJHa200MzVCYXFBTk9mQkNKNnBfb3NjNmQ3VmRjTkR6dzlvS254d2RNeUVnV19WUVFnM0h2N1ZWZEpNZlZWd2ZUODgyTlg5S29uNnNvNFlIUFBXakM2Sy1leWhqeFBfeEliUWl2Umpfc2hZSFJJSlVPTUdN?oc=5",
-      "published": "Sun, 22 Nov 2026 03:28:19 GMT",
+      "title": "Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNblRabUlOYUo5djh3eVFTSVJwMllIdG1WY1BfcnN1V183dTM1Vld4V09wLTdDemhSYzhxd1JEdEluOU1mMjhsc0pNekVNNWFobjJPYUd1LVNOeXVxakVRcjZIaWRIWE12b1doQ3NNVi0yd3NHU3hGTFU5N2dQaHJBQ0ZEOVdOZjluLUluYXVnaDhoVHVvMTMxZzBkSkRkYnpMNTF6dFN0MTFfaHFmUjVuSkxOWmw0eHVTS0NVazV4clY?oc=5",
+      "published": "Mon, 23 Nov 2026 03:00:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -401,15 +401,15 @@
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkRjUTJDUTlTNGZfUVJQWUwyX1VfR1c5SXlSeWRSZVUtVXZoSElGVlNQSzhnWllLSGNQMF9pM0g2ZVB6TzB3MnJKaDlLSUU3Ql9nem5nVTk4V0hGanNsV0lPRzB3SXYwRHhMZGJxeG5PQzAtQk9QNzdLdVZ6VDRaUS1lRzVmQ2xIQVhMejE0Vk80dHhwSElqSU5wOHVpM2RNenJ4RnJ0SVdqUUo0cjNHdmJQQ1VLS3o4OEplM051Sy1BV2ZzQUhmRDFob1pLUkxfX1E?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "title": "GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks – AI Called 'Single Most Impactful Swing Factor' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWRFS19RemtZaFlZN3dHYkJfX0toaFl5LTM5TEFsLUItQ2NhakY4TzE3VnNqRlVteF81RVV6a2drVXNlMkRxd3RVV0FKdkRRekFNVU9BeFc3ak1sdWlwaFlHcWpZLTBzMnhrMkZYd0hBZktqYV9JUkI5OHgwRzRWcXdsT3h5dWJQVjAyRGZzT3hJYjR0RjA4?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "Reddit Vs. Chewy: The Better Buy Stock In 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTlBVE1EbHZvcUdkcklVWFJOQjB6SVFrOG9nbTJ5dmQ4SDZUTWRMaDd2UXdvS01MVjU4RXkwMm9HV3hoMVNTdlNmM1plU1NtQl9ZeDgwM2hvMWxxdGl2Z3prTkR5Rl9Qci1TaV91ZHVTTWFxU01jRlhuN0JOTlRISVc5dWxCYl9sMHk3RWVoemFPbV9ONEE?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "title": "These Are 5 of Buzziest Stocks on Reddit: Here’s the Best and Worst of the Bunch - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ09jbldZY0dOdVJIX3JKMzlOVS1tZTEwN3pMemRjcHd4MFctcUZTZ3JPVVFVa3ZsNnpxUGthNW9pZDhldlJjRnJ6cVd4Rm92SEdjc09KWXdJd0NTNWVrazZQck1NTTZjMVJMODFCOUhXMFo1eWw2dGdRZzBfVUNHTkV1bFc?oc=5",
+      "published": "Tue, 26 Aug 2025 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -468,7 +468,7 @@
       "price": 23.27,
       "changePercent": -8.92,
       "marketCap": 9324940288,
-      "pe": -14.9,
+      "pe": -17.06,
       "eps": -2.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 133.86,
