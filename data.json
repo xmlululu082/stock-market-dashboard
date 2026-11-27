@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:31:39.689563+00:00",
+  "updatedAt": "2026-11-27T07:28:52.862687+00:00",
   "marketPulse": [
     {
       "label": "自动行情",
@@ -179,11 +179,11 @@
     {
       "ticker": "SHOP.TO",
       "name": "SHOPIFY INC",
-      "price": 189.67,
-      "changePercent": 0.43,
-      "marketCap": 244014628864,
-      "pe": 84.3,
-      "eps": 2.25,
+      "price": 193.49,
+      "changePercent": 2.01,
+      "marketCap": 248929140736,
+      "pe": 87.16,
+      "eps": 2.22,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 255.95,
       "fiftyTwoWeekLow": 129.01
@@ -191,23 +191,23 @@
     {
       "ticker": "RY.TO",
       "name": "ROYAL BANK OF CANADA",
-      "price": 269.26,
-      "changePercent": -0.14,
-      "marketCap": 372771586048,
-      "pe": 16.98,
+      "price": 268.66,
+      "changePercent": -0.22,
+      "marketCap": 371940917248,
+      "pe": 16.94,
       "eps": 15.86,
-      "dividendYield": 2.61,
+      "dividendYield": 2.62,
       "fiftyTwoWeekHigh": 306.38,
       "fiftyTwoWeekLow": 213.31
     },
     {
       "ticker": "CCO.TO",
       "name": "CAMECO CORP",
-      "price": 87.43,
-      "changePercent": 2.55,
-      "marketCap": 38078648320,
-      "pe": 98.24,
-      "eps": 0.89,
+      "price": 88.74,
+      "changePercent": 1.5,
+      "marketCap": 38649196544,
+      "pe": 98.6,
+      "eps": 0.9,
       "dividendYield": 0.27,
       "fiftyTwoWeekHigh": 182.72,
       "fiftyTwoWeekLow": 80.83
@@ -215,24 +215,24 @@
     {
       "ticker": "ENB.TO",
       "name": "ENBRIDGE INC",
-      "price": 66.68,
-      "changePercent": 1.17,
-      "marketCap": 148622262272,
-      "pe": 23.4,
-      "eps": 2.85,
-      "dividendYield": 5.82,
+      "price": 66.6,
+      "changePercent": -0.12,
+      "marketCap": 148443938816,
+      "pe": 23.12,
+      "eps": 2.88,
+      "dividendYield": 5.83,
       "fiftyTwoWeekHigh": 80.65,
       "fiftyTwoWeekLow": 62.42
     },
     {
       "ticker": "BN.TO",
       "name": "BROOKFIELD CORPORATION",
-      "price": 57.15,
-      "changePercent": 1.51,
-      "marketCap": 127212150784,
-      "pe": 41.12,
+      "price": 57.56,
+      "changePercent": 0.72,
+      "marketCap": 128124780544,
+      "pe": 41.41,
       "eps": 1.39,
-      "dividendYield": 0.7,
+      "dividendYield": 0.69,
       "fiftyTwoWeekHigh": 68.44,
       "fiftyTwoWeekLow": 50.76
     },
@@ -241,7 +241,7 @@
       "name": "Micron Technology, Inc.",
       "price": 601.25,
       "changePercent": -4.57,
-      "marketCap": 680268201984,
+      "marketCap": 682379247616,
       "pe": 8.09,
       "eps": 74.33,
       "dividendYield": 0.1,
@@ -290,7 +290,7 @@
       "price": 26.02,
       "changePercent": 10.25,
       "marketCap": 10426942464,
-      "pe": -16.67,
+      "pe": -19.07,
       "eps": -2.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 133.86,
@@ -329,16 +329,22 @@
       "query": "US stock market today Nasdaq Treasury yields oil"
     },
     {
-      "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "query": "US stock market today Nasdaq Treasury yields oil"
-    },
-    {
       "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0p5VWxQQ0ZmUUI0Vk5wRUVjTUJhZjZGUlZjU2tWU1AtOEdqYjZ0OFRtRXNrUVdrTFlNZjVWdzluRjUyaWhHTlYxMG5Yc21pMHFubTdiX1RIRTRUSnB4UTZPckRMZTlzTHBEbkZKU1ROMTZpWE9lMXhPQkhyQmhBV3JNdkFrQVk?oc=5",
       "published": "Tue, 06 Oct 2026 07:00:00 GMT",
       "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "query": "US stock market today Nasdaq Treasury yields oil"
+    },
+    {
+      "title": "This Is When AI’s Circular Deals Bite Back - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazBUcktOb0ZhZW9nOGpPM2FVdEFreHJpWjFCS2JSU1c3WWFxZ2t0VXVOcDV1Z3BzNlJlY2R5a0c5SHBKMHg5cWw3M3k1UGJBcEg0SS16SGdXUWEzLWFjQTBhS2JFSTFnQkJJa2c2UjB6OUVaSjVVWTJiRGhaQjM4dTh5ZHZSemNSZ0R4VklyNUpnNTlhb1hBa0hXT1ZNQm1mOTgtRDIwQy11Y0pzRTkyMktRZnNjbXdjOWE4?oc=5",
+      "published": "Wed, 25 Nov 2026 08:00:00 GMT",
+      "query": "Nvidia AI data center stock"
     },
     {
       "title": "Tech stocks are volatile as AI fears overshadow Huang’s Nvidia return - CNN",
@@ -347,15 +353,9 @@
       "query": "Nvidia AI data center stock"
     },
     {
-      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
-      "published": "Wed, 25 Nov 2026 21:32:42 GMT",
-      "query": "Nvidia AI data center stock"
-    },
-    {
-      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56eC1rNEgtamFWQ0kzWWw0bVZObjZqMDdkZE9XOU91aVdST0RtYk91U0EtNEFYWEo0RWFDVklpaTUtZjFVc2FyM2paTk5nMWhDOHFBRkNHOWdVdmpiZTBKVkJoWFlSN1NWTUVPeEhQcm1wbXdveGtrWNIBfkFVX3lxTE9DVkFsbFdUOEk3YmRtWHR2bmJYRXFCbXNpMHZBeHd2X21MRFFBRGxXdXdOT05wRm9ISWhkRzZSVDI4Q0pSWEJ3MlZDTS1saXNpVm8tU3NIVnIzWkRxcWdGZE5SbGdOVEVaZURnNnRIcGRKTERfMllaaW9xQTBxUQ?oc=5",
-      "published": "Wed, 25 Nov 2026 06:29:46 GMT",
+      "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEtfekZpU3YzbUh2eENiaGtONGRtOXVzcC0zWkJlOEJENW1mOGdkUC04VTd1Q0gybTFaNWpiZm5kRHMzel9RVGdXWmlia1prbXBkWnVXbnRoTkV4amJzRXBjMW1tcXNSZTlya2hka0hwQlpqZWpBaU9WdlZhU2VHX1JXcDRJeGZ0MF8ydjJZS0VEWUtwQ1E?oc=5",
+      "published": "Fri, 27 Nov 2026 05:14:00 GMT",
       "query": "Nvidia AI data center stock"
     },
     {
@@ -389,9 +389,9 @@
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
-      "title": "With Canadian stocks near all-time highs, Harvest ETFs pushes new 'put and call' funds - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2p0aWg5X3hDQjRTMVZ0MVdFNTBOWXlBcGZjQ0hLTXdHU1FmV2M3bW5TT3RNNVQ4VVc1MUhpUFlpTVg4V1dQeVB0MlVJbkJZeUdnS3dmb0pKOFBxX0xsbERPUl9vVW82MkpncjN0cWRCRlhUeks2WHAteE02MWlIbGlHNmk3SlBlcW1ac1FzQmFDWjNuNlBVNzZtM2traVNCeE8tSjgzb1U2VUYyVTB6Ui1VNm9rejh2U1ZiRzQ4YWxDQ21IR001OHBOUTc?oc=5",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "title": "Cameco (TSX:CCO) Enters Focus As Energy Stocks Narrative Shifts - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlZYc0FVQUhFa0V1TEt0Mlp4cVQ0N1ExODZ0aWVUYURtT1dKYkJwSTJaOFF1UEZsbklPYkxWWElWT0JTRmFyU0YyTUdFRTVPNTNlVDhnSmxrR0Y3V1gtalB6R0VEWlJSblFyc2xOUk5vRVQwNDBFQm8wbFBNbGRnMjRBRi04RlFHS0k5R2pUYm1lbEN3TTJrWTkwR2w4LVl0S04wdg?oc=5",
+      "published": "Sat, 05 Sep 2026 07:00:00 GMT",
       "query": "Canada TSX banks energy Shopify Cameco"
     },
     {
@@ -407,9 +407,9 @@
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     },
     {
-      "title": "TSLA, MU, CRWV and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week (CORRECTED) - Tesla (NA - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEFZQkJBUmRGZTlSWGFjY3FHYjFiNVEtTE55LXJpYl91SmZOTlFpVE5IXzFLaVBsWWRuTXFTWC1SVUlpNk0yZHJYVEFDNGstVFlFMnd2YmtLeWo5MEU3cGxQcEFjZEpxVVB2YVdneV9YSEdnZVl0QzJFMkhDbVZHVTJ0TDZBVm10blV0NUtEX1VZQkhpSlJKUjNLRTF3c3lJNFVib3otTHdJMnpZSTE1OHdLTFAtWG9vZ3RINDJyUGtYQ3FyX0JTTWF0c1BhNmc?oc=5",
-      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "title": "MRNA, SPCX, MSTR and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkRjUTJDUTlTNGZfUVJQWUwyX1VfR1c5SXlSeWRSZVUtVXZoSElGVlNQSzhnWllLSGNQMF9pM0g2ZVB6TzB3MnJKaDlLSUU3Ql9nem5nVTk4V0hGanNsV0lPRzB3SXYwRHhMZGJxeG5PQzAtQk9QNzdLdVZ6VDRaUS1lRzVmQ2xIQVhMejE0Vk80dHhwSElqSU5wOHVpM2RNenJ4RnJ0SVdqUUo0cjNHdmJQQ1VLS3o4OEplM051Sy1BV2ZzQUhmRDFob1pLUkxfX1E?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
       "query": "Reddit stocks WallStreetBets MU SNDK RDDT"
     }
   ],
@@ -419,7 +419,7 @@
       "name": "Micron Technology, Inc.",
       "price": 601.25,
       "changePercent": -4.57,
-      "marketCap": 680268201984,
+      "marketCap": 682379247616,
       "pe": 8.09,
       "eps": 74.33,
       "dividendYield": 0.1,
@@ -468,7 +468,7 @@
       "price": 26.02,
       "changePercent": 10.25,
       "marketCap": 10426942464,
-      "pe": -16.67,
+      "pe": -19.07,
       "eps": -2.12,
       "dividendYield": 0.0,
       "fiftyTwoWeekHigh": 133.86,
